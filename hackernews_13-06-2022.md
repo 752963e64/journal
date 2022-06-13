@@ -16,9 +16,12 @@ I've Dr. Dobbs's archives since years, and I never took a minute to read them...
 However reading this confirming me that the way I'd craft some video file... 
 
 Would have been the good way... :D
+
+Concatenated chunks of datas and channel abstraction eZ, By the way I've no academic background :D
+
 ```
 
-# HN answers... "You're posting too fast. Please slow down. Thanks."
+## HN answers... "You're posting too fast. Please slow down. Thanks."
 
 Makes me laugh out loud... A total shame in website handling/engineering :D
 
