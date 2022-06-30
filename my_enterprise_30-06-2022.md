@@ -5,4 +5,4 @@ Car ça ne vient pas seul... Il faut savoir se mettre en avant.
 
 punching cards, ooff!
 
-written by 752963e64 the 17/06/2022 d/m/y - my 0 cent journal...
+written by 752963e64 the 30/06/2022 d/m/y
