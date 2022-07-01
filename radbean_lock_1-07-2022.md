@@ -76,6 +76,7 @@ local somethinglock = mylock:new()
 
 if somethinglock:aquireLock() then
   -- locked in ooof
+  somethinglock:resetLock()
 end
 ```
 
