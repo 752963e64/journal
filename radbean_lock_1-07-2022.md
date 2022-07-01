@@ -1,5 +1,14 @@
 # radbean - sql lock.
 
+"What's nice when u know what u talking about... Is that you know what u talking about :)"
+
+#### In the state of things
+
+- you can "actually make a module" from this lock implementation.
+
+- throwing ```dblock``` out of global scope using it locally, simply...
+
+
 ```lua
 sqlite3 = require "lsqlite3"
 db = sqlite3.open_memory()
