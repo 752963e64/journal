@@ -7,7 +7,7 @@ db = sqlite3.open_memory()
 dblock = false
 
 function aquireDbLock()
-  while dblock do end
+  while dblock do Sleep(1/30) end
   dblock = true
   return dblock
 end
