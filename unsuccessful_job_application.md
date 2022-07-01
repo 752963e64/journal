@@ -1,6 +1,8 @@
 # Today, after an unsuccessful job application in tech...
 "What an integration" for some ppl (with the responsiblilities of recruiting) it is contained in one word "docker" LOLz... :D
 
+```I never used docker in my life... And I sure using it better than you do from first try :D```
+
 We live in a circus handled by scrapers and clowns...
 
 ## Today, I'll make a ticketing system from scratch :D
