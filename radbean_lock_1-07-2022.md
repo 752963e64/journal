@@ -9,11 +9,11 @@
 - throwing ```dblock``` out of global scope using it locally, simply...
 
 
-```lua
-sqlite3 = require "lsqlite3"
-db = sqlite3.open_memory()
+### functional and limited lock
 
-dblock = false
+```lua
+-- dblock.lua
+local dblock = false
 
 function aquireDbLock()
   while dblock do Sleep(1/30) end
@@ -26,13 +26,7 @@ function resetDbLock()
   return
 end
 
-db:exec[[
-  CREATE TABLE manual (
-    id INTEGER PRIMARY KEY,
-    sometext TEXT
-  );
-]]
-
+-- usage...
 function lockedInsert( tbl, fld, val )
   if aquireDbLock() then
     db:exec[[ INSERT INTO ]] .. tbl .. [[ ( ]] .. fld .. [[ ) VALUES ( ]].. val .. [[ );]]
@@ -40,6 +34,14 @@ function lockedInsert( tbl, fld, val )
   end
   return
 end
+```
+
+### object and unlimited lock
+
+Here is the object version, this let you multiply locks for whatever u wishes to lock. :)
+
+```lua
+-- olock.lua
 ```
 
 Now you can insert without blending :D
