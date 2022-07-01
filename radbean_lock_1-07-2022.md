@@ -6,8 +6,15 @@ db = sqlite3.open_memory()
 
 dblock = false
 
-function isDblock()
+function aquireDbLock()
+  while dblock do end
+  dblock = true
   return dblock
+end
+
+function resetDbLock()
+  dblock = false
+  return
 end
 
 db:exec[[
@@ -18,10 +25,9 @@ db:exec[[
 ]]
 
 function lockedInsert( tbl, fld, val )
-  while not isDblock() do
-    dblock = true
+  if aquireDbLock() then
     db:exec[[ INSERT INTO ]] .. tbl .. [[ ( ]] .. fld .. [[ ) VALUES ( ]].. val .. [[ );]]
-    break
+    resetDbLock()
   end
   return
 end
