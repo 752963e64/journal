@@ -18,13 +18,10 @@ db:exec[[
 ]]
 
 function lockedInsert( tbl, fld, val )
-  if not isDblock() then
+  while not isDblock() do
     dblock = true
-    while not isDblock() do
-      db:exec[[ INSERT INTO ]] .. tbl .. [[ ( ]] .. fld .. [[ ) VALUES ( ]].. val .. [[ );]]
-      dblock = true
-      break
-    end
+    db:exec[[ INSERT INTO ]] .. tbl .. [[ ( ]] .. fld .. [[ ) VALUES ( ]].. val .. [[ );]]
+    break
   end
   return
 end
