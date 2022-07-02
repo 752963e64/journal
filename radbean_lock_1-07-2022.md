@@ -6,8 +6,11 @@
 
 - you can "actually make a module" from this lock implementation.
 
-- throwing ```dblock``` out of global scope using it locally, simply...
+- You can port to any languages! :D
 
+- It's the basis... ooof.
+
+- enjoy.
 
 ### functional and limited lock
 
