@@ -8,7 +8,7 @@
 
 - enjoy.
 
-### fully qualified domaine name ooff.
+### fully qualified domain name ooff.
 
 ```lua
 -- fqdn.lua
