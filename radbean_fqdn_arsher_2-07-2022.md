@@ -25,6 +25,7 @@ function OnHttpRequest()
   for _, v in ipairs(fqdn) do
     if hostname == Sha1(v) then
       match = true
+      -- because hostname own an unsafe string.
       hostname = v -- notice we grab safe strings anywayz...
       break
     end
