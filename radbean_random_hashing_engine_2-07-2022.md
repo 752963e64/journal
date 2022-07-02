@@ -26,10 +26,10 @@ fqdn = {
 }
 
 function OnHttpRequest()
+  SetHeader( 'Connection', 'close' )
+
   if GetHttpVersion() < 11 then
     ServeError(426)
-    SetHeader( 'Upgrade', 'HTTP/1.1' )
-    SetHeader( 'Connection', 'close' )
     return
   end
 
@@ -37,7 +37,6 @@ function OnHttpRequest()
   if GetMethod() ~= 'GET' then
     ServeError( 405 )
     SetHeader( 'Allow', 'GET' )
-    SetHeader( 'Connection', 'close' )
     return
   end
 
@@ -82,6 +81,26 @@ function OnHttpRequest()
     return
   end
 end
+
+```
+
+#### usage
+
+```shell
+
+curl -vvH "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/md5
+
+curl -vvH "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/sha1
+
+curl -vvH "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/sha224
+
+curl -vvH "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/sha256
+
+curl -vvH "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/sha384
+
+curl -vvH "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/sha512
+
+echo "oofff"
 
 ```
 
