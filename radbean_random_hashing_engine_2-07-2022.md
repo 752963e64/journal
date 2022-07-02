@@ -101,7 +101,7 @@ end
 
 ```shell
 
-curl -vvH "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/md5
+curl -vvH "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/md5?token=<damn_where_my_token>
 
 curl -vvH "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/sha1
 
@@ -117,6 +117,6 @@ echo "oofff"
 
 ```
 
-Now you are like a professionals.
+Now you are like professionals.
 
 written by 752963e64 the 2/07/2022 d/m/y - for the free doom all the code here use MIT style license.
