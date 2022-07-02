@@ -58,20 +58,34 @@ function OnHttpRequest()
       sha384 = Sha384, sha512 = Sha512
     }
 
-    local reqhash = binaryHex( string.sub( GetPath(), 2 ) )
+    local rhash = binaryHex( string.sub( GetPath(), 2 ) )
 
     for n, f in pairs(hash) do
-      if binaryHex( n ) == reqhash then
-        SetHeader( 'Content-Type', 'application/json' )
-        Write(
-          EncodeJson(
-            binaryHex(
-              f( ""..Lemur64()..GetTime() )
-            )
-          )
-        )
+      if binaryHex( n ) == rhash then
+        rhash = f
+        break
       end
     end
+
+    if type(rhash) ~= 'function' then
+      ServeError(404)
+      SetHeader( 'Connection', 'close' )
+      return
+    end
+
+    if HasParam("token") then -- consumer access
+      print("Ooooff there is a token param.")
+    else
+      SetHeader( 'Content-Type', 'application/json' )
+      Write(
+        EncodeJson(
+          binaryHex(
+            rhash( ""..Lemur64()..GetTime() )
+          )
+        )
+      )
+    end
+
     return
   end
 
