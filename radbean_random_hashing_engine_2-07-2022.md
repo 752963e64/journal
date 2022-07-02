@@ -53,7 +53,6 @@ function OnHttpRequest()
 
   if hostname == 'rhex.752963e64.dev' then
     local hash = {
-      crc32 = Crc32,   crc32c = Crc32c,
       md5 = Md5,       sha1 = Sha1,
       sha224 = Sha224, sha256 = Sha256,
       sha384 = Sha384, sha512 = Sha512
