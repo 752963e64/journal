@@ -14,11 +14,25 @@
 ```lua
 -- dblock.lua
 local dblock = false
+local ltlock = 60 -- 2sec
 
 function aquireDbLock()
-  while dblock do Sleep(1/30) end
-  dblock = true
-  return dblock
+  local cnt, retlock = 0, nil
+  while dblock do
+    Sleep(1/30)
+    cnt = cnt + 1
+    if cnt >= ltlock then
+      retlock = true
+      break
+    end
+  end
+
+  if retlock then
+    return false
+  else
+    dblock = true
+    return dblock
+  end
 end
 
 function resetDbLock()
