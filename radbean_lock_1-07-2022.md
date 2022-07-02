@@ -62,22 +62,49 @@ Here is the object version, this let you multiply locks for whatever u wishes to
 
 olock = {}
 
+-- object:new()
+-- @object
 function olock:new()
-  o = { lock = false }
+  o = { lock = false, limit = 120 }
   setmetatable( o, self )
   self.__index = self
   return o
 end
 
-function olock:aquireLock()
-  while self.lock do Sleep(1/30) end
-  self.lock = true
-  return self.lock
+-- object:limitLock(l)
+-- setup your own limit
+function olock:limitLock(l)
+  if type(l) == 'number' then
+    self.limit = l
+  end
 end
 
+-- object:aquireLock()
+-- @true if you aquires a lock
+-- @false if it reaches waiting limit.
+function olock:aquireLock()
+  local cnt, retlock = 0, nil
+  while self.lock do
+    Sleep(1/60)
+    cnt = cnt + 1
+    if cnt >= self.limit then
+      retlock = true
+      break
+    end
+  end
+
+  if retlock then
+    return false
+  else
+    self.lock = true
+    return self.lock
+  end
+end
+
+-- object:resetLock()
+-- unconditionaly
 function olock:resetLock()
   self.lock = false
-  return
 end
 
 return olock
