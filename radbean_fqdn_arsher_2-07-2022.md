@@ -1,18 +1,14 @@
-# radbean - sql lock.
+# radbean - fqdn arsher.
 
 "What's nice when u know what u talking about... Is that you know what u talking about :)"
 
 #### In the state of things
 
-- you can "actually make a module" from this lock implementation.
-
-- You can port to any languages! :D
-
-- It's the basis... ooof. Stuck to it :D
+- you can "actually make a module" from this fqdn arsher implementation.
 
 - enjoy.
 
-### functional and limited lock
+### fully qualified domaine name ooff.
 
 ```lua
 -- fqdn.lua
@@ -35,7 +31,7 @@ function OnHttpRequest()
   end
 
   if not match then
-    print('\e[01;33mHOSTNAME DOESN\'T MATCH\e[0m')
+    print('\e[01;35mHOSTNAME DOESN\'T MATCH\e[0m')
     SetHeader('Connection', 'close')
     ServeError(404)
     return
@@ -46,6 +42,6 @@ end
 
 ```
 
-Now you can like professionals.
+Now you can filter like professionals.
 
 written by 752963e64 the 2/07/2022 d/m/y - for the free doom all the code here use MIT style license.
