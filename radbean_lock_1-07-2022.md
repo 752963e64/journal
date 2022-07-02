@@ -96,4 +96,4 @@ end
 
 Now you can have lock to whatever u wishes :)
 
-written by 752963e64 the 1/07/2022 d/m/y 
+written by 752963e64 the 1/07/2022 d/m/y - for the free doom all the code here use MIT style license.
