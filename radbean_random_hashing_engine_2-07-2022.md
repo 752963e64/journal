@@ -85,6 +85,6 @@ end
 
 ```
 
-Now you can filter like professionals.
+Now you are like a professionals.
 
 written by 752963e64 the 2/07/2022 d/m/y - for the free doom all the code here use MIT style license.
