@@ -16,7 +16,7 @@
 
 function binaryHex(bin)
   local hexstr = ""
-  if bin ~= '' then
+  if bin ~= '' and type(bin) == 'string' then
     for l=#bin,1,-1 do
       hexstr = "%.2x" % {string.byte( string.sub(bin, l) )} .. hexstr
     end
