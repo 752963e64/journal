@@ -15,37 +15,114 @@
 ### functional and limited lock
 
 ```lua
--- fqdn.lua
+-- dblock.lua
+local dblock = false
+local ltlock = 60 -- 2sec
 
-fqdn = {
-  "dosomething.dev",
-  "xxx.pinkypig.com",
-  "62.210.114.224", -- this is my server ip don't be arsh with her.
-}
-
-function OnHttpRequest()
-  local hostname = Sha1( GetHost() )
-  local match = false
-  for _, v in ipairs(fqdn) do
-    if hostname == Sha1(v) then
-      match = true
-      hostname = v -- notice we grab safe strings anywayz...
+function aquireDbLock()
+  local cnt, retlock = 0, nil
+  while dblock do
+    Sleep(1/30)
+    cnt = cnt + 1
+    if cnt >= ltlock then
+      retlock = true
       break
     end
   end
 
-  if not match then
-    print('\e[01;33mHOSTNAME DOESN\'T MATCH\e[0m')
-    SetHeader('Connection', 'close')
-    ServeError(404)
-    return
+  if retlock then
+    return false
   else
-    print('\e[01;33mHOSTNAME OK\e[0m')
+    dblock = true
+    return dblock
   end
 end
 
+function resetDbLock()
+  dblock = false
+  return
+end
+
+-- usage...
+function lockedInsert( tbl, fld, val )
+  if aquireDbLock() then
+    -- database action here
+    resetDbLock()
+  end
+  return
+end
 ```
 
-Now you can like professionals.
+Now you can insert without blending :D
+
+### object and unlimited lock
+
+Here is the object version, this let you multiply locks for whatever u wishes to lock. :)
+
+```lua
+-- olock.lua
+
+olock = {}
+
+-- object:new()
+-- @object
+function olock:new()
+  o = { lock = false, limit = 120 }
+  setmetatable( o, self )
+  self.__index = self
+  return o
+end
+
+-- object:limitLock(l)
+-- setup your own limit
+function olock:limitLock(l)
+  if type(l) == 'number' then
+    self.limit = l
+  end
+end
+
+-- object:aquireLock()
+-- @true if you aquires a lock
+-- @false if it reaches waiting limit.
+function olock:aquireLock()
+  local cnt, retlock = 0, nil
+  while self.lock do
+    Sleep(1/60)
+    cnt = cnt + 1
+    if cnt >= self.limit then
+      retlock = true
+      break
+    end
+  end
+
+  if retlock then
+    return false
+  else
+    self.lock = true
+    return self.lock
+  end
+end
+
+-- object:resetLock()
+-- unconditionaly
+function olock:resetLock()
+  self.lock = false
+end
+
+return olock
+
+-- usage
+
+local mylock = require "olock"
+
+local somethinglock = mylock:new()
+
+if somethinglock:aquireLock() then
+  -- locked in ooof
+  somethinglock:resetLock()
+end
+```
+
+Now you can have lock to whatever u wishes :)
 
 written by 752963e64 the 2/07/2022 d/m/y - for the free doom all the code here use MIT style license.
