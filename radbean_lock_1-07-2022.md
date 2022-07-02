@@ -8,7 +8,7 @@
 
 - You can port to any languages! :D
 
-- It's the basis... ooof.
+- It's the basis... ooof. Stuck to it :D
 
 - enjoy.
 
