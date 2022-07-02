@@ -29,7 +29,7 @@ end
 -- usage...
 function lockedInsert( tbl, fld, val )
   if aquireDbLock() then
-    db:exec[[ INSERT INTO ]] .. tbl .. [[ ( ]] .. fld .. [[ ) VALUES ( ]].. val .. [[ );]]
+    -- database action here
     resetDbLock()
   end
   return
