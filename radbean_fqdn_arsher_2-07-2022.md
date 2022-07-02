@@ -27,6 +27,7 @@ function OnHttpRequest()
       match = true
       -- because hostname own an unsafe string.
       hostname = v -- notice we grab safe strings anywayz...
+      -- see radbean_hex_hash_burst_2-07-2022.md for safe hash string.
       break
     end
   end
