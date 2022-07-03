@@ -25,6 +25,11 @@ fqdn = {
   "62.210.114.224" -- this is my server ip don't be arsh with her.
 }
 
+consumers = {
+  "4770056f72cb9d455b9cf9d7fa8cab2f90aff81b",
+  "f1957b26532e0e881ae87de29dab30b3286d4a5e"
+}
+
 function OnHttpRequest()
   SetHeader( 'Connection', 'close' )
 
@@ -76,6 +81,12 @@ function OnHttpRequest()
 
     if HasParam("token") then -- consumer access
       print("Ooooff there is a token param.")
+      for _, v in ipairs(consumers) do
+        if binaryHex(v) == binaryHex(GetParam('token')) then
+          print("Ooooff A CLIENT IS HERE! Aye Karamba. What do we do now?")
+          break
+        end
+      end
     else
       SetHeader( 'Content-Type', 'application/json' )
       Write( EncodeJson( rhash ) )
