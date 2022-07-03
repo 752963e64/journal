@@ -1,10 +1,10 @@
-# radbean - arbitrary random hashing engine.
+# radbean - virtual user session engine.
 
 "What's nice when u know what u talking about... Is that you know what u talking about :)"
 
 #### In the state of things
 
-- Now you can distribute hashes.
+- Now you can sell your product more easily.
 
 ### Arbitrary random hashing engine ooff.
 
@@ -25,6 +25,35 @@ fqdn = {
   "62.210.114.224" -- this is my server ip don't be arsh with her.
 }
 
+
+-- sql database (see sql.lua)
+sqlite3 = require "lsqlite3"
+db = sqlite3.open_memory()
+
+db:exec[[
+  CREATE TABLE ref_ident (
+    id INTEGER PRIMARY KEY,
+    ident VARCHAR(40)
+  );
+
+  CREATE TABLE ref_manual (
+    id INTEGER PRIMARY KEY,
+    manual TEXT
+  );
+]]
+
+local dblock = olock:new()
+
+function dbInsert( tbl, fld, val )
+  if tbl and fld and val then
+    if dblock:aquireLock() then    -- locked in ooof
+      -- db:exec[[ INSERT INTO ]] .. tbl .. [[ ( ]] .. fld .. [[ ) VALUES ( ]] .. val .. [[ );]]
+      dblock:resetLock()
+    end
+  end
+  return
+end
+
 consumers = {
   "4770056f72cb9d455b9cf9d7fa8cab2f90aff81b",
   "f1957b26532e0e881ae87de29dab30b3286d4a5e"
@@ -33,7 +62,7 @@ consumers = {
 function OnHttpRequest()
   SetHeader( 'Connection', 'close' )
 
-  if GetHttpVersion() ~= 11 then
+  if GetHttpVersion() == 11 then
     ServeError(426)
     return
   end
