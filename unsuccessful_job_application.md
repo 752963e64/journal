@@ -3,6 +3,8 @@
 
 ```I never used docker in my life... And I sure using it better than you do from first try :D```
 
+```By the way... docker is for lambda... using information systems... for the truth :D```
+
 We live in a circus handled by scrapers and clowns...
 
 ## Today, I'll make a ticketing system from scratch :D
