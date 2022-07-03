@@ -19,7 +19,7 @@
 local dblock = false
 local ltlock = 60 -- 2sec
 
-function aquireDbLock()
+function acquireDbLock()
   local cnt, retlock = 0, nil
   while dblock do
     Sleep(1/30)
@@ -81,10 +81,10 @@ function olock:limitLock(l)
   end
 end
 
--- object:aquireLock()
+-- object:acquireLock()
 -- @true if you aquires a lock
 -- @false if it reaches waiting limit.
-function olock:aquireLock()
+function olock:acquireLock()
   local cnt, retlock = 0, nil
   while self.lock do
     Sleep(1/60)
@@ -117,7 +117,7 @@ local mylock = require "olock"
 
 local somethinglock = mylock:new()
 
-if somethinglock:aquireLock() then
+if somethinglock:acquireLock() then
   -- locked in ooof
   somethinglock:resetLock()
 end
