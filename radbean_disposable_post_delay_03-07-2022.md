@@ -18,7 +18,7 @@ allowedposters = {}
 -- fill up ez life.
 -- mytime = "%.0f" % {GetTime()}
 -- mytime = mytime + 600 -- 10min delay
--- allowedposters[binaryHex(Sha1(FormatIp( ip )))] = { path = "/path", time = mytime }
+-- allowedposters[binaryHex(Sha1(FormatIp( ip )))] = { path = "/path", time = mytime, cookie = ck }
 
 function postdelayed()
   if allowedposters and type(allowedposters) == 'table' then
@@ -37,6 +37,7 @@ function OnHttpRequest()
     if allowedposters and type(allowedposters[binaryHex(Sha1(ip))]) == 'table' then
       -- allowedposters[binaryHex(Sha1(ip))].path
       -- allowedposters[binaryHex(Sha1(ip))].time
+      -- allowedposters[binaryHex(Sha1(ip))].cookie
     end
 
     if allowedposters[binaryHex(Sha1(ip))].path == GetPath() then
