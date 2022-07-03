@@ -22,6 +22,10 @@ Cuz I know what it is to integrate at every level of SI and because I can so eas
 
 - design is futil and easily added to suit tastes...
 
+- with xhr it's easy to replace form with content without entire page refresh ooof :)
+
+- that's lot tips :D
+
 ***WHERE IS CLEVERNESS? ITS GONE!***
 
 written by 752963e64 the 28/06/2022 d/m/y
