@@ -12,17 +12,21 @@
 
 - enjoy.
 
+#### It also show up the reality
+
+that you don't only have to perform db queries... but also to know what you talking about :D
+
 ### functional and limited lock
 
 ```lua
 -- dblock.lua
 local dblock = false
-local ltlock = 60 -- 2sec
+local ltlock = 60 -- 1sec
 
 function acquireDbLock()
   local cnt, retlock = 0, nil
   while dblock do
-    Sleep(1/30)
+    Sleep(1/60)
     cnt = cnt + 1
     if cnt >= ltlock then
       retlock = true
