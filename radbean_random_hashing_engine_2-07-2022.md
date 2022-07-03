@@ -8,6 +8,8 @@
 
 ### Arbitrary random hashing engine ooff.
 
+- not even 100 lines oooofff, 100% qualified for microservice production :D
+
 ```lua
 -- .init.lua
 require "hexhashhandle"
