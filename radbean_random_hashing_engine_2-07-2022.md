@@ -28,7 +28,7 @@ fqdn = {
 function OnHttpRequest()
   SetHeader( 'Connection', 'close' )
 
-  if GetHttpVersion() < 11 then
+  if GetHttpVersion() == 11 then
     ServeError(426)
     return
   end
@@ -62,12 +62,13 @@ function OnHttpRequest()
 
     for n, f in pairs(hash) do
       if binaryHex( n ) == rhash then
-        rhash = f
+        rhash = {}
+        rhash[n] = binaryHex( f( ""..Lemur64()..GetTime() ) )
         break
       end
     end
 
-    if type(rhash) ~= 'function' then
+    if type(rhash) ~= 'table' then
       ServeError(404)
       SetHeader( 'Connection', 'close' )
       return
@@ -77,13 +78,7 @@ function OnHttpRequest()
       print("Ooooff there is a token param.")
     else
       SetHeader( 'Content-Type', 'application/json' )
-      Write(
-        EncodeJson(
-          binaryHex(
-            rhash( ""..Lemur64()..GetTime() )
-          )
-        )
-      )
+      Write( EncodeJson( rhash ) )
     end
 
     return
