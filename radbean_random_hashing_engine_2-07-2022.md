@@ -107,17 +107,23 @@ end
 
 ```shell
 
-curl -vvH "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/md5?token=<damn_where_my_token>
+curl -H "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/md5?token=<damn_where_my_token>
+{"md5":"bd6374ab83b75cd0a79b5b180fbee58a"}
 
-curl -vvH "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/sha1
+curl -H "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/sha1
+{"sha1":"3097480a08b03a5a3b69a30bd7da6b950ba29422"}
 
-curl -vvH "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/sha224
+curl -H "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/sha224
+{"sha224":"5d5c0fad812bafac4fc2b51f578f4f2b68dd92f1a85c60ecf52bd07f"}
 
-curl -vvH "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/sha256
+curl -H "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/sha256
+{"sha256":"ff1f62cf9132252e8371cd61aa25928081e1b227b44ecc4c81568bc2d086cb74"}
 
-curl -vvH "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/sha384
+curl -H "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/sha384
+{"sha384":"0d44b9d95b9d004ff8ab2b7603a3ac6cb025410740a53f43169886c15eaa44e71d9dbb48d08361b866f65ea70cd74017"}
 
-curl -vvH "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/sha512
+curl -H "Host: rhex.752963e64.dev" https://<YOURSERVERIP>/sha512
+{"sha512":"039baba35093223cc647828a2884c52522ba1b848c5add1f7c098aa6bb9ec586a175087c0fe9b97476dbacddc64aad51fa23ea0a7cd6444d7cadba473a2a16c5"}
 
 echo "oofff"
 
