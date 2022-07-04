@@ -13,6 +13,20 @@ Parce que je passe tout mon temps sur cette merde... j'ai très peu voir aucune 
 
 Ce qui me laisse le champ libre pour réfléchir a plein de choses auquel tu ne penses pas dans un cirque animal social. :)
 
+Non, J'ai pas facebook, twitter ni rien du tout, C'est tout de la merde a mes yeux et ma compréhension... :D
+
+Tu peux penser que c'est parce que je suis pauvre avec pas un sous en poche... Mais la réalité... c'est que mes capacités
+
+devrais me rendre riche ou alors au moins indépendant economiquement... rien de cela encore...
+
+### Il y a des gros naz qui cherche des techs...
+
+Sans expèrience ils cherchent des gens expèrimenté (certain propose de mentir sur CV, d'omettre certaine parti)...
+
+Eux ont du taf et moi pas... mais qu'est ce que j'ai fait au bon dieu pour mérité d'assumer tout cela clairement :D
+
+Sincèrement...
+
 ### L'inflation c'est la Déflation :D
 
 Comme ça a tjrs été depuis que les singes on compris la matérialisation d'outil de computation. :)
