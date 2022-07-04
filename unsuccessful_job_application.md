@@ -27,7 +27,8 @@ I'm the wise version of mr robot... very **mindful about the environ** :D
 
 **if there is no local tech for your consuming/revending machine... That's because you are unable to grab the fruit in each persons you do meet for a job... all been told... I'm still programmer and you still consuming/revending with no tech :D**
 
-**I don't need coaching, friend or social shit interaction... I need a skilled environment to craft that's all I need...**
+**I don't need coaching, friend or social shit interaction... I need a skilled environment to craft that's all I need...
+ Stay Away from us...**
 
 ## Today, I'll make a ticketing system from scratch :D
 Cuz I know what it is to integrate at every level of SI and because I can so easily... ***I know what i'm talking about me :D***
