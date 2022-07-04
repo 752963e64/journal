@@ -14,11 +14,11 @@ you need to subscribe on another website... ```https://wccleaner.com/apply``` cr
 
 In a space of clever ppl that knows what it is to make a service...
 
-- We could SEND a GET with params...
+- We could SEND a GET with params... ```username, ecetera... that kind of shit.```
 
-- But We need also to POST C.V document...
+- But We need also to POST C.V document... ```So we decide to POST with get params...```
 
-```https://wccleaner.com/apply```
+You have successfully applied to -> ```https://wccleaner.com/apply``` go back to offer search?
 
 ### But technology is handled by AUTISTS :D
 
