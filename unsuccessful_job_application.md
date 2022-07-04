@@ -30,6 +30,8 @@ I'm the wise version of mr robot... very **mindful about the environ** :D
 **I don't need coaching, friend or social shit interaction... I need a skilled environment to craft that's all I need...
  Stay Away from us...**
 
+**If you have no friend buy a tamagoshi...**
+
 ## Today, I'll make a ticketing system from scratch :D
 Cuz I know what it is to integrate at every level of SI and because I can so easily... ***I know what i'm talking about me :D***
 
