@@ -23,6 +23,8 @@ Who the intruders, who the invaders, who the clowns. Wondering! :D
 
 I'm the wise version of mr robot... very **mindful about the environ** :D
 
+- keep watching, I hope... next proto coming is about sQale, So you'll be fixt on the **ACTUAL PERK LOSS** :D
+
 ## Today, I'll make a ticketing system from scratch :D
 Cuz I know what it is to integrate at every level of SI and because I can so easily... ***I know what i'm talking about me :D***
 
