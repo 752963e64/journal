@@ -1,5 +1,9 @@
 # subscribe prototype...
 
+The simplest model... If you need some more complexity in the process...
+
+**Hire a real worker, not a CMS installator :)**
+
 ### You got a wonderful job offer you wish to subscribe
 
 ```Public W.C cleaner```
