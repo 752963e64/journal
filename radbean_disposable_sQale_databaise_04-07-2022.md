@@ -32,33 +32,33 @@ db2 = mmdb(db2)
 if not db1 and not db2 then os.exit(1) end
 
 db1:exec[[
-  CREATE TABLE baise (
+  CREATE TABLE souch (
     id INTEGER PRIMARY KEY,
     content TEXT
   );
 ]]
 
 db2:exec[[
-  CREATE TABLE baise (
+  CREATE TABLE souch (
     id INTEGER PRIMARY KEY,
     content TEXT
   );
 ]]
 
 db1:exec[[
-  INSERT INTO baise (content) VALUES ('FUCK THE WORLD');
+  INSERT INTO souch (content) VALUES ('covid42');
 ]]
 
 db2:exec[[
-  INSERT INTO baise (content) VALUES ('FUCKING AUTISTS!');
+  INSERT INTO souch (content) VALUES ('Covid43');
 ]]
 
-for row in db1:nrows("SELECT * FROM baise") do
+for row in db1:nrows("SELECT * FROM souch") do
    Write(row.id.." "..row.content.."<br>")
 end
 
 
-for row in db2:nrows("SELECT * FROM baise") do
+for row in db2:nrows("SELECT * FROM souch") do
    Write(row.id.." "..row.content.."<br>")
 end
 
