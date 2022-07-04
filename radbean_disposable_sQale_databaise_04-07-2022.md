@@ -26,24 +26,43 @@ end
 -- USAGE :D
 require 'mysQale'
 
-db = mmdb(db)
+db1 = mmdb(db1)
+db2 = mmdb(db2)
 
-if not db then os.exit(1) end
+if not db1 and not db2 then os.exit(1) end
 
-db:exec[[
+db1:exec[[
   CREATE TABLE baise (
     id INTEGER PRIMARY KEY,
     content TEXT
   );
 ]]
 
-db:exec[[
+db2:exec[[
+  CREATE TABLE baise (
+    id INTEGER PRIMARY KEY,
+    content TEXT
+  );
+]]
+
+db1:exec[[
   INSERT INTO baise (content) VALUES ('FUCK THE WORLD');
 ]]
 
-for row in db:nrows("SELECT * FROM baise") do
+db2:exec[[
+  INSERT INTO baise (content) VALUES ('FUCKING AUTISTS!');
+]]
+
+for row in db1:nrows("SELECT * FROM baise") do
    Write(row.id.." "..row.content.."<br>")
 end
+
+
+for row in db2:nrows("SELECT * FROM baise") do
+   Write(row.id.." "..row.content.."<br>")
+end
+
+-- I databaise a lot... more shit soon :)
 
 ```
 
