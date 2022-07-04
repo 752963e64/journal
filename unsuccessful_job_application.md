@@ -13,9 +13,11 @@ We live in a circus handled by scrapers and clowns...
 
 **HOW IS IT POSSIBLE** to provide **SKILLED PPL** without the **SKILL**...
 
-Adding to that... you are just consumer/revendor of tech none skilled ppl would use... :D
+- Adding to that... you are just consumer/revendor of tech none skilled ppl would use... :D
 
-**OKAY now it's clear about you!**
+**Me I can craft anything from scratch... OKAY!**
+
+Who the intruder, who the invader. Wondering! :D
 
 ## Today, I'll make a ticketing system from scratch :D
 Cuz I know what it is to integrate at every level of SI and because I can so easily... ***I know what i'm talking about me :D***
@@ -36,6 +38,7 @@ Cuz I know what it is to integrate at every level of SI and because I can so eas
 
 - that's lot tips :D
 
-***WHERE IS CLEVERNESS? ITS GONE!***
+***Everything is free/gratuitous, so deflate! Only shit that cost here...
+Is the time spent...***
 
 written by 752963e64 the 28/06/2022 d/m/y
