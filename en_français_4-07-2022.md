@@ -25,10 +25,7 @@ Sans expèrience ils cherchent des gens expèrimenté (certain propose de mentir
 
 Eux ont du taf et moi pas... mais qu'est ce que j'ai fait au bon dieu pour mérité d'assumer tout cela clairement :D
 
-```Maintenant je veux juste saisir ce a quoi j'ai travaillé toutes ces années.```
-
 Sincèrement...
-
 
 ### L'inflation c'est la Déflation :D
 
@@ -37,5 +34,7 @@ Comme ça a tjrs été depuis que les singes on compris la matérialisation d'ou
 ### regarde l'histoire, c'est pire que ce que tu penses :)
 
 punching cards, ooff!
+
+```Maintenant je veux juste saisir ce a quoi j'ai travaillé toutes ces années.```
 
 written by 752963e64 the 4/07/2022 d/m/y
