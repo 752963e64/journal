@@ -7,6 +7,16 @@
 
 We live in a circus handled by scrapers and clowns...
 
+## How should I get it...
+
+- You present yourself as a space of skill perk in SI...
+
+**HOW IS IT POSSIBLE** to provide **SKILLED PPL** without the **SKILL**...
+
+Adding to that... you are just consumer/revendor of tech none skilled ppl would use... :D
+
+**OKAY now it's clear about you!**
+
 ## Today, I'll make a ticketing system from scratch :D
 Cuz I know what it is to integrate at every level of SI and because I can so easily... ***I know what i'm talking about me :D***
 
