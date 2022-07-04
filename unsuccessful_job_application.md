@@ -25,6 +25,8 @@ I'm the wise version of mr robot... very **mindful about the environ** :D
 
 - keep watching, I hope... next proto coming is about sQale, So you'll be fixt on the **ACTUAL PERK LOSS** :D
 
+**if there is no local tech for your consuming/revending machine... That's because you are unable to grab the fruit in each persons you do meet for a job... all been told... I'm still programmer and you still consuming/revending with no tech :D**
+
 ## Today, I'll make a ticketing system from scratch :D
 Cuz I know what it is to integrate at every level of SI and because I can so easily... ***I know what i'm talking about me :D***
 
