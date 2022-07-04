@@ -27,6 +27,16 @@ Eux ont du taf et moi pas... mais qu'est ce que j'ai fait au bon dieu pour méri
 
 Sincèrement...
 
+### Mon impression...
+
+J'ai l'impression qu'on me bloque l'acces... genre blacklisté... ou bien encore trop naz pour lire les quelques
+
+pointeurs déterminant une clair **expèrience** en **SI** dans un **large context**...
+
+Je sais plus quoi faire... et ma stabilité neuronnale commence a viré au rouge avec des idées comme
+
+L'humiliation a son paroxisme du cirque que je vois :D
+
 ### L'inflation c'est la Déflation :D
 
 Comme ça a tjrs été depuis que les singes on compris la matérialisation d'outil de computation. :)
