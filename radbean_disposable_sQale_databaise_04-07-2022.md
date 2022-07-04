@@ -11,6 +11,7 @@
 ```lua
 -- mysQale.lua
 -- global decl
+sqlite3 = require 'lsqlite3'
 
 function mmdb(mm)
   if not mm then return end
@@ -26,6 +27,8 @@ end
 require 'mysQale'
 
 db = mmdb(db)
+
+if not db then os.exit(1) end
 
 db:exec[[
   CREATE TABLE baise (
