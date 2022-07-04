@@ -41,6 +41,10 @@ db:exec[[
   INSERT INTO baise (content) VALUES ('FUCK THE WORLD');
 ]]
 
+for row in db:nrows("SELECT * FROM baise") do
+   Write(row.id.." "..row.content.."<br>")
+end
+
 ```
 
 Now you are like databaise professionals.
