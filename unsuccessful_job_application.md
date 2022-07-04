@@ -19,6 +19,8 @@ We live in a circus handled by scrapers and clowns...
 
 Who the intruders, who the invaders, who the clowns. Wondering! :D
 
+```I omitted to tell you, that I'm an hacker in SI(I was concerned not to scare you)... and I'm suprisingly skilled :D```
+
 ## Today, I'll make a ticketing system from scratch :D
 Cuz I know what it is to integrate at every level of SI and because I can so easily... ***I know what i'm talking about me :D***
 
