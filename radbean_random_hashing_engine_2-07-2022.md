@@ -133,4 +133,6 @@ echo "oofff"
 
 Now you are like professionals.
 
+![screenshot](https://raw.githubusercontent.com/752963e64/journal/master/screenshot_2022-07-05_at_17-50-19_Enthusiast_inc.png)
+
 written by 752963e64 the 2/07/2022 d/m/y - for the free doom all the code here use MIT style license.
