@@ -89,7 +89,7 @@ Now you are like databaise professionals.
 
 ### But still...
 
-You thought we were stuck at using all this crap? Heh... no. sQale is turned to formal usage for lambda and average...
+You thought we were stuck at using all this **crap**? Heh... no. sQale is turned to formal usage for lambda and average... (Which also bring a surprising load of risk at handling... no demo, it's gonna be worst than an horror movie :D)
 
 #### In the state of things
 
