@@ -18,7 +18,6 @@
 local sqlite3 = require 'lsqlite3'
 
 function mmdb(mm)
-  if not mm then return end
   mm = sqlite3.open_memory()
   return mm
 end
