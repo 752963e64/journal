@@ -12,6 +12,9 @@
 -- mycake.lua
 -- global decl
 
+-- limitation is that it seems to be in need of routing first... to grab back cookie.
+-- I'll look source when I feel like it's limiting my input seriously...
+
 function myCake( cname, cvalue, cexpires, cdomain, cpath, csecure, chttponly, csamesite )
   local tstp = "%.0f" % { GetTime() }
   if type(cexpires) ~= 'number' then
