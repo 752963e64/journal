@@ -74,11 +74,72 @@ db1:exec[[
   );
 ]]
 -- doesn't twerk anymoore, feels sad :/
+-- what does happen really... it is costly to zeroz memory...
+-- so db1 entry just get prefixed a null byte :)
+-- WHAT! data still in memory so it leaks...
+-- nah really as you stay processus owner...
+-- memory is gonna be reused... that's all :)
+-- no needed debugger involved... my feel debugged it :D
 
 -- I databaise a lot... more shit soon :)
 
 ```
 
 Now you are like databaise professionals.
+
+### But still...
+
+You thought we were stuck at using all this crap? Heh... no. sQale is turned to formal usage for lambda and average...
+
+#### In the state of things
+
+- I demonstrate in memory database from programming language...
+
+```lua
+-- Mysq.lua
+
+-- some cool ideaz will be shown...
+-- free schema :D
+-- programmed queries :)
+
+Mysq = {}
+
+-- object:new()
+-- @object
+function Mysq:new()
+  o = { db = {} }
+  setmetatable( o, self )
+  self.__index = self
+  return o
+end
+
+-- object:insert(schema)
+function Mysq:insert(schema)
+  if type(schema) ~= 'table' then
+    table.insert(self.db, schema)
+  end
+end
+
+-- object:select()
+function Mysq:select()
+end
+
+-- object:delete()
+-- unconditionaly
+function Mysq:delete()
+end
+
+return Mysq
+
+-- usage
+
+-- local mylock = require ""
+
+-- local somethinglock = Mysq:new()
+
+--somethinglock:insert({test="lool", subid=2})
+--somethinglock:select()
+
+```
 
 written by 752963e64 the 4/07/2022 d/m/y - for the free doom all the code here use MIT style license.

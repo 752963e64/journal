@@ -64,13 +64,13 @@ Now you can insert without blending :D
 Here is the object version, this let you multiply locks for whatever u wishes to lock. :)
 
 ```lua
--- olock.lua
+-- Olock.lua
 
-olock = {}
+Olock = {}
 
 -- object:new()
 -- @object
-function olock:new()
+function Olock:new()
   o = { lock = false, limit = 120 }
   setmetatable( o, self )
   self.__index = self
@@ -79,7 +79,7 @@ end
 
 -- object:limitLock(l)
 -- setup your own limit
-function olock:limitLock(l)
+function Olock:limitLock(l)
   if type(l) == 'number' then
     self.limit = l
   end
@@ -88,7 +88,7 @@ end
 -- object:acquireLock()
 -- @true if you aquires a lock
 -- @false if it reaches waiting limit.
-function olock:acquireLock()
+function Olock:acquireLock()
   local cnt, retlock = 0, nil
   while self.lock do
     Sleep(1/60)
@@ -109,15 +109,15 @@ end
 
 -- object:resetLock()
 -- unconditionaly
-function olock:resetLock()
+function Olock:resetLock()
   self.lock = false
 end
 
-return olock
+return Olock
 
 -- usage
 
-local mylock = require "olock"
+local mylock = require "Olock"
 
 local somethinglock = mylock:new()
 
