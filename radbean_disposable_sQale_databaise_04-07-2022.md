@@ -101,6 +101,8 @@ You thought we were stuck at using all this **crap**? Heh... no. sQale is turned
 -- some cool ideaz will be shown...
 -- free schema :D
 -- programmed queries :)
+-- on demand storage
+-- on demand load :)
 
 Mysq = {}
 
