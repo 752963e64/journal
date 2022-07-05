@@ -10,12 +10,12 @@
 
 - Now you can databaise everything in memory at anytime and free databaise like it's a klinex! :D...
 
-### Disposable cake.
+### Disposable mysQale.
 
 ```lua
 -- mysQale.lua
 -- global decl
-sqlite3 = require 'lsqlite3'
+local sqlite3 = require 'lsqlite3'
 
 function mmdb(mm)
   if not mm then return end
