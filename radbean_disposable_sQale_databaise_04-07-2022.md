@@ -4,6 +4,10 @@
 
 #### In the state of things
 
+- demonstrate open/forget databaise :D
+
+- Use case is on your own... get a brain :)
+
 - Now you can databaise everything in memory at anytime and free databaise like it's a klinex! :D...
 
 ### Disposable cake.
@@ -61,6 +65,16 @@ end
 for row in db2:nrows("SELECT * FROM souch") do
    Write(row.id.." "..row.content.."<br>")
 end
+
+db1 = nil -- ooops db1 is gone...
+
+db1:exec[[
+  CREATE TABLE souch (
+    id INTEGER PRIMARY KEY,
+    content TEXT
+  );
+]]
+-- doesn't twerk anymoore, feels sad :/
 
 -- I databaise a lot... more shit soon :)
 
