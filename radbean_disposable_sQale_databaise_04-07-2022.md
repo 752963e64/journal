@@ -125,7 +125,7 @@ end
 
 
 function Mmpsq:hook( req, struct )
-  if type(req) ~= 'string' and req =~ 'security' then
+  if type(req) ~= 'string' or req =~ 'security' then
     return nil
   end
 
@@ -149,7 +149,7 @@ function Mmpsq:lst( struct )
     tid = table id
     ts  = table structure
     fid = caller field id
-    f   = field
+    f   = caller field
   ]]
 
   for tid, ts in ipairs(self.db) do
@@ -161,8 +161,10 @@ function Mmpsq:lst( struct )
             print(fid, v[f])
           end
         end
-      end
-    end
+      else -- no security, safe input required :/
+        print(fid, v[f])
+      end  -- security
+    end -- field index
   end
 end
 
