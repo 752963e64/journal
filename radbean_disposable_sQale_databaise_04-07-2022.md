@@ -147,14 +147,25 @@ end
 
 return Mmpsq
 
--- usage
+--[[
 
--- require "Mmpsq"
+-- usage, look at this :)
 
--- local lol = Mmpsq:new()
+require "Mmpsq"
 
---lol:insert({test="lool", subid=2, Ifloat=1.0002})
---lol:lst({'test', 'subid', 'Ifloat'})
+local lol = Mmpsq:new()
+
+for l=1000, 1, 1 do
+  lol:insert({test="lool", subid=2, Ifloat=1.0002})
+end
+
+lol:insert({test="lool", subid=2, Ifloat=1.0002, schema='entirely free', cleverness=math.maxInteger })
+
+-- the machine handle estate ... schema changes can be tracked ezly :)
+
+lol:lst({'test', 'subid', 'Ifloat'})
+
+]]
 
 ```
 
