@@ -97,7 +97,7 @@ You thought we were stuck at using all this **crap**? Heh... no. sQale is turned
 
 ```lua
 -- Mmpsq.lua
-
+require 'hexhashhandle'
 -- some cool ideaz will be shown...
 -- free schema :D
 -- programmed queries :)
@@ -124,6 +124,21 @@ function Mmpsq:insert( schema )
 end
 
 
+function Mmpsq:hook( req, struct )
+  if type(req) ~= 'string' and req =~ 'security' then
+    return nil
+  end
+
+  local sechook = {}
+  for fid, f in ipairs(struct) do
+    table.insert(sechook, binaryHex(f))
+  end
+
+  self.security = sechook
+  return true
+end
+
+
 function Mmpsq:lst( struct )
   if struct ~= 'tables' then
     return nil
@@ -140,7 +155,13 @@ function Mmpsq:lst( struct )
   for tid, ts in ipairs(self.db) do
     print(i, v)
     for fid, f in ipairs(struct) do
-      print(fid, v[f])
+      if self.security and type(self.security) == 'table' then
+        for sid, s in ipairs(self.security) do
+          if binaryHex(f) == s then
+            print(fid, v[f])
+          end
+        end
+      end
     end
   end
 end
@@ -162,6 +183,11 @@ end
 lol:insert({test="lool", subid=2, Ifloat=1.0002, schema='entirely free', cleverness=math.maxInteger })
 
 -- the machine handle estate ... schema changes can be tracked ezly :)
+
+-- security hook field name oooOOf :D
+-- taint me please :D
+lol:hook('security', {'test','subid','Ifloat'})
+
 
 lol:lst({'test', 'subid', 'Ifloat'})
 
