@@ -96,7 +96,7 @@ You thought we were stuck at using all this **crap**? Heh... no. sQale is turned
 - I demonstrate in memory database from programming language...
 
 ```lua
--- Mysq.lua
+-- Mmpsq.lua
 
 -- some cool ideaz will be shown...
 -- free schema :D
@@ -104,44 +104,62 @@ You thought we were stuck at using all this **crap**? Heh... no. sQale is turned
 -- on demand storage
 -- on demand load :)
 
-Mysq = {}
+Mmpsq = {}
+
 
 -- object:new()
 -- @object
-function Mysq:new()
+function Mmpsq:new()
   o = { db = {} }
   setmetatable( o, self )
   self.__index = self
   return o
 end
 
+
 -- object:insert(schema)
-function Mysq:insert(schema)
-  if type(schema) ~= 'table' then
-    table.insert(self.db, schema)
+-- setup your own limit
+function Mmpsq:insert( schema )
+  table.insert( self.db, schema )
+end
+
+
+function Mmpsq:lst( struct )
+  if struct ~= 'tables' then
+    return nil
+  end
+
+  --[[
+  legend:
+    tid = table id
+    ts  = table structure
+    fid = caller field id
+    f   = field
+  ]]
+
+  for tid, ts in ipairs(self.db) do
+    print(i, v)
+    for fid, f in ipairs(struct) do
+      print(fid, v[f])
+    end
   end
 end
 
--- object:select()
-function Mysq:select()
-end
-
--- object:delete()
--- unconditionaly
-function Mysq:delete()
-end
-
-return Mysq
+return Mmpsq
 
 -- usage
 
--- local mylock = require ""
+-- require "Mmpsq"
 
--- local somethinglock = Mysq:new()
+-- local lol = Mmpsq:new()
 
---somethinglock:insert({test="lool", subid=2})
---somethinglock:select()
+--lol:insert({test="lool", subid=2, Ifloat=1.0002})
+--lol:lst({'test', 'subid', 'Ifloat'})
 
 ```
+
+Memory programmed structure query... I can go deeper still :)
+
+Now you are like memory professionals.
 
 written by 752963e64 the 4/07/2022 d/m/y - for the free doom all the code here use MIT style license.
