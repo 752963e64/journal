@@ -5,6 +5,7 @@ Coding stuffz is cool, being scared about making mistake shows a lack of underst
 Different wayz to break it, it's like a closed door you are gonna open anywayz... :)
 
 ## The errors are hidding everywhere, u must be aware where they happening...
+Assuming your pragmatism reacht an uncommon cleverness, your app is error free :)
 ```
 - your app
 |
