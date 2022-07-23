@@ -92,6 +92,8 @@ end
 
 ```
 
+##### DIDN't test... computer is wasteful in every corners with me... :D
+
 Now you are like professionals.
 
 written by 752963e64 the 23/07/2022 d/m/y - for the free doom all the code here use MIT style license.
