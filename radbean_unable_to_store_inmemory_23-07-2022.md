@@ -62,6 +62,36 @@ end
 
 ```
 
+### Since I been deleted :D
+
+- writing engine trick attemp here :)
+
+
+#### might possibly conserve datas thru repuesta :)
+
+```lua
+-- .init.lua
+
+function OnProcessCreate()
+  print('\e[01;36mOnProcessCreate()...\e[0m')
+end
+
+function OnProcessDestroy(pid)
+  print('\e[01;36mOnProcessDestroy('.. pid ..')...\e[0m')
+end
+
+function OnWorkerStart()
+  print('\e[01;36mOnWorkerStart()...\e[0m')
+end
+
+function OnWorkerStop()
+  print('\e[01;36mOnWorkerStop()...\e[0m')
+end
+
+
+
+```
+
 Now you are like professionals.
 
 written by 752963e64 the 23/07/2022 d/m/y - for the free doom all the code here use MIT style license.
