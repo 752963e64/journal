@@ -1,0 +1,12 @@
+# Switchero
+
+I'm glad to find one year later, that now my HP laptop(most recent hardware I have) with hybrid graphic works...
+
+I'm not kidding, both graphic card works together with none spotted problem actually...
+
+I'm curious what is possible with OGL 4.3 and OGL ES 3.1 with NVD7(nouveau) or OGL 4.6 and OGL ES 3.2 with Intel(HSW GT2).
+
+Something I find strange is that the Nvidia GPU is at 4.3 and 3.1 while Intel is at 4.6 and 3.2...
+
+anyway both works for now... until how much time, no one knows... But I'm very glad It seems to work, It's now the right moment to focus on trying using it.
+
