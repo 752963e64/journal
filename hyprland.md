@@ -10,7 +10,7 @@
 
 - It is accelerated but full of sync/tearing problems...(linked to drivers/hyprland/wlroots)
 
-- It appearently relying on a high OGL profile... You need to be a race driver with expensive recent hardware to use it decently. (It seems a joke will it's not :D)
+- It appearently relying on a high OGL profile... You need to be a race driver with expensive recent hardware to use it decently. (It seems a joke while it's not :D)
 
 ## The only stuff I found cool
 
