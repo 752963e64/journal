@@ -8,4 +8,6 @@
 
 - I must accept it to avoid depression...
 
-# :D
+# Epilogue :D
+
+- Humanity introspection...
