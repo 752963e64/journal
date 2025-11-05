@@ -8,3 +8,9 @@ but when I tried to see the profile, this happened! :D
 
 ![lol](./img/2025-11-05-013716_1680x1050_scrot.png)
 
+## developer tools or Developer problems?
+
+- blackened menu, the meal is black! damn it, I'm cursed sure... :D
+
+![lol2](./img/2025-11-05-021807_1680x1050_scrot.png)
+
