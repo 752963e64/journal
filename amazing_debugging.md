@@ -16,4 +16,6 @@ but when I tried to see the profile, this happened! :D
 
 ## UPDATE 6/11/2025
 
-- found out it's my import that make things not working... while using a new profile everything is OKAY!
+- found out it's my import that makes menu from dev tool black... while using a new profile everything is OKAY!
+
+- deepai doesn't consume my CPU anymore! dunno what has been done, I'm using the stricly same setup.
