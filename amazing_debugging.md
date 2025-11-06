@@ -14,3 +14,6 @@ but when I tried to see the profile, this happened! :D
 
 ![lol2](./img/2025-11-05-021807_1680x1050_scrot.png)
 
+## UPDATE 6/11/2025
+
+- found out it's my import that make things not working... while using a new profile everything is OKAY!
