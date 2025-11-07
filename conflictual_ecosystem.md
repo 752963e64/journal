@@ -19,4 +19,13 @@ This is a legal assumed scam to provide computer specs that you cannot use by yo
 Do not trust the software, do not trust the machine! It is perpetually conflictual big egos fighting...
 
 
-To close this reminder: Driver made 20 years ago still not fully functional, removed... if such little reality contained in one little phrase doesn't make you mindful, I'm sorry but you are lost :D 
+To close this reminder: Driver made 20 years ago still not fully functional, removed... if such little reality contained in one little phrase doesn't make you mindful, I'm sorry but you are lost :D
+
+## What a device driver!
+
+It is a program that run in the kernel! its goal are the handling from that device and routing to the userland.
+
+writing such driver doesn't take more time than writing a userland software...
+
+It's alike joke when you see that no... it's not the case at all... :D
+
