@@ -20,6 +20,12 @@ There is some big d/baddies with resources... It's scary to see them knocking th
 
 It's like an assault with firearms... shout for shouting not hitting :D
 
+## weird thing that I can explain...
+
+Today I still didn't automate any process about that... mainly cuz here is strictly nothing more that a linux shell and its kernel tools running on my machine...
+
+So It doesn't require a blackhole at all... I like to do things on fly... It's funny... :D
+
 # primal savagery
 
 here is some attached context.
