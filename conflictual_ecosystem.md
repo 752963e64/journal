@@ -23,9 +23,20 @@ To close this reminder: Driver made 20 years ago still not fully functional, rem
 
 ## What a device driver!
 
-It is a program that run in the kernel! its goal are the handling from that device and routing to the userland.
+1. A program that run, in the device! The capabilities are defined and well known by those making them.
+
+2. A program that run in the kernel! its goal are the handling from that device and routing to the userland.
 
 writing such driver doesn't take more time than writing a userland software...
 
 It's alike joke when you see that no... it's not the case at all... :D
 
+## What a software driver!
+
+It is a program that run in the userland! Its goal are to bridge input to the driver and the features interface to the userland programs...
+
+writing such driver may be LONG... If you performing research and development at same time... and keep putting the nice feature into closed drivers for closed Oses :D
+
+best drivers are those following rock solid definition from what should be done!
+
+No less, no more...
