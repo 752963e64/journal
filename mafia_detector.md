@@ -21,3 +21,7 @@ There is some big d/baddies with resources... It's scary to see them knocking th
 It's like an assault with firearms... shout for shouting not hitting :D
 
 # primal savagery
+
+here is some attached context.
+
+https://github.com/752963e64/journal/blob/main/Wide_area_network_without_the_fuckers.md
