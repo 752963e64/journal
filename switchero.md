@@ -19,3 +19,13 @@ Device order has been swapped...
 To select discret Intel gpu as default, now it need ```DRI_PRIME=1``` variable to be passed when loading X...
 
 To select nvidia gpu for a particular application in X, ```DRI_PRIME=0 program```
+
+## Too much funny world...
+
+Did an update Just now... and order been swapped again... :D
+
+Now no need to pass DRI_PRIME variable when starting X on Intel GPU... so now need to use ```DRI_PRIME=1 program``` to run with nvidia GPU :D
+
+# makes me think...
+
+Makes me think about mirroring all stuffs I depend on, to avoid such drole and strange behavior... It's disturbing... It make me questionning myself alot :D
