@@ -22,6 +22,10 @@ I told the AI that it didn't work then it answered with a bash script full of mu
 
 They really need to increase the mind lvl this AI... cuz I don't find it improved/helped me in any way...
 
+# aye karamba! Openai
+
+- first impression? It seems damn powerful :D
+
 # Epilogue :D
 
 - Humanity introspection...
