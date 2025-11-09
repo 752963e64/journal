@@ -19,3 +19,7 @@ Why did chatgpt sent me verification mail to end with such message when typing m
 - It seems like looking indexes of data and printing them...
 
 - I swear I can't have the improved chat cuz my mail box... And seeing how it does process this information it's scary :D
+
+# Constantly soliciting...
+
+- It's unable to put an end in the conversation. The ending statement is always the same solicitation.
