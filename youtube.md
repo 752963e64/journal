@@ -24,7 +24,7 @@ I don't count the amount of things I refrained me to watch just because I had to
 
 ## I'm certain in future, some creators...
 
-- will have a load of questioning on what they have done.
+- will have a load of questioning introspecting on what they have done.
 
 # Thank
 
