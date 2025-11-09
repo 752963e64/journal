@@ -22,6 +22,10 @@ I don't count the amount of things I refrained me to watch just because I had to
 
 - few distraction, no algorythm trying to make me consume.
 
+## I'm certain in future, some creators...
+
+- will have a load of questioning on what they have done.
+
 # Thank
 
 - to invidious creator and contributors!
