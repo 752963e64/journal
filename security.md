@@ -4,6 +4,6 @@
 
 [Privilege separation in the computing world.](https://en.wikipedia.org/wiki/Privilege_(computing))
 
-Since years... all linux distributions are just tot bags that can be harmful in split second...
+Since years... all linux distributions all operating systems are just tot bags that can be harmful in split second...
 
 # tot bags security applied TRADEMARK :D
