@@ -1,4 +1,4 @@
-# You need a PHD to downscale a damn vidio :D
+# You need a PHD to downscale a damn vidio near 2026... :D
 
 - Using simply ```mpv --window-scale=0.5 lol.mp4``` on a local file it works fucking nice...
 
