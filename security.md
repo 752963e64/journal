@@ -12,6 +12,6 @@ Since years... all linux distributions all operating systems are just tot bags t
 
 # learning about docker
 
-- docker is not lightweigh virtual machine... It separate processes scope from host through namesapce and a chroot environement. It can freeze your machine while a real virtual machine using processor's virtualisation feature doesn't... (It's not what I'm reading... It scares me :D)
+- docker is not lightweigh virtual machine... It separate processes scope from host through namesapce and a chroot environement. It can freeze your machine while a real virtual machine using processor's virtualisation feature doesn't... (It's not what I'm reading from ex AWS dev... It scares me :D)
 
 # tot bags security applied TRADEMARK :D
