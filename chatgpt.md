@@ -23,3 +23,7 @@ Why did chatgpt sent me verification mail to end with such message when typing m
 # Constantly soliciting...
 
 - It's unable to put an end in the conversations. The ending statement is always the same solicitation.
+
+# The more I talk with
+
+The more the perceived answers quality drop...
