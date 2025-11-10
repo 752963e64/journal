@@ -1,6 +1,6 @@
 # Looking for a job is scarying
 
-- First is the sel questioning about to not fit the goals.
+- First is the self questioning about to not fit the goals.
 
 - Second thing is to be skilled without the diploma.
 
