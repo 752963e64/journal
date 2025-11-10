@@ -6,4 +6,8 @@
 
 Since years... all linux distributions all operating systems are just tot bags that can be harmful in split second...
 
+# the busybox case
+
+- busybox install symlinks okay, but you cannot use unix perm to secure some of its feature also you cannot refrain an expert to call tools from busybox command line.
+
 # tot bags security applied TRADEMARK :D
