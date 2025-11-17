@@ -8,7 +8,7 @@
 git clone <repo> --depth 1
 # you move in, cd <folder> is skipped... I dunno even why I do speak about it...
 # make your own branch to work outside the upstream repo.
-git checkout -b <name>
+git checkout -b <ownbranch>
 # from there you are into your realm you can perform your modification...
 git add <files,folders>
 git commit -m "<message>"
