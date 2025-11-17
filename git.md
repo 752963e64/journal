@@ -2,7 +2,7 @@
 
 ## branching changes
 
-```
+```sh
 # You are very careful about the use case from your roaming needs...
 # you decide to pull the very last version(full version at the time you pick it) from the repo
 git clone <repo> --depth 1
