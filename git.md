@@ -33,6 +33,11 @@ git add <files,folders>
 git commit --amend
 ## then push
 git push --force --set-upstream origin <ownbranch>
+
+# reset
+# If you think your changes are pretty hopeless, you can reset repo with
+git checkout -f <master|origin|main>
+
 ```
 
 # YaY
