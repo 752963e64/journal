@@ -1,6 +1,7 @@
 # Strange software separation
 
-``` $: groups
+```
+$: groups
 two
  $: id
 uid=1001(two) gid=1001(two) groups=1001(two)
