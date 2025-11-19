@@ -1,4 +1,6 @@
-# the segmentation's faults 😸
+# The segmentation's faults 😸
+
+- BusyBox v1.37 - multi-madness binary.
 
 ```sh
 [ 2588.345297] ash[539]: segfault at 7fff157c2f78 ip 00007fdbf95b0362 sp 00007fff157c2f80 error 6 in ld-musl-x86_64.so.1[5f362,7fdbf9565000+58000] likely on CPU 1 (core 0, socket 0)
