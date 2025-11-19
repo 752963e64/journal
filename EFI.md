@@ -10,6 +10,8 @@
 
 - gotta try with a new disk...
 
+- I want to be sure, I miss nothing using bios instead EFI CRAP SYSTEM
+
 # (I never reinstalled that much times a boot like this...)
 
 - Excuse me but EFI is super crappy boot system, a fiasco! :D
