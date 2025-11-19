@@ -12,7 +12,7 @@ k
 k
 ```
 
-```
+```sh
 #output using /bin/ash
 Segmentation fault
 ```
