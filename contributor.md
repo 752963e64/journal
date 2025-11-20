@@ -11,6 +11,10 @@ Date:   Sun Nov 16 03:35:59 2025 +0100
     Ref: https://gitlab.alpinelinux.org/alpine/aports/-/issues/14525
 ```
 
+### notice
+
+I noticed a strange behavior with vim, it seems like when vim instanciate the top lines get strange background that doesn't match the colorscheme. Is it comming from rxvt-unicode or vim?
+
 ## makes me a contributor!
 
 [Awaxx]\DragonTalk\HackIT\752963e64 - 752963e64@tutanota.com
