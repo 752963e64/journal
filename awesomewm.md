@@ -10,7 +10,8 @@ appearently there is a new way to work with metatable... boring shit 3 modules n
 ```sh
 - no more use of module("")
 - _M table vanished...
-- setmetatable as return value instanciate module access
+- setmetatable as return value instanciate module access BUT REWRITE scope outbound values(sick stuff I don't understand how it work...) 😄
+- so no use of metatable anymore... just return an instance from function that return a widget...
 ```
 - It is effectively less code for the same result 👍
 
