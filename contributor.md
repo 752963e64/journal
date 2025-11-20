@@ -13,7 +13,8 @@ Date:   Sun Nov 16 03:35:59 2025 +0100
 
 ### notice
 
-I noticed a strange behavior with vim, it seems like when vim instanciate the top lines get strange background that doesn't match the colorscheme. Is it comming from rxvt-unicode or vim?
+This patch introduce a new bug...
+I noticed a strange behavior with vim, it seems like when vim instanciate the top lines get strange background that doesn't match the colorscheme.
 
 ## makes me a contributor!
 
