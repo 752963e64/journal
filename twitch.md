@@ -8,4 +8,4 @@ That's not cool...
 
 - slimed down 8GB stream to 700MB but it took 7hours to recode.
 
-- my cpu is stick idle will playing the record. 👍
+- my cpu stick idle will playing the record. 👍
