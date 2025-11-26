@@ -6,4 +6,8 @@ It went from netscape to nuclear! 😸
 
 segfault in series...
 
+# when you build it...
+
+You understand deeply how web technology's concerning 😸
+
 # I did use the first Firefox so I can talk about it.
