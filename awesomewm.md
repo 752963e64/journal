@@ -42,4 +42,8 @@ Isn't an interface to a single use, the object pattern is more like a conscise s
 
 Okay? okaaayy
 
+## this language never stop to impress me
+
+you can ```client = c``` which ```c``` is undefined... wait there is obscure module instanciation too... over engineered for none reason is how it feels 😸
+
 # Reason is getting me...
