@@ -1,18 +1,23 @@
 # AwesomeWM
 
-- lib version bumped today! my environment is no more working... :D
-```sh
-appearently there is a new way to work with metatable... boring shit 3 modules need care... 
-```
-
-## fix 😸
+## The making of AwesomeWM Xwindow grabber
 
 ```sh
-- no more use of module("")
-- _M table vanished...
-- setmetatable as return value instanciate module access BUT REWRITE scope outbound values(sick stuff I don't understand how it work...) 😄
-- so no use of metatable anymore... just return an instance from function that return a widget...
+# goals are to integrate tools to record fullscreen or a limited area of the screen.
 ```
-- It is effectively less code for the same result 👍
+
+### awful.screenshot
+
+An interesting function that hides snipping tool and everything needed to record a single image from the screen!
+
+### ffmpeg the great!
+
+From there I'll need to use the snipping tool, produce input feedbacks...
+
+## my brain is painful
+
+Do I separate snipping tool to make it modular? instead pushing forcefully and savagely my additions into awful/screenshot
+
+that I want to rename awful/screenrecord
 
 # Happyness is getting me...
