@@ -20,4 +20,10 @@ Do I separate snipping tool to make it modular? instead pushing forcefully and s
 
 that I want to rename awful/screenrecord
 
-# Happyness is getting me...
+## I did cp screenshot.lua to screenrecord.lua
+
+but really by reading it... I had reason... why no splitting the mousegrabbing feature to permit other thingies profits from it?
+
+quiet hacking 😸
+
+# Reason is getting me...
