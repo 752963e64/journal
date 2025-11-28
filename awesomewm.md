@@ -8,7 +8,7 @@
 
 ### awful.screenshot
 
-An interesting function that hides snipping tool and everything needed to record a single image from the screen!
+An interesting structure that hides snipping tool and everything needed to record a single image from the screen!
 
 ### ffmpeg the great!
 
