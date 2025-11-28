@@ -36,4 +36,10 @@ I'm not an AI... I'm not paid to make it real... so no need to hurry up 😙
 
 Gonna end legendary modern module anyway! modern because it's not backward compatible 😸
 
+## object pattern
+
+Isn't an interface to a single use, the object pattern is more like a conscise structure that handles an object multiple times with the same properties, attributes! 😺
+
+Okay? okaaayy
+
 # Reason is getting me...
