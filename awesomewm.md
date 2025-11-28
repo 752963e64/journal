@@ -26,4 +26,14 @@ but really by reading it... I had reason... why no splitting the mousegrabbing f
 
 quiet hacking 😸
 
+## to make good software
+
+you need to split the problem in tinier problems, more problem to resolv but one goal really. 😸
+
+## after total code impregnation
+
+I'm not an AI... I'm not paid to make it real... so no need to hurry up 😙
+
+Gonna end legendary modern module anyway! modern because it's not backward compatible 😸
+
 # Reason is getting me...
