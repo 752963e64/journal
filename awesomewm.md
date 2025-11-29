@@ -70,6 +70,10 @@ The more I feel used... because it tells me I'm not regarding enouf what I use e
 
 The module a single object... instanciated one times 😸 reload its entire default at all turn! but why? to free one image into a memory? that's a lil too much to me...
 
+## anyway
+
+from 1k+ lines to ~400 currently I can see the ones and zeroz in between the lines 😸.
+
 ## I feel like a rubber tire
 
  Used 😸
