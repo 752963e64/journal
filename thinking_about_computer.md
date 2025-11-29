@@ -18,6 +18,8 @@ I bought an ssd from ali that came with an HPFS filesystem ready to use... that 
 
 now I project to increase ram to 16GB on the laptop... I just need grab some information on how they powered 😸
 
+but really I'm no sure I need 16GB... my desktop consumes around ~400mb ram, everything is fast well maybe 8GB why not...
+
 I'm about to repair the battery from laptop. I just need prepare 4 cells and solder them toghether...
 
 need buy a new stock keyboard for the laptop.
