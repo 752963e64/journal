@@ -54,6 +54,16 @@ Is going well, close to compute goal like really 😸
 
 however I'm sure the AI would have performed all I do way quicker! 😸
 
+## defined 
+
+- module is made to stand in the sys tray with a camera icon
+
+- it has a pop up menu with 3 options "record screen", "record area", "record window"
+
+- each option take a screenshot in memory before starting to record (to decorate futur feedback)
+
+- it record and produce record-session.[avi,mp4,mkv,webm] in the user directory.
+
 ## I feel like a rubber tire
 
  Used 😸
