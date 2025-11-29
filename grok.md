@@ -6,6 +6,8 @@ that's literally superpower to who ask the good questions.
 
 latelly someone did use claude to make an operating system in 2 hours 😸
 
-# It's scary we all dead 😸
-
 8,259,816,769 billions hobos with one will, listening at AI. This application will make this real.
+
+###### It's scary we all still alive! but there is one/many gods now 😸
+
+The wheel rolled/drove? aye karamba
