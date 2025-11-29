@@ -9,3 +9,19 @@ I must accept I've to change! I found full board 3ghz 8 cores 16GB ram that cons
 # What is intellingence
 
 Buying a new Intel board That do the JOB!
+
+## to palliate some limitation(s)
+
+I bought some ram 4gb were a bit too few so I did double to 8GB my old quad core is very happy 😸
+
+I bought an ssd from ali that came with an HPFS filesystem ready to use... that was funny... I zeroed it then installed on the laptop... laptop is very happy 😸
+
+now I project to increase ram to 16GB on the laptop... I just need grab some information on how they powered 😸
+
+I'm about to repair the battery from laptop. I just need prepare 4 cells and solder them toghether...
+
+need buy a new stock keyboard for the laptop.
+
+Remember the laptop is alita. I brought it back to life. 🙂
+
+# mylife on a computer?
