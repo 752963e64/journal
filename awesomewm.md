@@ -46,6 +46,8 @@ Okay? okaaayy
 
 you can ```client = c``` which ```c``` is undefined... wait there is obscure module instanciation too... over engineered for none reason is how it feels 😸
 
+I call a variable seemingly... it's in fact a function automaticaly walked through the spagethi... It's powerful to make me loose time and compute cycles 😸
+
 ## I feel like a rubber tire
 
  Used 😸
