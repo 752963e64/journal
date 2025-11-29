@@ -52,6 +52,8 @@ I call a variable seemingly... it's in fact a function automaticaly walked throu
 
 Is going well, close to compute goal like really 😸
 
+however I'm sure the AI would have performed all I do way quicker! 😸
+
 ## I feel like a rubber tire
 
  Used 😸
