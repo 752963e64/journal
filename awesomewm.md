@@ -64,6 +64,12 @@ however I'm sure the AI would have performed all I do way quicker! 😸
 
 - it record and produce record-session.[avi,mp4,mkv,webm] in the user directory.
 
+## The more I read this module
+
+The more I feel used... because it tells me I'm not regarding enouf what I use everyday...
+
+The module a single object... instanciated one times 😸 reload its entire default at all turn! but why? to free one image into a memory? that's a lil too much to me...
+
 ## I feel like a rubber tire
 
  Used 😸
