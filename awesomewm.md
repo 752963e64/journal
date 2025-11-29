@@ -48,6 +48,10 @@ you can ```client = c``` which ```c``` is undefined... wait there is obscure mod
 
 I call a variable seemingly... it's in fact a function automaticaly walked through the spagethi... It's powerful to make me loose time and compute cycles 😸
 
+## The ongoing scripting reverse
+
+Is going well, close to compute goal like really 😸
+
 ## I feel like a rubber tire
 
  Used 😸
