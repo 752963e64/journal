@@ -74,9 +74,21 @@ The module a single object... instanciated one times 😸 reload its entire defa
 
 from 1k+ lines to ~400 currently I can see the ones and zeroz in between the lines 😸.
 
-# fallen asleep for around 8-10 hours 😸
+#### fallen asleep for around 8-10 hours 😸
 
 taking breakfast and I'll be up back on that 🧮
+
+## desktop mouse selection module scrapped 😸
+
+The mouse selection module draws a dynamic box frame and return the selection geometry from the display point of view.
+
+luckily the remaining needed mouse features are built in to awesome... just need to know where to look... 😸
+
+need make repo... I didn't track the dissection ◾
+
+## now I need to make the menu
+
+and wire up features together 😸
 
 ## I feel like a rubber tire
 
