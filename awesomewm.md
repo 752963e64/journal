@@ -74,6 +74,10 @@ The module a single object... instanciated one times 😸 reload its entire defa
 
 from 1k+ lines to ~400 currently I can see the ones and zeroz in between the lines 😸.
 
+# fallen asleep for around 8-10 hours 😸
+
+taking breakfast and I'll be up back on that 🧮
+
 ## I feel like a rubber tire
 
  Used 😸
