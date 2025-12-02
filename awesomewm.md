@@ -90,6 +90,14 @@ need make repo... I didn't track the dissection ◾
 
 and wire up features together 😸
 
+## Now It works nice, but...
+
+You know! you start something and you want another things 😸
+
+really I should release it, cuz it just work and can be easily extended 😸
+
+need push the code into a git... seems like it all becomes hard to perform when you know the reward is reality versus expectation 😙
+
 ## I feel like a rubber tire
 
  Used 😸
