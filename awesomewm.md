@@ -126,6 +126,10 @@ reality is that the prototype been quick... now the interface making seems like 
 
 Let's make interfaces the right way and stop the usual egoism in software finger dances 😸
 
+## It's 90% reading 10% coding
+
+I just noticed awhile reading that we can paint directly onscreen from mouse using transparent canvas and cairo... I guess it's cool feature for teacher streamer!
+
 ## I feel like a rubber tire
 
  Used 😸
