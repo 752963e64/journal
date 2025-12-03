@@ -104,13 +104,15 @@ It's another thing to engineer the things that make the diff clear!
 
 look the roadmap
 
-- The selection should be available at anytime... doesn't hold in a placeholder...
-
-- a menu show up about the last selection frame drawn... proposition are record an image, record a video
+- The selection is triggered from **mod+key**... a menu show up about the last selection frame drawn... proposition are record an image, record a video
 
 - the full screen mode for both recording image or video is done from default right click menu 😸
 
-so really what I've to do now is to write a single module that handle both
+so really what I've to do now is to write a single module that handle both and supress the screenshot.lua module which becomes useless 😸
+
+### That's it! the hidden engineering!
+
+designing stuffs that couldn't be implemented another way better.
 
 ## I feel like a rubber tire
 
