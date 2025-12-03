@@ -106,7 +106,7 @@ look the roadmap
 
 - The selection is triggered from **mod+key**... a menu show up about the last selection frame drawn... proposition are record an image, record a video
 
-Why **mod+key** and not just listening button "press" and "move" event? because it wont work work well over applications that may be listening too on that mouse 😄
+Why **mod+key** and not just listening button "press" and "move" event? because it wont work well over applications that may be listening too on that mouse 😄
 
 so we use the **mod+key** to trigger it... the selection is done in a way that it cannot produce events on the applications opened... without that we would have to start any selection by pointing window manager's background...
 
