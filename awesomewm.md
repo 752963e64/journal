@@ -118,6 +118,10 @@ so really what I've to do now is to write a single module that handle both and s
 
 designing stuffs that couldn't be implemented another way better.
 
+## I thought it was something quick :D
+
+reality is that the prototype been quick... now the interface making seems like a lifetime project 😸
+
 ## I feel like a rubber tire
 
  Used 😸
