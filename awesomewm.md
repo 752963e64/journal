@@ -122,6 +122,10 @@ designing stuffs that couldn't be implemented another way better.
 
 reality is that the prototype been quick... now the interface making seems like a lifetime project 😸
 
+## How a little thing become quick large...
+
+Let's make interfaces the right way and stop the usual egoism in software finger dances 😸
+
 ## I feel like a rubber tire
 
  Used 😸
