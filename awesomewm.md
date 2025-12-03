@@ -106,6 +106,10 @@ look the roadmap
 
 - The selection is triggered from **mod+key**... a menu show up about the last selection frame drawn... proposition are record an image, record a video
 
+Why **mod+key** and not just listening button "press" and "move" callback? because it wont work work well over applications that may be listening too on that mouse 😄
+
+so we use the **mod+key** to trigger it... the selection is done in a way that it cannot produce events on the applications opened... without that we would have to start any selection by pointing window manager's background...
+
 - the full screen mode for both recording image or video is done from default right click menu 😸
 
 so really what I've to do now is to write a single module that handle both and supress the screenshot.lua module which becomes useless 😸
