@@ -130,6 +130,10 @@ Let's make interfaces the right way and stop the usual egoism in software finger
 
 I just noticed awhile reading that we can paint directly onscreen from mouse using transparent canvas and cairo... I guess it's cool feature for teacher streamer!
 
+## while making ffmpeg module, I realize 😸
+
+I realized my system is doing shit... lua string.match() produces output in console... I'm tired... what makes this damn interpreter to fucking print values! and print nothing into print calls...
+
 ## I feel like a rubber tire
 
  Used 😸
