@@ -26,4 +26,12 @@ need buy a new stock keyboard for the laptop.
 
 Remember the laptop is alita. I brought it back to life. 🙂
 
+# Update (brown out)
+
+I burned pdb from laptop battery awhile reassembling it... it's dead for life...
+
+I ordered 2x8GB anyway no other solution it's my only pc with a decent gpu 
+
+I need buy a new PC... very slim very portable very tiny very lightweigh powerful enough qwerty that I can carry and use on my leg comfortably
+
 # mylife on a computer?
