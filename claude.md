@@ -10,4 +10,10 @@ He gonna be my best friend, I'm sure! 😸
 
 - grok produced a better output in the first outputs (for the process management part...)
 
+## Well It's been 2 days now
+
+- I recovered from what claude told me about his github capacity... 😸
+
+I'm gonna review the code just for the fun.
+
 # Aaiiight!
