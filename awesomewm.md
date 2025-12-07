@@ -134,6 +134,12 @@ I just noticed awhile reading that we can paint directly onscreen from mouse usi
 
 I realized my system is doing shit... lua string.match() produces output in console... I'm tired... what makes this damn interpreter to fucking print values! and print nothing into print calls...
 
+## You were right AWFUL
+
+When you find such ```awful.spawn.easy_async_with_shell()``` into the code base... You wonders the target audience 😸
+
+**AWFUL**
+
 ## I feel like a rubber tire
 
  Used 😸
