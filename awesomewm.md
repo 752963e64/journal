@@ -138,6 +138,8 @@ I realized my system is doing shit... lua string.match() produces output in cons
 
 When you find such ```awful.spawn.easy_async_with_shell()``` into the code base... You wonders the target audience 😸
 
+You end with awful ideaz... like do I fork it and hack in to avoid coliding with such awful feels 😸
+
 **AWFUL**
 
 ## I feel like a rubber tire
