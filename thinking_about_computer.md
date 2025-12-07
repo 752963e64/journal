@@ -34,4 +34,8 @@ I ordered 2x8GB anyway no other solution it's my only pc with a decent gpu
 
 I need buy a new PC... very slim very portable very tiny very lightweigh powerful enough qwerty that I can carry and use on my leg comfortably
 
+I'm falling in love with that HP machine! it works nice with few tweak needed... The SSD changed everything 😸 and soon 16GB memory! 10 $ per ram. cheap 😙
+
+It's broken at half no stock keyboard, half opened... it is gonna sleep aside me I'm too much attached anyway. (I've no choice) 😸
+
 # mylife on a computer?
