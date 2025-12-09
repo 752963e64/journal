@@ -44,6 +44,8 @@ I defibrilated an optilex3020m that were lying around since years... Low consump
 
 some stuffs required to make it a good challenger 2x8GB DDR3 1600Mhz, a new SSD, and a Xeon E3L 4cores, 8threads (45W) (Haswell GT1)
 
+The motherboard series marking is omewhat DROLE **DOGFISH** lolz
+
 # Soon®
 
 ####### mylife on a computer?
