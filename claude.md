@@ -30,4 +30,6 @@ To be fired from awesomeWM programmatically...
 
 The whole part where it tries to run asynchronously properly but in fact it's not at all for the way it is done 😸
 
+I'll simply concentrate on the command assembly and remove the whole piece of shitty process management that is not required or even needed.
+
 # Aaiiight!
