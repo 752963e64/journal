@@ -38,4 +38,12 @@ I'm falling in love with that HP machine! it works nice with few tweak needed...
 
 It's broken at half no stock keyboard, half opened... it is gonna sleep aside me I'm too much attached anyway. (I've no choice) 😸
 
-# mylife on a computer?
+# Update (new toy available)
+
+I defibrilated an optilex3020m that were lying around since years... Low consumption 35W
+
+some stuffs required to make it a good challenger 2x8GB DDR3 1600Mhz, a new SSD, and a Xeon E3L 4cores, 8threads (45W) (Haswell GT1)
+
+# Soon®
+
+####### mylife on a computer?
