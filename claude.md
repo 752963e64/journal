@@ -16,4 +16,18 @@ He gonna be my best friend, I'm sure! 😸
 
 I'm gonna review the code just for the fun.
 
+## I'm sure suffering ADHD now... 😸
+
+I can't recount the amount of things I missed bcause that...
+
+Anyway I've to live with it...
+
+## for the code part
+
+the code is cool... in fact I just wanted a structured way to produce command lines
+
+To be fired from awesomeWM programmatically...
+
+The whole part where it tries to run asynchronously properly but in fact it's not at all for the way it is done 😸
+
 # Aaiiight!
