@@ -46,6 +46,10 @@ some stuffs required to make it a good challenger 2x8GB DDR3 1600Mhz, a new SSD,
 
 The motherboard series marking is somewhat DROLE **DOGFISH** lolz
 
+This machine impress me... only 2 pentium cores(G3240T) and perform better than my quad core, does less noise... it was there aside me since years...
+
+I did update the bios for security®, It's gonna be my new main cyberdeck... The quad core is near service ending, I'm tired to hear that fan blowing 😸
+
 # Soon®
 
 ####### mylife on a computer?
