@@ -32,4 +32,10 @@ The whole part where it tries to run asynchronously properly but in fact it's no
 
 I'll simply concentrate on the command assembly and remove the whole piece of shitty process management that is not required or even needed.
 
+## It would be better if...
+
+The AI would align to you by understanding your needs over repo pushes... make PRs but in a calm and quiet manner 😺
+
+because instead that... it's just useful to answering questions 😺
+
 # Aaiiight!
