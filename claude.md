@@ -38,4 +38,8 @@ The AI would align to you by understanding your needs over repo pushes... make P
 
 because instead that... it's just useful to answering questions 😺
 
+I don't care to see claude pushed on my repo 😸 if the code is good enough...
+
+It's cool to write fast, faster the errors 😸
+
 # Aaiiight!
