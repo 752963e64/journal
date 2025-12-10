@@ -42,4 +42,8 @@ I don't care to see claude pushed on my repo 😸 if the code is good enough...
 
 It's cool to write fast, faster the errors 😸
 
+Anyway... if claude write It's not me so claude. No problem with that.
+
+I can't accept a computer doing shit for me and offering me to write my name as author... It's kind of stuff for mother fucking liars... I can't accept this this is outside my attributes.
+
 # Aaiiight!
