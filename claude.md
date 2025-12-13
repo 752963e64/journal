@@ -46,4 +46,10 @@ Anyway... if claude write It's not me so claude. No problem with that.
 
 I can't accept a computer doing shit for me and offering me to write my name as author... It's kind of stuff for mother fucking liars... I can't accept this this is outside my attributes.
 
+## And since that... BTW?
+
+- I closed the pined tab from claude
+
+- I just swap ideas to other shit I'm looking quietly...
+
 # Aaiiight!
