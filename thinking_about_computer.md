@@ -52,4 +52,10 @@ I did update the bios for security®, It's gonna be my new main cyberdeck... The
 
 # Soon®
 
-####### mylife on a computer?
+# Experimenting makes me an expert.
+
+SINGLE CHANNEL MEMORY in use!!! oh shit:D 
+
+
+
+###### mylife on a computer?
