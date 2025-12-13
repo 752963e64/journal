@@ -54,8 +54,12 @@ I did update the bios for security®, It's gonna be my new main cyberdeck... The
 
 # Experimenting makes me an expert.
 
-SINGLE CHANNEL MEMORY in use!!! oh shit:D 
+SINGLE CHANNEL MEMORY in use!!! oh shit:D
 
+# begging makes me a beggar
 
+I was obliged to beg for my SODIMM delivery! had no feed I was about to order again but twice the actual price! fuuuuuuuuuuuu I almost wasted some precious... 😸
+
+Payment passed today just after I did reclaim update on order! so it's 16GB 25€ fucking nice 😸
 
 ###### mylife on a computer?
