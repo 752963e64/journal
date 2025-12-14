@@ -21,4 +21,6 @@ How hard it is to bind to phys network damn it...
 
 I'm already traversing the whole slirp network directly to physical network router 😸
 
+I hate all the fucking ways it is documented... it smell an huge lack of synapses...
+
 # lol®
