@@ -11,4 +11,8 @@ So I'm looking a way to get a VM listening on host network... It's a fucking pai
 
 you have to learn about all the network type... there is more than one way to do something 😸
 
+The hell it is to look for something that should be simple and well documented already...
+
+I just wanna virtualize some network services that replicated to all my machines currently and it makes me think it is a shitty architecture for someone that know shit...
+
 # lol®
