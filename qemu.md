@@ -15,4 +15,6 @@ The hell it is to look for something that should be simple and well documented a
 
 I just wanna virtualize some network services that replicated to all my machines currently and it makes me think it is a shitty architecture for someone that know shit...
 
+How hard it is to bind to phys network damn it...
+
 # lol®
