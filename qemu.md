@@ -151,4 +151,6 @@ delete line, using numbers shown by above command:
 
 # Getting BACK THE ENTIRE CONTROL for COMFORT and FUN!
 
+I'm now scripting tools to manage the orchestra 😸
+
 # lol®
