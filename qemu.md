@@ -153,4 +153,6 @@ delete line, using numbers shown by above command:
 
 I'm now scripting tools to manage the orchestra 😸
 
+my virtual compagnions at finger tips! network services fully virtualized! no more running 3 dns servers for 3 physical hosts :D
+
 # lol®
