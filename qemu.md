@@ -33,7 +33,7 @@ Demonstrate 3 type of bridges like professionals!
 
 Here are some net bridges and tun/tap setups on Linux. I use them for qemu/kvm VMs and LXC containers. I’ll try to explain each one.
 
-Private bridge, VM to VM only (tap to tap):
+# Private bridge, **VM to VM** only (**tap to tap**):
 It’s used for communication between two or more VMs. They communicate only to each other, no access to Internet or host.
 ```
 # add a net bridge named Gefyra0
@@ -61,7 +61,7 @@ VM’s qemu command-line. Each VM must have a different tap interface and mac ad
 ```
 Inside the VMs, you can configure network interfaces using an arbitrary subnet and IPs on that subnet for each VM.
 
-Bridge using routed subnet, VM<->host:
+# Bridge using routed subnet, **VM<->host**:
 In this scenario, host and VM access and vice versa is possible.
 ```
 # add a net bridge named Gefyra0
@@ -80,7 +80,7 @@ ip link set QemuTap1 master Gefyra0
 The difference with the previous setup is the 2nd line: An IP in a new subnet is assigned to the host’s bridge interface. This new subnet must not be used anywhere else.
 The VMs should be configured using different tap interfaces and mac addresses (see above). The IP of each VM should be in the same subnet as the subnet of the bridge, in order for the host and VMs to communicate.
 
-Bridge using routed subnet, VM <-> host-LAN-Internet:
+# Bridge using routed subnet, **VM <-> host-LAN-Internet**:
 It’s time for the VM to access the Internet, don’t you think? 🙂
 ```
 # add a net bridge named Gefyra0
@@ -102,7 +102,7 @@ iptables -t nat -A POSTROUTING -o enp2s0 -j MASQUERADE
 ```
 As usual, each VM must have each own tap int, mac addr, and assigned IP on the configured subnet of the bridge; see above.
 
-Bridge to layer2 – connect VM to switch host is connected:
+# Bridge to **layer2** – connect VM to switch host is connected:
 More explanatory title is needed, suggestions are welcome!
 In this type of connection the VM is plugged – sort of – on the same switch the host machine is connected. For example, if there is a DHCP server on the network and the host machine gets its IP from that DHCP, the VM will also be capable of acquiring an IP from the same DHCP. It’s the scenario mainly used in production ESXi, Xen or HyperV VMs.
 
@@ -148,5 +148,7 @@ show line numbers – priorities:
 
 delete line, using numbers shown by above command:
 ```iptables -t nat -D POSTROUTING {number}```
+
+# Getting BACK THE ENTIRE CONTROL for COMFORT and FUN!
 
 # lol®
