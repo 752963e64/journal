@@ -17,4 +17,8 @@ I just wanna virtualize some network services that replicated to all my machines
 
 How hard it is to bind to phys network damn it...
 
+# I'm near rediscovery 😸
+
+I'm already traversing the whole slirp network directly to physical network router 😸
+
 # lol®
