@@ -146,6 +146,10 @@ You end with awful ideaz... like do I fork it and hack in to avoid coliding with
 
  Used 😸
 
+## same config different lib
+
+mouse act differently between both... this is fucking disturbin
+
 # Reason is getting me...
 
 Btw u talk to who? 😸
