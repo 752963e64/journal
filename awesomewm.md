@@ -150,6 +150,10 @@ You end with awful ideaz... like do I fork it and hack in to avoid coliding with
 
 mouse act differently between both... this is fucking disturbin
 
+# MY FAULT!
+
+**Don't try to look smart thinking you unwrap a shortcut! keep testing! even the smallest changes!**
+
 # Reason is getting me...
 
 Btw u talk to who? 😸
