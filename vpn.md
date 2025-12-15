@@ -1,5 +1,7 @@
 # VPN an acronyme to Very Precarious Narrative 😺
 
+[README](https://gist.github.com/joepie91/5a9909939e6ce7d09e29)
+
 - WHAT IS A VPN!? 😸
 
 A VPN IS A NETWORK ENCAPSULATED and encrypted into YOUR NETWORK!
