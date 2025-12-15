@@ -1,4 +1,4 @@
-# VPN 😺
+# VPN an acronyme to Very Precarious Narrative 😺
 
 - WHAT IS A VPN!? 😸
 
