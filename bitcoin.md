@@ -12,4 +12,14 @@ I remember the propaganda about the freedom decade ago... then playing with corp
 
 It's awful, how terribly is non measurable 😸
 
+## from now...
+
+The reality... It cannot be anymore being assumed as an investment to play with bitcoin...
+
+Why? This is simple... richest ppl on earth own more bitcoin than no one else...
+
+Their transactions have consequences on the ponzi pyramid 🙂
+
+Try to think, LIKE REALLY... trying to be smart. 😸
+
 # lol®
