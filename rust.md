@@ -16,4 +16,10 @@ I end on another technolodgy 😸...
 
 CRANELIFT what a scalp! I love the name, makes me think about my lost hairs 😸
 
+## FIRST RUST CVE
+
+feeling memory safe... while really these day who exploit memory?...
+
+RCE first, memory later 😙
+
 # lol®
