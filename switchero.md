@@ -29,3 +29,9 @@ Now no need to pass DRI_PRIME variable when starting X on Intel GPU... so now ne
 # makes me think...
 
 Makes me think about mirroring all stuffs I depend on, to avoid such drole and strange behavior... It's disturbing... It make me questionning myself alot :D
+
+## modesetting and crocus is crap as replacement...
+
+using DDX with the last mesa that supported accelerated DRI with DDX driver... no sync problem, no fucking tearing when scrolling...
+
+both my haswell boards have screen tearing with crocus... It's pure crap to enjoy computing descently :/
