@@ -42,4 +42,6 @@ u scroll through app window it shows strange behavior... seriously... why make p
 
 tried to pick up driver config from X -configure... it didn't show much... more investigation next boot 😸
 
-# Does programmers scrolls? u mutate pixels? 😸
+HMMMmm, my haswell GT2 is fine... seems like only my GT1 is impacted finally!
+
+# Does programmers scrolls? or mutate pixels? 😸
