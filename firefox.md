@@ -20,4 +20,10 @@ The building process freeze the machine entirely...
 
 Damn it.
 
+## before it...
+
+[OLD logo](https://www.jwz.org/blog/2025/12/the-original-mozilla-dinosaur-logo-artwork/)
+
+looked much less a gov organisation 🙂 
+
 # I did use the first Firefox so I can talk about it.
