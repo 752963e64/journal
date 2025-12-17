@@ -6,6 +6,6 @@ Well IRC... I myself fallen sick from standing too much with unknown & strange p
 
 IRC is obviously a blockchain of latent sicknesses 🙂
 
-You don't need it will it need you... actually you'll understand this too late.
+You don't need it while it needs you... actually you'll understand this too late.
 
 # lol®
