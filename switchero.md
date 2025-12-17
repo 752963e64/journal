@@ -30,8 +30,15 @@ Now no need to pass DRI_PRIME variable when starting X on Intel GPU... so now ne
 
 Makes me think about mirroring all stuffs I depend on, to avoid such drole and strange behavior... It's disturbing... It make me questionning myself alot :D
 
-## modesetting and crocus is crap as replacement...
+## modesetting and crocus is hard as replacement...
 
 using DDX with the last mesa that supported accelerated DRI with DDX driver... no sync problem, no fucking tearing when scrolling...
 
 both my haswell boards have screen tearing with crocus... It's pure crap to enjoy computing descently, I need find or make the tweak recipe that work 😸
+
+It's more recent hardware than my G41 chipset! but it's worst... u shake the window everything go hairy...
+
+u scroll through app window it shows strange behavior... seriously... why make ppl change to end with this uncomfortable driver...
+
+tried to pick up driver config from X -configure... it didn't show much... more investigation next boot 😸
+
