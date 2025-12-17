@@ -34,4 +34,4 @@ Makes me think about mirroring all stuffs I depend on, to avoid such drole and s
 
 using DDX with the last mesa that supported accelerated DRI with DDX driver... no sync problem, no fucking tearing when scrolling...
 
-both my haswell boards have screen tearing with crocus... It's pure crap to enjoy computing descently :/
+both my haswell boards have screen tearing with crocus... It's pure crap to enjoy computing descently, I need find or make the tweak recipe that work 😸
