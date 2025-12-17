@@ -22,4 +22,8 @@ Their transactions have consequences on the ponzi pyramid 🙂
 
 Try to think, LIKE REALLY... trying to be smart. 😸
 
+## When ppl will start to be smart enough when pursuing their goals...
+
+The bitcoin is gonna fall a sad way, A SAD WAY! 😸
+
 # lol®
