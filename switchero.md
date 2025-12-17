@@ -42,3 +42,4 @@ u scroll through app window it shows strange behavior... seriously... why make p
 
 tried to pick up driver config from X -configure... it didn't show much... more investigation next boot 😸
 
+# Does programmers scrolls? u mutate pixels? 😸
