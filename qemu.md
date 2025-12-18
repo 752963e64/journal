@@ -179,4 +179,12 @@ I need make a proper tuto to share with u!
 
 lol docker, lol whatever mechanism for the wrong purpose. No?! **Qemu4Life!**
 
+### nice thing to know...
+
+linux is a ELF binary that so powerful that it can drive all your devices that participate to festival... right? 😸
+
+linux doesn't need more than MMU and a processing unit which can be virtualized synthetized, magic? NO! 🙂
+
+linux is a software so powerful that you cannot assume it correctly until understanding what it IS What it does...
+
 # lol®
