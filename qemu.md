@@ -191,4 +191,12 @@ linux doesn't need more than MMU and a processing unit which can be virtualized 
 
 linux is a software so powerful that you cannot assume it correctly until understanding what it IS What it does...
 
+### SOme programs are bad very!
+
+to run bad programs you need first run and master good programs.
+
+like you can run docker & Co inside qemu. 🙂
+
+docker is the bad program giving false assumptions, qemu is the good program because it is a real devtool from linux & Co.
+
 # lol®
