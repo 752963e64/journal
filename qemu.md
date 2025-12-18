@@ -179,7 +179,7 @@ vm run its own filter like it's really physical 😸
 # DNS HOST
 ```14:59:23 up 2 days,  2:50,  0 users,  load average: 0.00, 0.00, 0.00```
 
-my virtual compagnions at finger tips! network services fully virtualized! no more running 3 dns servers for 3 physical hosts :D
+my virtual compagnions at finger tips! network services fully virtualized! no more running 3 dns servers for 3 physical hosts 🙂
 
 I need make a proper tuto to share with u! 
 
