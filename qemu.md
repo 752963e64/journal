@@ -159,7 +159,12 @@ I even filtering HOST+BRIDGE, cuz the host is my main SHELL where everthing begi
 
 vm run its own filter like it's really physical 😸
 
-full container! no SMP 😸, no xCPU_FEATURES...(generic core stripped feature) full separation! grinds 512MB memory! IDLE ~1% CPU cycle from HOST's quadcore
+- full container!
+- no SMP 😸
+- no xCPU_FEATURES...(generic core stripped feature)
+- full separation!
+- grinds 512MB memory MAX!(~250 IDLE CURRENTLY! but I know why 😄 we can strip down to few MB around 50 sure, less with more inspection!)
+- IDLE ~1% CPU cycle from HOST's quadcore
 
 ### MAINLY this means!
 
