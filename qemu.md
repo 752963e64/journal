@@ -153,6 +153,17 @@ delete line, using numbers shown by above command:
 
 I'm now scripting tools to manage the orchestra 😸
 
+## done
+
+I even filtering HOST+BRIDGE, cuz the host is my main SHELL where everthing begins! 😺
+
+vm run its own filter like it's really physical 😸
+
+full container! no SMP 😸, full feature! grinds 512MB memory! IDLE ~1% CPU cycle from HOST's quadcore
+
+# DNS HOST
+```14:59:23 up 2 days,  2:50,  0 users,  load average: 0.00, 0.00, 0.00```
+
 my virtual compagnions at finger tips! network services fully virtualized! no more running 3 dns servers for 3 physical hosts :D
 
 # lol®
