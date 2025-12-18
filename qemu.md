@@ -174,7 +174,7 @@ vm run its own filter like it's really physical 😸
 
 - it doesn't share anything else than a process on host with dependancies like the network... This means the VM can crash without impacting the HOST.
 
-- I deploy new virtual machine network capable faster than docker :D
+- I deploy new virtual machine network capable and well generally more capable(usual purpose) faster than docker :D
 
 # DNS HOST
 ```14:59:23 up 2 days,  2:50,  0 users,  load average: 0.00, 0.00, 0.00```
