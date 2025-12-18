@@ -170,6 +170,10 @@ vm run its own filter like it's really physical 😸
 
 - the VM cannot nest&|detach itself as an hypervizor 😙
 
+- the cpu run at host's max speed
+
+- it doesn't share anything else than a process on host with dependancies like the network... This means the VM can crash without impacting the HOST.
+
 # DNS HOST
 ```14:59:23 up 2 days,  2:50,  0 users,  load average: 0.00, 0.00, 0.00```
 
