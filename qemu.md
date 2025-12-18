@@ -163,11 +163,15 @@ full container! no SMP 😸, no xCPU_FEATURES...(generic core stripped feature) 
 
 ### MAINLY this means!
 
-the VM cannot nest&|detach itself as an hypervizor 😙
+- the VM cannot nest&|detach itself as an hypervizor 😙
 
 # DNS HOST
 ```14:59:23 up 2 days,  2:50,  0 users,  load average: 0.00, 0.00, 0.00```
 
 my virtual compagnions at finger tips! network services fully virtualized! no more running 3 dns servers for 3 physical hosts :D
+
+I need make a proper tuto to share with u! 
+
+lol docker, lol whatever mechanism for the wrong purpose. No?! **Qemu4Life!**
 
 # lol®
