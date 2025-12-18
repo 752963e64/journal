@@ -22,4 +22,10 @@ feeling memory safe... while really these day who exploit memory?...
 
 RCE first, memory later 😙
 
+## I think
+
+Rust is not linux and linux is not rust... linus allows them to fail so they can become mindful by themselves 😸
+
+everything is modular... "staying" is a vague assumption 😙
+
 # lol®
