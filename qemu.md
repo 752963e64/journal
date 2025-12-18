@@ -161,6 +161,10 @@ vm run its own filter like it's really physical 😸
 
 full container! no SMP 😸, no xCPU_FEATURES...(generic core stripped feature) full separation! grinds 512MB memory! IDLE ~1% CPU cycle from HOST's quadcore
 
+### MAINLY this means!
+
+the VM cannot nest&|detach itself as an hypervizor 😙
+
 # DNS HOST
 ```14:59:23 up 2 days,  2:50,  0 users,  load average: 0.00, 0.00, 0.00```
 
