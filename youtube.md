@@ -28,6 +28,10 @@ I don't count the amount of things I refrained me to watch just because I had to
 
 - will have a load of questioning introspecting on what they have done.
 
+## uni lateral "inference", undebated purpose
+
+- If you watch supid content you'll be stupid...
+
 # Thank
 
 - to invidious creator and contributors!
