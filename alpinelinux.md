@@ -36,4 +36,16 @@ congrats your are IN! serious shit is coming :accessibility:
 
 just follow instructions, when the program exit don't hesitate to try your machine assumes the right information from your keystroke!
 
+## The hostname (machine name)
+
+```setup-hostname```
+
+name your machine, not a fully qualified domaine name.
+
+## The network (required)
+
+```setup-interfaces```
+
+The quickest way would be ethernet connected to a network that provide DHCP, however you can rely to the network(always via ethernet) using a static address which you need to be aware of the network pool and gateway addresses.
+
 # SOON®
