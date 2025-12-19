@@ -184,7 +184,15 @@ mount -v /dev/sda1 /mnt/boot
 swapon /dev/sda5
 ```
 
-homie's uneeded for this stage 
+homie's uneeded for this stage
+
+```
+cd / && zip -ry -9 /mnt/abnormal.zip ./bin ./etc ./lib ./sbin ./usr ./var ./tmp
+sync
+cd /mnt
+unzip -XK abnormal.zip
+mkdir -p dev proc sys root mnt opt home run
+```
 
 fuuuuu, ninja
 
