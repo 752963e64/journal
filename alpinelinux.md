@@ -54,4 +54,16 @@ The quickest way would be ethernet connected to a network that provide DHCP, how
 
 You can also use the WIFI if your WIFIcard is recognized by alpine... however this not handy... prepare your wifi key aside you to type it blindly YEAH it's a feature I heard 😸 welll anyway you are blind at this moment so don't shake on keystroke...
 
+## The TIMEZONE (very important in a time sharing system/network 😺)
+
+```setup-timezone```
+
+I live at 4hours from Paris so I put "Europe/Paris" find yours 🙂
+
+## The internal clock (RealTimeClock)
+
+```setup-ntp```
+
+choose busybox it's the best option no dependancies...
+
 # SOON®
