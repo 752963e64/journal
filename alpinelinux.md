@@ -161,7 +161,7 @@ You'll notice that we tweak inode size in some condition
 
 ```mkswap /dev/sda5```
 
-## Explanantion!
+### Explanantion!
 
 notice the use of small inodes, when a file is written to disk it is wrote on inodes... this means that 1k real size file with the usual inode setup is taking 4k space on disk... you understand why? now? 😙
 
@@ -174,6 +174,10 @@ the swap is big! must be if you got 8-16GB ram with memory intensive workload, y
 root partition is comfortable with 10GB... you can offload data at anytime by creating and mounting new partition with the rest of disk space 😙
 
 the home partition! must be separate you can apply some rules to it! and you can plug this home to all your systems that bind to it (passive directory 😄) 
+
+## commit push to disk!
+
+I changed my mind use ```setup-alpine``` 😸
 
 fuuuuu, ninja
 
