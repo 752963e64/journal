@@ -118,4 +118,37 @@ We install new package on the live system... don't worry it's normal...
 
 We gonna use fdisk to partition our disk like me...
 
+forget all data on your disk if you didn't do a backup...
+
+```fdisk /dev/sda```
+
+from there if you have partition on it delete them all following instruction in the software...
+
+make a new dos partition table
+
+create a new primary partition at the ending block prompt type +512M hit enter
+
+you should have one partition with a size of 512MB if that's okay let's continue!
+
+create a new extended partition hit enter to all prompt...
+
+create a new logical partition at end block prompt type +8G hit enter
+
+create a new logical partition at end block prompt type +10G hit enter
+
+create a new logical partition at end block prompt type +100G hit enter
+
+rest of your disk space is available at anytime even in a running system :)
+
+so you have:
+
+- /dev/sda1 => 512MB => /boot
+- /dev/sda2 => Extended partition => not a mountable partition
+- /dev/sda5 => 8GB => swap
+- /dev/sda6 => 10GB => /
+- /dev/sda7 => 100GB => /home
+- rest of your disk space available at runtime!
+
+fuuuuu, ninja
+
 # SOON®
