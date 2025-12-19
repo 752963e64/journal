@@ -126,17 +126,17 @@ from there if you have partition on it delete them all following instruction in 
 
 make a new dos partition table
 
-create a new primary partition at the ending block prompt type +512M hit enter
+create a new primary partition and at the ending block prompt type +512M hit enter
 
 you should have one partition with a size of 512MB if that's okay let's continue!
 
 create a new extended partition hit enter to all prompt...
 
-create a new logical partition at end block prompt type +8G hit enter
+create a new logical partition and at end block prompt type +8G hit enter
 
-create a new logical partition at end block prompt type +10G hit enter
+create a new logical partition and at end block prompt type +10G hit enter
 
-create a new logical partition at end block prompt type +100G hit enter
+create a new logical partition and at end block prompt type +100G hit enter
 
 rest of your disk space is available at anytime even in a running system :)
 
