@@ -177,7 +177,14 @@ the home partition! must be separate you can apply some rules to it! and you can
 
 ## commit push to disk!
 
-I changed my mind use ```setup-alpine``` 😸
+```sh
+mount -v /dev/sda6 /mnt
+mkdir -v /mnt/boot
+mount -v /dev/sda1 /mnt/boot
+swapon /dev/sda5
+```
+
+homie's uneeded for this stage 
 
 fuuuuu, ninja
 
