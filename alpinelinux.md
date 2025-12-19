@@ -149,6 +149,18 @@ so you have:
 - /dev/sda7 => 100GB => /home
 - rest of your disk space available at runtime!
 
+## Now we will setup filesystems
+
+You'll notice that we tweak inode size in some condition
+
+```mkfs.ext2 -T small /dev/sda1```
+
+```mkfs.ext4 -T small /dev/sda6```
+
+```mkfs.ext4 /dev/sda7```
+
+```mkswap /dev/sda5```
+
 fuuuuu, ninja
 
 # SOON®
