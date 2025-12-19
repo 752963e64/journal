@@ -2,7 +2,7 @@
 
 - A default managed install is not what you gonna find in this document!
 
-- At the end of this document describing my way! you'll be able fly, literally!
+- At the end of this document describing my way! you'll be able to fly, literally!
 
 ## Download the toolbox
 
@@ -30,5 +30,10 @@ type "root" hit return at prompt
 
 congrats your are IN! serious shit is coming :accessibility:
 
+## The keymap very important
+
+```setup-keymap```
+
+just follow instructions, when the program exit don't hesitate to try your machine assumes the right information from your keystroke!
 
 # SOON®
