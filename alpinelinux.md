@@ -32,6 +32,8 @@ congrats your are IN! serious shit is coming :accessibility:
 
 ## The keymap very important
 
+The interfaces between you and the machine must be mastered.
+
 ```setup-keymap```
 
 just follow instructions, when the program exit don't hesitate to try your machine assumes the right information from your keystroke!
@@ -44,8 +46,12 @@ name your machine, not a fully qualified domaine name.
 
 ## The network (required)
 
+The doorway between the machine and the DMZ(No Military Allowed) 😸 or the WAN(Wide Area Network) or just the network internet...
+
 ```setup-interfaces```
 
 The quickest way would be ethernet connected to a network that provide DHCP, however you can rely to the network(always via ethernet) using a static address which you need to be aware of the network pool and gateway addresses.
+
+You can also use the WIFI if your WIFIcard is recognized by alpine... however this not handy... prepare your wifi key aside you to type it blindly YEAH it's a feature I heard 😸 welll anyway you are blind at this moment so don't shake on keystroke...
 
 # SOON®
