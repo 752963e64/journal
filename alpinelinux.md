@@ -60,6 +60,12 @@ You can also use the WIFI if your WIFIcard is recognized by alpine... however th
 
 I live at 4hours from Paris so I put "Europe/Paris" find yours 🙂
 
+## The nameserver
+
+```echo "8.8.8.8" > /etc/resov.conf```
+
+We use big greedy corp just to finish setup or as failsafe... after we will setup an encrypted dns provider/server
+
 ## The internal clock (RealTimeClock)
 
 ```setup-ntp```
