@@ -167,7 +167,13 @@ notice the use of small inodes, when a file is written to disk it is wrote on in
 
 we separate /boot because it's totally useless in the userland... the boot partition can be read only, unmounted at boot or never mounted at all... well just keep mounting or remounting it when you update your system and a new kernel is available...
 
-The extended partition feature let us total freedom in its scale and you are no more limited to 4 partitions per disk!... 
+The extended partition feature let us total freedom in its scale and you are no more limited to 4 partitions per disk!...
+
+the swap is big! must be if you got 8-16GB ram with memory intensive workload, you can simply don't use it at all if you are owner of 60-100gb machine 🙂
+
+root partition is comfortable with 10GB... you can offload data at anytime by creating and mounting new partition with the rest of disk space 😙
+
+the home partition! must be separate you can apply some rules to it! and you can plug this home to all your systems that bind to it (passive directory 😄) 
 
 fuuuuu, ninja
 
