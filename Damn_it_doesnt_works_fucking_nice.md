@@ -99,6 +99,6 @@ AM wondering who are your clients... even the free security plug is very strange
 
 ## Oh I remember you
 
-long story short... all this shit happened cuz they tweaked binary with their feets... fortunately I don't depend on ubuntu... however I lost some data with this this experience...
+long story short... all this shit happened cuz they tweaked binary with their feets... fortunately I don't depend on ubuntu... however I lost some data with this experience...
 
 ###### 752963e64
