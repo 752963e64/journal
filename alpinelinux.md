@@ -86,6 +86,8 @@ choose busybox it's the best option no dependancies...
 
 Choose a mirror you put trust in (may be difficult! as they all dropping responsibility 🙂)
 
+Take russian mirror 😙
+
 ```setup-apkrepos```
 
 ```sed -i 's:http:https:g' /etc/apk/repositories```
@@ -93,5 +95,27 @@ Choose a mirror you put trust in (may be difficult! as they all dropping respons
 Yeah... **"security oriented"** with the basis of security **not applied**
 
 Anyway I sharp! I'm gonna bless your machine remember!
+
+## Update the living creature!
+
+```apk update```
+
+It should update repo... if it doesnt debug it yourself... it should WORK! 😙
+
+## Gear up the living creature!
+
+We install new package on the live system... don't worry it's normal...
+
+```apk add grub-bios zip util-linux```
+
+- grub-bios cuz it is bios install
+
+- zip cuz we gonna zip stuff to import on the filesystem
+
+- util-linux cuz we need better tool to part slice the disk...
+
+## Now you'll be a disk architect...
+
+We gonna use fdisk to partition our disk like me...
 
 # SOON®
