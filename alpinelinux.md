@@ -191,8 +191,12 @@ cd / && zip -ry -9 /mnt/abnormal.zip ./bin ./etc ./lib ./sbin ./usr ./var ./tmp
 sync
 cd /mnt
 unzip -XK abnormal.zip
-mkdir -p dev proc sys root mnt opt home run
+mkdir -p dev proc sys root mnt opt home run boot
 ```
+
+## wait I need a pause my brain is overheating :D
+
+I emulate an install in my head... it's costly to also write about it... but I'm thinking to it to write it down right! I need a coca glass some sugar energy :D
 
 fuuuuu, ninja
 
