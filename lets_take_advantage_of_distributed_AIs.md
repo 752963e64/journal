@@ -28,4 +28,10 @@ They really need to increase the mind lvl this AI... cuz I don't find it improve
 
 # Epilogue :D
 
+I understood how it works for very depending users... The machine couldn't trick me cuz I asked things with precision... it couldn't fail or look too much for a solution...
+
+those that doesn't know the precision are set to pay the bill... It's awful cuz it resell you compilation from free things collected abitrary style with no fucking respect to any authors... :D
+
 - Humanity introspection...
+
+# awesome no? 
