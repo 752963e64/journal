@@ -62,6 +62,8 @@ I live at 4hours from Paris so I put "Europe/Paris" find yours 🙂
 
 ## The nameserver
 
+permit to answer the resource locator, It's complex no? 😸
+
 ```echo "8.8.8.8" > /etc/resov.conf```
 
 We use big greedy corp just to finish setup or as failsafe... after we will setup an encrypted dns provider/server
@@ -71,5 +73,17 @@ We use big greedy corp just to finish setup or as failsafe... after we will setu
 ```setup-ntp```
 
 choose busybox it's the best option no dependancies...
+
+## apk repositories (it's not android apk 🙂)
+
+Choose a mirror you put trust in (may be difficult! as they all dropping responsibility 🙂)
+
+```setup-apkrepos```
+
+```sed -i 's:http:https:g' /etc/apk/repositories```
+
+Yeah... **"security oriented"** with the basis of security **not applied**
+
+Anyway I sharp! I'm gonna bless your machine remember!
 
 # SOON®
