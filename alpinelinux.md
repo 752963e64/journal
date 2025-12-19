@@ -163,6 +163,8 @@ You'll notice that we tweak inode size in some condition
 
 ## Explanantion!
 
+notice the use of small inodes, when a file is written to disk it is wrote on inodes... this means that 1k real size file with the usual inode setup is taking 4k space on disk... you understand why? now? 😙
+
 we separate /boot because it's totally useless in the userland... the boot partition can be read only, unmounted at boot or never mounted at all... well just keep mounting or remounting it when you update your system and a new kernel is available...
 
 The extended partition feature let us total freedom in its scale and you are no more limited to 4 partitions per disk!... 
