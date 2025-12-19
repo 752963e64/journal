@@ -4,6 +4,14 @@
 
 - At the end of this document describing my way! you'll be able to fly, literally!
 
+- RMS is bad at sharing his way... he lies
+
+- Linus uses Fedora because he as bad RMS 🙂
+
+- I would like to break in their personal network to confirm I'm right...
+
+- monstruous machines with super stuff inside 😸
+
 ## Download the toolbox
 
 [official release x86_64](https://dl-cdn.alpinelinux.org/alpine/v3.23/releases/x86_64/alpine-standard-3.23.2-x86_64.iso)
