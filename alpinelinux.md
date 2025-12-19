@@ -86,7 +86,7 @@ choose busybox it's the best option no dependancies...
 
 Choose a mirror you put trust in (may be difficult! as they all dropping responsibility 🙂)
 
-Take russian mirror 😙
+Take russian mirror and say "privet"! 😙
 
 ```setup-apkrepos```
 
@@ -127,6 +127,8 @@ from there if you have partition on it delete them all following instruction in 
 make a new dos partition table
 
 create a new primary partition and at the ending block prompt type +512M hit enter
+
+type a then hit enter. first partition should be bootable LBA zZZZZZZZzz
 
 you should have one partition with a size of 512MB if that's okay let's continue!
 
@@ -194,9 +196,9 @@ unzip -XK abnormal.zip
 mkdir -p dev proc sys root mnt opt home run boot
 ```
 
-## wait I need a pause my brain is overheating :D
+## from there
 
-I emulate an install in my head... it's costly to also write about it... but I'm thinking to it to write it down right! I need a coca glass some sugar energy :D
+THe system is installed, yeah already... 😄
 
 fuuuuu, ninja
 
