@@ -161,6 +161,12 @@ You'll notice that we tweak inode size in some condition
 
 ```mkswap /dev/sda5```
 
+## Explanantion!
+
+we separate /boot because it's totally useless in the userland... the boot partition can be read only, unmounted at boot or never mounted at all... well just keep mounting or remounting it when you update your system and a new kernel is available...
+
+The extended partition feature let us total freedom in its scale and you are no more limited to 4 partitions per disk!... 
+
 fuuuuu, ninja
 
 # SOON®
