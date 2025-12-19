@@ -6,8 +6,6 @@
 
 [official release x86_64](https://dl-cdn.alpinelinux.org/alpine/v3.23/releases/x86_64/alpine-standard-3.23.2-x86_64.iso)
 
-I don't have reliable arm board... so adapt yourself... if I get some reliable hardware I may update this document to fit with arm...
-
 ## flash it on USBSTICK
 
 ```dd if=<ISO_FILEPATH> of=/dev/sdX```
