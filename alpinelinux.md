@@ -1,4 +1,8 @@
-# AlpineLinux for the intimates, I proudly present to you "My way"
+# AlpineLinux for the intimates
+
+The race! Is led by an outperforming algorithm... You must master the technology!
+
+## I proudly present to you "My way"!
 
 I'm 752963e64 in between others alias Today I decided to share with you what I think the keys from different perspecives about the free software ecosystem and its utility.
 
