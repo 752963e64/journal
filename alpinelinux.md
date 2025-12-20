@@ -76,9 +76,15 @@ You can also use the WIFI if your WIFIcard is recognized by alpine... however th
 
 This is the stage 0 from installation... we will change the setup to fit some particular purpose, later...
 
-keep following instructions!
-
 at this moment you can test that your network is bound to your router is network pool by typing ```ping -c1 8.8.8.8``` If you see 100% packet loss. you did something wrong and you cannot continue...
+
+### network explanation
+
+At this moment you are connected by IP this is the basis of to roam data over a network. like sun's jonathan swartz said! The network is the computer and vice versa.
+
+Packet transit between IP addresses only! The shiny name you find in application to join a machine are resource locators it is an upper layer of the network that permit join services in a structured and attractive way.
+
+keep following instructions!
 
 ## The TIMEZONE (very important in a time sharing system/network 😺)
 
