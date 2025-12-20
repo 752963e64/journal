@@ -98,7 +98,7 @@ I live at 4hours from Paris so I put "Europe/Paris" find yours 🙂
 
 Permit to answer the resource locator, It's complex no? 😸
 
-The applications that read a resource locator to translate a fully qualified domain name (www.google.com,google.com,...) join a "nameserver" service over IP. 
+The applications that read a resource locator to translate a fully qualified domain name (www.google.com,google.com,...) join a "nameserver" service over IP to return an IP. 
 
 an URL is a prototcol ```http://google.com``` you need to learn about to use it like professionals.
 
