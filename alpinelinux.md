@@ -243,6 +243,32 @@ proc            					/proc     proc	rw,nosuid,nodev,noexec,relatime,hidepid=2   
 
 arrrghh, explanation with spikes 🙂... normally profesionals uses UUID... I find them ugly and highly uniqely identifying shit in some obscure context that could arrise 😙
 
+## my own system doesn't trust me :D
+
+```
+┌──(hackit@q6600)-[~]
+└─ $ fdisk -l
+fdisk: cannot open /dev/ram0: Permission denied
+fdisk: cannot open /dev/ram1: Permission denied
+fdisk: cannot open /dev/ram2: Permission denied
+fdisk: cannot open /dev/ram3: Permission denied
+fdisk: cannot open /dev/ram4: Permission denied
+fdisk: cannot open /dev/ram5: Permission denied
+fdisk: cannot open /dev/ram6: Permission denied
+fdisk: cannot open /dev/ram7: Permission denied
+fdisk: cannot open /dev/ram8: Permission denied
+fdisk: cannot open /dev/ram9: Permission denied
+fdisk: cannot open /dev/ram10: Permission denied
+fdisk: cannot open /dev/ram11: Permission denied
+fdisk: cannot open /dev/ram12: Permission denied
+fdisk: cannot open /dev/ram13: Permission denied
+fdisk: cannot open /dev/ram14: Permission denied
+fdisk: cannot open /dev/ram15: Permission denied
+fdisk: cannot open /dev/sdx: Permission denied
+fdisk: cannot open /dev/sdy: Permission denied
+fdisk: cannot open /dev/sdz: Permission denied
+```
+
 ## more to come :D
 
 fuuuuu, ninja
