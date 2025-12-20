@@ -12,6 +12,8 @@ This is not a product despite its increasing value but a document to master your
 
 - Linus uses Fedora because he as bad RMS... 🙂
 
+- Both of them cannot really answer question about their hacky relation with machines surrounding them... they can only act as an Ad board in front the public... 😸
+
 - I would like to break in their personal network to confirm I'm right...
 
 - monstruous machines with super stuff inside 😸
