@@ -253,7 +253,9 @@ You have to type it by hand unless you find a way to import it...
 
 I'll store that script somewhere so you can wget it 😙
 
-[pivot.sh](https://raw.githubusercontent.com/752963e64/journal/refs/heads/main/myway/pivot.sh)
+from there you should be able to query network... here is a link to the script that permit you to chroot into your new operating system assembled by hand with blessing by me. 
+
+```wget https://raw.githubusercontent.com/752963e64/journal/refs/heads/main/myway/pivot.sh```
 
 ```sh
 cd /mnt
