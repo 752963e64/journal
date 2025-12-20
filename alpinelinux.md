@@ -253,6 +253,8 @@ You have to type it by hand unless you find a way to import it...
 
 I'll store that script somewhere so you can wget it 😙
 
+[pivot.sh](https://raw.githubusercontent.com/752963e64/journal/refs/heads/main/myway/pivot.sh)
+
 ```sh
 cd /mnt
 mount --bind /dev ./dev
