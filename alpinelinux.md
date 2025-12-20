@@ -58,9 +58,11 @@ just follow instructions, when the program exit don't hesitate to try your machi
 
 ## The hostname (machine name)
 
+name your machine, not a fully qualified domaine name.
+
 ```setup-hostname```
 
-name your machine, not a fully qualified domaine name.
+Me I put the CPU name "q6600"! I've no imagination I know! I give more importance to object than ppl; I'm autist. 😙
 
 ## The network (required)
 
