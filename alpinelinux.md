@@ -82,7 +82,9 @@ permit to answer the resource locator, It's complex no? 😸
 
 ```echo "8.8.8.8" > /etc/resov.conf```
 
-We use big greedy corp just to finish setup or as failsafe... after we will setup an encrypted dns provider/server
+This server logs all queries for security and law, same shit with your ISP...
+
+We use this corp owned server just to finish setup or as failsafe... after we will setup an encrypted dns provider/server with some requirement that let us feel more safe...
 
 ## The internal clock (RealTimeClock)
 
