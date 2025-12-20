@@ -86,8 +86,6 @@ Packet transit between IP addresses only! The shiny name you find in application
 
 Your network(LAN) **shal** be regulated by yourself.
 
-The application that read a resource locator to translate a fully qualified domain name (www.google.com,google.com,...) join a "nameserver" service over IP. 
-
 keep following instructions!
 
 ## The TIMEZONE (very important in a time sharing system/network 😺)
@@ -98,8 +96,13 @@ I live at 4hours from Paris so I put "Europe/Paris" find yours 🙂
 
 ## The nameserver
 
-permit to answer the resource locator, It's complex no? 😸
+Permit to answer the resource locator, It's complex no? 😸
 
+The applications that read a resource locator to translate a fully qualified domain name (www.google.com,google.com,...) join a "nameserver" service over IP. 
+
+an URL is a prototcol ```http://google.com``` you need to learn about to use it like professionals.
+
+push a temporary nameserver
 ```echo "8.8.8.8" > /etc/resov.conf```
 
 This server logs all queries for security and law, same shit with your ISP...
