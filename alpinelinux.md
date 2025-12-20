@@ -1,4 +1,8 @@
-# AlpineLinux for the intimates
+# AlpineLinux for the intimates, I proudly present to you "My way"
+
+I'm 752963e64 in between others alias Today I decided to share with you what I think the keys from different perspecives about the free software ecosystem and its utility.
+
+This is not a product despite its increasing value but a document to master your environment by yourself.
 
 - A default managed install is not what you gonna find in this document!
 
@@ -198,7 +202,9 @@ mkdir -p dev proc sys root mnt opt home run boot
 
 ## from there
 
-THe system is installed, yeah already... 😄
+THe system is installed on disk, yeah already... 😄
+
+by now we need to chroot /mnt, setup a few things and install grub...
 
 fuuuuu, ninja
 
