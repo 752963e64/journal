@@ -8,9 +8,9 @@ This is not a product despite its increasing value but a document to master your
 
 - At the end of this document describing my way! you'll be able to fly, literally!
 
-- RMS is bad at sharing his way... he lies
+- RMS is bad at sharing his way... he lies... He is certainly running his own kernel with pristine prog!
 
-- Linus uses Fedora because he as bad RMS 🙂
+- Linus uses Fedora because he as bad RMS... 🙂
 
 - I would like to break in their personal network to confirm I'm right...
 
@@ -85,6 +85,10 @@ permit to answer the resource locator, It's complex no? 😸
 We use big greedy corp just to finish setup or as failsafe... after we will setup an encrypted dns provider/server
 
 ## The internal clock (RealTimeClock)
+
+This permit to setup the real time clock, so your computer remain o'clock...
+
+It is highly recommended for clock dependant softwares...
 
 ```setup-ntp```
 
