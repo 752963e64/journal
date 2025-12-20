@@ -10,7 +10,7 @@ This is not a product despite its increasing value but a document to master your
 
 - RMS is bad at sharing his way... he lies... He is certainly running his own kernel with pristine prog!
 
-- Linus uses Fedora because he as bad RMS... 🙂
+- Linus promote Fedora because he as bad RMS... 🙂
 
 - Both of them cannot really answer question about their hacky relation with machines surrounding them... they can only act as an Ad board in front the public... 😸
 
