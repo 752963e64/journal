@@ -204,11 +204,45 @@ unzip -XK abnormal.zip
 mkdir -p dev proc sys root mnt opt home run boot
 ```
 
-## from there
+## setup kernel filesystems then bind /mnt
 
 THe system is installed on disk, yeah already... 😄
 
-by now we need to chroot /mnt, setup a few things and install grub...
+by now we need to chroot /mnt
+
+```sh
+cd /mnt
+mount --bind /dev ./dev
+mount -t devpts devpts ./dev/pts -o nosuid,noexec
+mount -t sysfs sys ./sys -o nosuid,nodev,noexec,ro
+mount -t proc proc ./proc -o nosuid,nodev,noexec
+mount -t tmpfs tmp ./tmp -o mode=1777,nosuid,nodev,strictatime
+#mount -t tmpfs run ./run -o mode=0755,nosuid,nodev
+if [ -L ./dev/shm ]; then
+  mkdir -p ./`readlink ./dev/shm`
+  mount -t tmpfs shm ./`readlink ./dev/shm` -o mode=1777,nosuid,nodev
+else
+  mount -t tmpfs shm ./dev/shm -o mode=1777,nosuid,nodev
+fi
+
+chroot . /usr/bin/env -i SHELL=/bin/sh HOME=/root TERM=linux PATH=/usr/sbin:/usr/bin:/sbin:/bin /bin/sh
+```
+
+## Your are inside your future system
+
+from there we need to creat an /etc/fstab = filesystem table? nevermind...
+
+/etc/fstab:
+```
+/dev/sda6						      /		      ext4	rw,relatime				                          0 1
+/dev/sda1						      /boot		  ext2	ro,relatime 				                        0 0
+/dev/sda7						      /home		  ext4	rw,relatime				                          0 2
+/dev/sda5						      swap    	swap	defaults				                            0 0
+proc            					/proc     proc	rw,nosuid,nodev,noexec,relatime,hidepid=2   0 0
+```
+
+
+setup a few things and install grub...
 
 fuuuuu, ninja
 
