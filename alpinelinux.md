@@ -243,30 +243,21 @@ proc            					/proc     proc	rw,nosuid,nodev,noexec,relatime,hidepid=2   
 
 arrrghh, explanation with spikes 🙂... normally profesionals uses UUID... I find them ugly and highly uniqely identifying shit in some obscure context that could arrise 😙
 
-## my own system doesn't trust me :D
+anyway you'll have to use ```blkid``` program to grab all UUID and replace to respective partition in /etc/fstab
 
+like so
+```UUID=bd8bbd25-9df0-4456-88a9-ef6a19fdb808     /		      ext4	rw,relatime				                          0 1```
+
+when it's done you can protect it from lurker using ```chmod o-rwx /etc/fstab```
+
+It is obligatory because the disk index may bind to another disk if there is another disk plugged...
+
+demo from the wizard
 ```
 ┌──(hackit@q6600)-[~]
-└─ $ fdisk -l
-fdisk: cannot open /dev/ram0: Permission denied
-fdisk: cannot open /dev/ram1: Permission denied
-fdisk: cannot open /dev/ram2: Permission denied
-fdisk: cannot open /dev/ram3: Permission denied
-fdisk: cannot open /dev/ram4: Permission denied
-fdisk: cannot open /dev/ram5: Permission denied
-fdisk: cannot open /dev/ram6: Permission denied
-fdisk: cannot open /dev/ram7: Permission denied
-fdisk: cannot open /dev/ram8: Permission denied
-fdisk: cannot open /dev/ram9: Permission denied
-fdisk: cannot open /dev/ram10: Permission denied
-fdisk: cannot open /dev/ram11: Permission denied
-fdisk: cannot open /dev/ram12: Permission denied
-fdisk: cannot open /dev/ram13: Permission denied
-fdisk: cannot open /dev/ram14: Permission denied
-fdisk: cannot open /dev/ram15: Permission denied
-fdisk: cannot open /dev/sdx: Permission denied
-fdisk: cannot open /dev/sdy: Permission denied
-fdisk: cannot open /dev/sdz: Permission denied
+└─ $ blkid
+┌──(hackit@q6600)-[~]
+└─ $ 
 ```
 
 ## more to come :D
