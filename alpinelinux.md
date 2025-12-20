@@ -22,6 +22,10 @@ This is not a product despite its increasing value but a document to master your
 
 ## flash it on USBSTICK
 
+type the iso file path without >< and take care your device selection...
+
+commande is ran as root...
+
 ```dd if=<ISO_FILEPATH> of=/dev/sdX```
 
 wait a long moment, if your hardware is from fire era... (like me) 😸
