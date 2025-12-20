@@ -111,6 +111,8 @@ We use this corp owned server just to finish setup or as failsafe... after we wi
 
 The Main problem from these federated services is that owners are vicious and users unaware what they outsourcing and how it is used.
 
+However you can rely entirely on IP for security reason, this requiert you to master how protocols works.
+
 ## The internal clock (RealTimeClock)
 
 This permit to setup the real time clock, so your computer remain o'clock...
