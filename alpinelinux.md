@@ -200,7 +200,7 @@ like so: ```/dev/sda8						      /var		      ext4	rw,defaults,relatime				      
 
 awesome? 😙
 
-so you have:
+so you have: 
 
 - /dev/sda1 => 512MB => /boot
 - /dev/sda2 => Extended partition => not a mountable partition
