@@ -158,6 +158,10 @@ create a new logical partition and at end block prompt type +100G hit enter
 
 rest of your disk space is available at anytime even in a running system :)
 
+by adding a line for your new partition in the mount table ```/etc/fstab```
+
+like so: ```/dev/sda8						      /var		      ext4	rw,defaults,relatime				                          0 1```
+
 so you have:
 
 - /dev/sda1 => 512MB => /boot
