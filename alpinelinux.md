@@ -80,9 +80,11 @@ at this moment you can test that your network is bound to your router is network
 
 ### network explanation
 
-At this moment you are connected by IP this is the basis of to roam data over a network. like sun's jonathan swartz said! The network is the computer and vice versa.
+At this moment you are connected by IP (0.0.0.0) this is the basis to roam data over a network. like sun's jonathan swartz said! The network is the computer and vice versa.
 
 Packet transit between IP addresses only! The shiny name you find in application to join a machine over the network are resource locators it is an upper layer of the network that permit join services in a structured and attractive way.
+
+The application that read a resource locator to translate a fully qualified domain name (www.google.com,google.com,...) join a "nameserver" service over IP. 
 
 keep following instructions!
 
