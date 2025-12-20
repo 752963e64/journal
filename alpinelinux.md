@@ -241,8 +241,9 @@ from there we need to creat an /etc/fstab = filesystem table? nevermind...
 proc            					/proc     proc	rw,nosuid,nodev,noexec,relatime,hidepid=2   0 0
 ```
 
+arrrghh, explanation with spikes 🙂... normally profesionals uses UUID... I find them ugly and highly uniqely identifying shit in some obscure context that could arrise 😙
 
-setup a few things and install grub...
+## more to come :D
 
 fuuuuu, ninja
 
