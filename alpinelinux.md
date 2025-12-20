@@ -262,7 +262,7 @@ demo from the wizard
 
 ## more to come :D
 
-Doing it from memory is fun but it feels like lot of pretention I don't want to lead any ppl in error shit... so gotta verify all of it a lil after or tomorrow hope to finish for santa day 
+Doing it from memory is fun but it feels like lot of pretention I don't want to lead any ppl in error shit... so gotta verify all of it a lil after or tomorrow hope to finish for santa day cuz it's not even 10% from what I'm about to write.
 
 fuuuuu, ninja
 
