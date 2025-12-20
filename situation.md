@@ -1,0 +1,5 @@
+# Situation context given
+
+You may find you, in strange situation...
+
+# lol®
