@@ -257,6 +257,7 @@ from there you should be able to query network... here is a link to the script t
 
 ```wget https://raw.githubusercontent.com/752963e64/journal/refs/heads/main/myway/pivot.sh```
 
+here is the script for reference.
 ```sh
 cd /mnt
 mount --bind /dev ./dev
@@ -275,9 +276,11 @@ fi
 chroot . /usr/bin/env -i SHELL=/bin/sh HOME=/root TERM=linux PATH=/usr/sbin:/usr/bin:/sbin:/bin /bin/sh
 ```
 
+just issue ```chmod +x pivot.sh && ./pivot.sh```
+
 ## Your are inside your future system
 
-from there we need to creat an /etc/fstab = filesystem table? nevermind...
+From there we need to creat an /etc/fstab = filesystem table? nevermind...
 
 /etc/fstab:
 ```
