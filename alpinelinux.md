@@ -74,6 +74,12 @@ The quickest way would be ethernet connected to a network that provide DHCP, how
 
 You can also use the WIFI if your WIFIcard is recognized by alpine... however this not handy... prepare your wifi key aside you to type it blindly YEAH it's a feature I heard 😸 welll anyway you are blind at this moment so don't shake on keystroke...
 
+This is the stage 0 from installation... we will change the setup to fit some particular purpose, later...
+
+keep following instructions!
+
+at this moment you can test that your network is bound to your router is network pool by typing ```ping -c1 8.8.8.8``` If you see 100% packet loss. you did something wrong and you cannot continue...
+
 ## The TIMEZONE (very important in a time sharing system/network 😺)
 
 ```setup-timezone```
