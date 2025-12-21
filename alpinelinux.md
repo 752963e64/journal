@@ -229,6 +229,27 @@ You should have one partition with a size of 512MB if that's okay let's continue
 
 - create a new logical partition and at end block prompt type +100G hit enter
 
+It should look like this:
+
+```sh
+Disk /dev/sda: 970 GiB, 21474836480 bytes, 41943040 sectors
+Disk model: QEMU HARDDISK   
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x37bac162
+
+Device     Boot    Start      End  Sectors  Size Id Type
+/dev/sda1  *        2048  1050623  1048576  512M 83 Linux
+/dev/sda2        1050624 41943039 40892416  969G  5 Extended
+/dev/sda5        1052672  5246975  4194304    8G 82 Linux swap / Solaris
+/dev/sda6        5249024 26220543 20971520   10G 83 Linux
+/dev/sda7       26222592 41943039 15720448  100G 83 Linux
+
+Command (m for help):
+```
+
 **rest of your disk space is available at anytime even in a running system :)**
 
 By adding a line for your new partition(s) in the mount table ```/etc/fstab``` at anytime runtime!
