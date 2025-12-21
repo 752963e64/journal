@@ -91,7 +91,7 @@ Me I put the CPU name "q6600"! I've no imagination I know! I give more importanc
 
 The doorway between the machine and the DMZ(No Military Allowed) 😸, the WAN(Wide Area Network), internet or simply your own LAN(Local Area Network)...
 
-```setup-interfaces```
+```setup-interfaces && /etc/init.d/networking start```
 
 The quickest way would be ethernet connected to a network that provide DHCP(is a protocol), however you can rely to the network(always via ethernet or WiFi) using a static address which you need to be aware of the network pool and gateway addresses.
 
