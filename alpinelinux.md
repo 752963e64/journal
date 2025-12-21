@@ -40,16 +40,18 @@ Plug the usbstick! 🙂 and then find out its architecture into by typing ```dme
 
 You should see a new device at end the log ```/dev/sdX``` This is your USB storage DEVICE!
 
-Now type the iso file path without >< and take care your device selection...
+**take care your device selection...**
 
 commande is ran as root...
-```dd if=<ISO_FILEPATH> of=/dev/sdX```
+```dd if=alpine-standard-3.23.2-x86_64.iso of=/dev/sdX```
 
 wait a long moment, if your hardware is from fire era... (like me) 😸
 
 ```sync```
 
 Obligatory toilet flush with removable devices... (psssst... many ppl lost their data like this because they didn't flush data before removing device...)
+
+This is also true for SDCARD!
 
 now you can remove the usb stick and plug it to the machine you wish I bless with you.
 
@@ -59,13 +61,17 @@ boot up the machine and select your pendrive as bootdevice from your bios... if 
 
 I wont debug such problem with you...
 
-type "root" hit return at prompt
+You should end on a login prompt!
+
+Type ```root``` hit return
 
 congrats your are IN! serious shit is coming :accessibility:
 
 ## The keymap very important
 
 The interfaces between you and the machine must be mastered.
+
+Despite its seamless integration devices need setup.
 
 ```setup-keymap```
 
