@@ -110,7 +110,9 @@ Packet transit between IP addresses via protocols like TCP, UDP! The shiny name 
 
 Your network(LAN) **shal** be regulated by yourself.
 
-IP network works with 2 types of IP strategy. IPv4 and IPv6. Here we disabled IPv6 transport. 
+IP network works with 2 types of IP strategy. IPv4 and IPv6. Here we disabled IPv6 transport.
+
+IP rely on [ARP](https://en.wikipedia.org/wiki/Address_Resolution_Protocol)(Address Resolution Protocol)
 
 keep following instructions!
 
@@ -289,7 +291,7 @@ mkdir -p dev proc sys root mnt opt home run boot
 
 The system is installed on disk, yeah already... 😄
 
-By now we need mount live kernel filesystems to your operating system copy on disk so we can operate on that operating system as we had booted it.
+By now we need mount the running kernel's filesystems to your operating system copy on disk so we can operate on that operating system as we had booted it.
 
 From there you should be able to query network... here is a link to the script that permit you to chroot into your new operating system assembled by hand with blessing by me. 
 
@@ -316,7 +318,7 @@ chroot . /usr/bin/env -i SHELL=/bin/sh HOME=/root TERM=linux PATH=/usr/sbin:/usr
 
 just issue ```chmod +x pivot.sh && ./pivot.sh```
 
-## Your are inside your future system
+## Your are now inside your future system
 
 From there we need to create an /etc/fstab = filesystem table? nevermind...
 
