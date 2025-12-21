@@ -6,7 +6,9 @@ The race! Is led by an outperforming algorithm... You must master the technology
 
 ## I proudly present to you "My way"!
 
-I'm 752963e64 in between others alias Today I decided to share with you what I think the keys from different perspecives about the free software ecosystem and its utility.
+I'm 752963e64 in between others alias, I'm literally nobody in this game not to be confused.
+
+Today I decided to share with you what I think the keys from different perspecives about the free software ecosystem and its utility.
 
 This is not a product despite its increasing value but a document to master your environment by yourself.
 
