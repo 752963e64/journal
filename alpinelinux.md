@@ -130,7 +130,7 @@ A nameserver service uses the DNS protocol.
 an URL is a prototcol ```http://google.com``` you need to learn about to use it like professionals.
 
 push a temporary nameserver
-```echo "8.8.8.8" > /etc/resov.conf```
+```echo "nameserver 8.8.8.8" > /etc/resov.conf```
 
 This server logs all queries for security and law, same shit with your ISP...
 
