@@ -111,7 +111,9 @@ keep following instructions!
 
 ## The TIMEZONE (very important in a time sharing system/network 😺)
 
-Your operating system needs to be aware of your timezone to apply the time difference the Universal Time Clock **UTC**
+Your operating system needs to be aware of your timezone to apply the time difference to the Universal Time Clock **UTC** which is gathered from servers all over the world via NTP...
+
+These servers uses time precision methods to stay synchronized!
 
 ```setup-timezone```
 
