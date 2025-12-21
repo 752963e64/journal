@@ -142,7 +142,7 @@ They also auditing... for deceptive and dangerous content... it's not bad at all
 
 However you can rely entirely on IP for security reason, this requiert you to master how protocols works. Nameservers aren't a requirement to exchange over the network, it's just comfort.
 
-You can name machine internaly and still be able to query machine and fully qualified domain name! via ```/etc/hosts```
+You can name machine internaly and still be able to query fully qualified domain names! via ```/etc/hosts```
 
 ## The internal clock (RealTimeClock)
 
@@ -168,7 +168,7 @@ Take russian mirror and say "privet"! 😙
 
 ```sed -i 's:http:https:g' /etc/apk/repositories```
 
-Yeah... **"security oriented"** with the basis of security **not applied**
+**"security oriented"** with the basis of security **not applied**
 
 Anyway I sharp! I'm gonna bless your machine remember!
 
@@ -176,7 +176,7 @@ Anyway I sharp! I'm gonna bless your machine remember!
 
 ```apk update```
 
-It should update repo... if it doesnt debug it yourself... it should WORK! 😙
+It should update repo... if it doesn't, debug it yourself... it should WORK! 😙
 
 ## Gear up the living creature!
 
@@ -204,7 +204,7 @@ from there if you have partition on it delete them all following instruction in 
 
 - create a new primary partition and at the ending block prompt type +512M hit enter
 
-type a then hit enter. first partition should be bootable LBA zZZZZZZZzz
+type a then hit enter. first partition should be bootable LBA (LEGACY BOOT ADDRESS)
 
 you should have one partition with a size of 512MB if that's okay let's continue!
 
@@ -259,7 +259,7 @@ Root partition is comfortable with 10GB... you can offload data at anytime by cr
 
 The home partition! must be separate you can apply some rules to it! and you can plug this home to all your systems that bind to it (passive directory 😄) 
 
-## commit push to disk!
+## Mount filesystem layout!
 
 ```sh
 mount -v /dev/sda6 /mnt
@@ -270,6 +270,8 @@ swapon /dev/sda5
 
 homie's uneeded for this stage
 
+## Copy the live system to filesystem
+
 ```
 cd / && zip -ry -9 /mnt/abnormal.zip ./bin ./etc ./lib ./sbin ./usr ./var ./tmp
 sync
@@ -278,7 +280,7 @@ unzip -XK abnormal.zip
 mkdir -p dev proc sys root mnt opt home run boot
 ```
 
-## setup kernel filesystems then bind /mnt
+## Setup kernel filesystems
 
 The system is installed on disk, yeah already... 😄
 
