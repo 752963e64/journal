@@ -260,11 +260,13 @@ like so: ```/dev/sda8						      /var		      ext4	rw,defaults,relatime				      
 
 So you have: 
 
-- /dev/sda1 => 512MB => /boot
-- /dev/sda2 => Extended partition => not a mountable partition
-- /dev/sda5 => 8GB => swap
-- /dev/sda6 => 10GB => /
-- /dev/sda7 => 100GB => /home
+| partition  | Size      | MountPoint           |
+| ---------- | --------- | -------------------- |
+|  /dev/sda1 | 512MB | /boot  |
+|  /dev/sda5 | 8GB | swap  |
+|  /dev/sda6 | 10GB | /  |
+|  /dev/sda7 | 100GB | /home  |
+
 - rest of your disk space available at runtime!
 
 ## Now we will setup filesystems
