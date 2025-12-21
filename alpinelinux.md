@@ -97,6 +97,9 @@ You can also use the WiFi if your WifIcard is recognized by alpine... however th
 
 This is the stage 0 from installation... we will change the setup to fit some particular purpose, later...
 
+Disable IPv6 like so, It's unreliable idiotsyncratic shit.
+```sysctl net.ipv6.conf.all.disable_ipv6=1 && echo "net.ipv6.conf.all.disable_ipv6=1" >> /etc/sysctl.conf```
+
 at this moment you can test that your network is bound to your router's network pool by typing ```ping -c1 8.8.8.8``` If you see 100% packet loss. you did something wrong and you cannot continue, YOU MUST BE CONNECTED to an IP network first...
 
 ### network explanation
