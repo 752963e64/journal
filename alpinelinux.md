@@ -55,7 +55,7 @@ This is also true for SDCARD!
 
 now you can remove the usb stick and plug it to the machine you wish I bless with you.
 
-## bootstrap your machine
+## Bootstrap your machine
 
 boot up the machine and select your pendrive as bootdevice from your bios... if it boots you are lucky...
 
@@ -102,13 +102,15 @@ Disable IPv6 like so, It's unreliable idiotsyncratic shit.
 
 at this moment you can test that your network is bound to your router's network pool by typing ```ping -c1 8.8.8.8``` If you see 100% packet loss. you did something wrong and you cannot continue, YOU MUST BE CONNECTED to an IP network first...
 
-### network explanation
+### Network explanation
 
 At this moment you are connected by IP (0.0.0.0) to your network(LAN=Local Area Network) this is the basis to roam data over a network. like sun's jonathan swartz said! The network is the computer and vice versa.
 
 Packet transit between IP addresses via protocols like TCP, UDP! The shiny name you find in application to join a machine over the network are resource locators it is an upper layer of the network that permit join services in a structured and attractive way. This is a regulated domain of computing like the network(WAN) itself... some domain name aren't cheap, you depend on the applicable law...
 
 Your network(LAN) **shal** be regulated by yourself.
+
+IP network works with 2 types of IP strategy. IPv4 and IPv6. Here we disabled IPv6 transport. 
 
 keep following instructions!
 
