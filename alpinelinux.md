@@ -207,19 +207,19 @@ We install new package on the live system... don't worry it's normal...
 
 We gonna use fdisk to partition our disk like me...
 
-forget all data on your disk if you didn't do a backup...
+Forget all data on your disk if you didn't do a backup...
 
 ```fdisk /dev/sda```
 
-from there if you have partition on it delete them all following instruction in the software...
+From there if you have partition on it delete them all following instruction in the software...
 
 - make a new dos partition table
 
 - create a new primary partition and at the ending block prompt type +512M hit enter
 
-type a then hit enter. first partition should be bootable LBA (LEGACY BOOT ADDRESS)
+Type a then hit enter. first partition should be bootable LBA (LEGACY BOOT ADDRESS)
 
-you should have one partition with a size of 512MB if that's okay let's continue!
+You should have one partition with a size of 512MB if that's okay let's continue!
 
 - create a new extended partition hit enter to all prompt...
 
@@ -231,13 +231,13 @@ you should have one partition with a size of 512MB if that's okay let's continue
 
 **rest of your disk space is available at anytime even in a running system :)**
 
-by adding a line for your new partition(s) in the mount table ```/etc/fstab``` at anytime runtime!
+By adding a line for your new partition(s) in the mount table ```/etc/fstab``` at anytime runtime!
 
 like so: ```/dev/sda8						      /var		      ext4	rw,defaults,relatime				                          0 1```
 
-awesome? 😙
+**awesome?** 😙
 
-so you have: 
+So you have: 
 
 - /dev/sda1 => 512MB => /boot
 - /dev/sda2 => Extended partition => not a mountable partition
