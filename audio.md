@@ -4,4 +4,8 @@ It makes me remind the strange HIFI noises "something has been plugged" comming 
 
 Nowaday I have a cool intel soundcard 7.1 however I never used more than 2 channel :D
 
+# wire up your linux to an HiFi!
+
+Pristine sound!
+
 # audiothings :D
