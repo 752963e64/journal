@@ -75,7 +75,7 @@ Despite its seamless integration devices need setup.
 
 ```setup-keymap```
 
-just follow instructions, when the program exit don't hesitate to try your machine assumes the right information from your keystroke!
+just follow instructions, when the program exit don't hesitate to try your operating system assumes the right information from your keystroke!
 
 ## The hostname (machine name)
 
