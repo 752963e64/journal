@@ -38,7 +38,7 @@ To remain Plug & Play for all parties! The program must be free and available to
 
 ## flash it on USBSTICK
 
-Plug the usbstick! 🙂 and then find out its architecture into by typing ```dmesg```
+Plug the usbstick! 🙂 and then find out its architecture by typing ```dmesg```
 
 You should see a new device at end the log ```/dev/sdX``` This is your USB storage DEVICE!
 
