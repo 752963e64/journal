@@ -111,6 +111,8 @@ keep following instructions!
 
 ## The TIMEZONE (very important in a time sharing system/network 😺)
 
+Your operating system needs to be aware of your timezone to apply the time difference the Universal Time Clock **UTC**
+
 ```setup-timezone```
 
 I live at 4hours from Paris so I put "Europe/Paris" find yours 🙂
