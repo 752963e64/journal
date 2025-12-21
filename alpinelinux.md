@@ -125,6 +125,8 @@ Permit to answer the resource locator, It's complex no? 😸
 
 The applications that read a resource locator to translate a fully qualified domain name (www.google.com,google.com,...) join a "nameserver" service over IP to return an IP. 
 
+A nameserver service uses the DNS protocol.
+
 an URL is a prototcol ```http://google.com``` you need to learn about to use it like professionals.
 
 push a temporary nameserver
