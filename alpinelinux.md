@@ -112,7 +112,7 @@ Your network(LAN) **shal** be regulated by yourself.
 
 IP network works with 2 types of IP strategy. IPv4 and IPv6. Here we disabled IPv6 transport.
 
-IP rely on [ARP](https://en.wikipedia.org/wiki/Address_Resolution_Protocol)(Address Resolution Protocol)
+IP rely on [ARP](https://en.wikipedia.org/wiki/Address_Resolution_Protocol)(Address Resolution Protocol) this is the link layer that register you on a network router.
 
 keep following instructions!
 
