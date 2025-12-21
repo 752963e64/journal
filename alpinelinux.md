@@ -176,6 +176,8 @@ Take russian mirror and say "privet"! 😙
 ```setup-apkrepos```
 
 ```sed -i 's:http:https:g' /etc/apk/repositories```
+```sed -i 's:#::' /etc/apk/repositories```
+```sed -i 's:/:#/:' /etc/apk/repositories```
 
 **"security oriented"** with the basis of security **not applied**
 
