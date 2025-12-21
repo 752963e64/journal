@@ -103,7 +103,7 @@ at this moment you can test that your network is bound to your router's network 
 
 At this moment you are connected by IP (0.0.0.0) to your network(LAN=Local Area Network) this is the basis to roam data over a network. like sun's jonathan swartz said! The network is the computer and vice versa.
 
-Packet transit between IP addresses only! The shiny name you find in application to join a machine over the network are resource locators it is an upper layer of the network that permit join services in a structured and attractive way. This is a regulated domain of computing like the network(WAN) itself... some domain name aren't cheap, you depend on the applicable law...
+Packet transit between IP addresses only via protocol like TCP,UDP! The shiny name you find in application to join a machine over the network are resource locators it is an upper layer of the network that permit join services in a structured and attractive way. This is a regulated domain of computing like the network(WAN) itself... some domain name aren't cheap, you depend on the applicable law...
 
 Your network(LAN) **shal** be regulated by yourself.
 
