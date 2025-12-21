@@ -313,7 +313,7 @@ just issue ```chmod +x pivot.sh && ./pivot.sh```
 
 ## Your are inside your future system
 
-From there we need to creat an /etc/fstab = filesystem table? nevermind...
+From there we need to create an /etc/fstab = filesystem table? nevermind...
 
 /etc/fstab:
 ```
