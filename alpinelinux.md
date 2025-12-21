@@ -284,7 +284,7 @@ mkdir -p dev proc sys root mnt opt home run boot
 
 The system is installed on disk, yeah already... 😄
 
-By now we need to chroot /mnt
+By now we need mount live kernel filesystems to your operating system copy on disk so we can operate on that operating system as we had booted it.
 
 From there you should be able to query network... here is a link to the script that permit you to chroot into your new operating system assembled by hand with blessing by me. 
 
