@@ -22,7 +22,9 @@ This is not a product despite its increasing value but a document to master your
 
 - monstruous machines with super stuff inside 😸
 
-- FOR THE PC ABSTRACTION! To remain Plug & Play for all parties! The program must be free and available to all. 
+### FOR THE PC ABSTRACTION!
+
+To remain Plug & Play for all parties! The program must be free and available to all. This is the basis from this ecosystem.
 
 ## Download the toolbox
 
