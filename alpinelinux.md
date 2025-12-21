@@ -22,13 +22,17 @@ This is not a product despite its increasing value but a document to master your
 
 - monstruous machines with super stuff inside 😸
 
+- FOR THE PC ABSTRACTION! To remain Plug & Play for all parties! The program must be free and available to all. 
+
 ## Download the toolbox
 
 [official release x86_64](https://dl-cdn.alpinelinux.org/alpine/v3.23/releases/x86_64/alpine-standard-3.23.2-x86_64.iso)
 
+```wget https://dl-cdn.alpinelinux.org/alpine/v3.23/releases/x86_64/alpine-standard-3.23.2-x86_64.iso```
+
 ## flash it on USBSTICK
 
-Plug the the plug! 🙂 and then find out its architecture into ```dmesg```
+Plug the usbstick! 🙂 and then find out its architecture into by typing ```dmesg```
 
 You should see a new device at end the log ```/dev/sdX``` This is your USB storage DEVICE!
 
