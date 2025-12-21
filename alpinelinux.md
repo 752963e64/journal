@@ -159,7 +159,7 @@ It is highly recommended for clock dependant softwares...
 
 choose busybox it's the best option no dependancies...
 
-Note that the CPU can perform clock operation without an **RTC**
+Note that the CPU can perform high precision clock operation without an **RTC**
 
 ## apk repositories (it's not android apk 🙂)
 
