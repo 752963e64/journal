@@ -195,7 +195,7 @@ It should update repo... if it doesn't, debug it yourself... it should WORK! ðŸ˜
 
 We install new package on the live system... don't worry it's normal...
 
-```apk add grub-bios zip util-linux```
+```apk add grub-bios zip util-linux e2fsprogs```
 
 - grub-bios cuz it is bios install
 
