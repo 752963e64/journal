@@ -111,7 +111,7 @@ keep following instructions!
 
 ## The TIMEZONE (very important in a time sharing system/network 😺)
 
-Your operating system needs to be aware of your timezone to apply the time difference to the Universal Time Clock **UTC** which is gathered from servers all over the world via NTP...
+Your operating system needs to be aware of your timezone to apply the time difference to the Universal Time Clock **UTC** which is gathered from servers all over the world via NTP servers... NTP is a protocol.
 
 These servers uses time precision methods to stay synchronized and share this synchronization to all participants freely over the network! this permit to corelate time in applications depending on time!
 
