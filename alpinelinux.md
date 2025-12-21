@@ -1,5 +1,7 @@
 # AlpineLinux for the intimates
 
+**NOTICE** This document is written by me, It is currently not finish! Copilot has been used to write commit message for beginning part until it left me abruptly... I don't care the commit messages, so there won't be information anymore about the building process from this document... this source doesn't need to go backward. 😸 
+
 The race! Is led by an outperforming algorithm... You must master the technology!
 
 ## I proudly present to you "My way"!
