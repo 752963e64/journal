@@ -142,7 +142,7 @@ They also auditing... for deceptive and dangerous content... it's not bad at all
 
 However you can rely entirely on IP for security reason, this requiert you to master how protocols works. Nameservers aren't a requirement to exchange over the network, it's just comfort.
 
-You can name machine internaly and still be able to query Resource Locator! via ```/etc/hosts```
+You can name machine internaly and still be able to query machine and fqdn! via ```/etc/hosts```
 
 ## The internal clock (RealTimeClock)
 
