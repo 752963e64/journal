@@ -87,7 +87,7 @@ Me I put the CPU name "q6600"! I've no imagination I know! I give more importanc
 
 ## The network (required)
 
-The doorway between the machine and the DMZ(No Military Allowed) 😸, the WAN(Wide Area Network), just the network internet or simply your own LAN(Local Area Network)...
+The doorway between the machine and the DMZ(No Military Allowed) 😸, the WAN(Wide Area Network), internet or simply your own LAN(Local Area Network)...
 
 ```setup-interfaces```
 
