@@ -113,7 +113,7 @@ keep following instructions!
 
 Your operating system needs to be aware of your timezone to apply the time difference to the Universal Time Clock **UTC** which is gathered from servers all over the world via NTP...
 
-These servers uses time precision methods to stay synchronized!
+These servers uses time precision methods to stay synchronized and share this synchronization to all participants freely over the network! this permit to corelate time in application depending on time!
 
 ```setup-timezone```
 
