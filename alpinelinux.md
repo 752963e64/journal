@@ -284,15 +284,11 @@ The system is installed on disk, yeah already... 😄
 
 By now we need to chroot /mnt
 
-You have to type it by hand unless you find a way to import it...
-
-I'll store that script somewhere so you can wget it 😙
-
-from there you should be able to query network... here is a link to the script that permit you to chroot into your new operating system assembled by hand with blessing by me. 
+From there you should be able to query network... here is a link to the script that permit you to chroot into your new operating system assembled by hand with blessing by me. 
 
 ```wget https://raw.githubusercontent.com/752963e64/journal/refs/heads/main/myway/pivot.sh```
 
-here is the script for reference.
+Here is the script for reference.
 ```sh
 cd /mnt
 mount --bind /dev ./dev
