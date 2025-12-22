@@ -289,11 +289,11 @@ We separate /boot because it's totally useless in the userland... the boot parti
 
 The extended partition feature let us total freedom in its scale and you are no more limited to 4 partitions per disk!...
 
-The swap is big! must be if you got 8-16GB ram with memory intensive workload, you can simply don't use it at all if you are owner of 60-100gb machine 🙂
+The swap is big(can be bigger depending needs and more performant using ssd and nvme devices)! must be if you got 8-16GB ram with memory intensive workload, you can simply don't use it at all if you are owner of 60-100gb machine 🙂
 
 Root partition is comfortable with 10GB... you can offload data at anytime by creating and mounting new partition with the rest of disk space 😙
 
-The home partition! must be separate you can apply some rules to it! and you can plug this home to all your systems that bind to it (passive directory 😄) 
+The home partition! must be separate you can apply some rules to it! and you can plug this home to all your systems that bind to it (passive directory 😄)
 
 ## Mount filesystem layout!
 
