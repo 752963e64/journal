@@ -399,6 +399,10 @@ It is obligatory because the disk index may bind to another disk if there is ano
 
 ```apk add linux-lts```
 
+## Install the bootloader
+
+```grub-install --target=i386-pc /dev/sda```
+
 ## more to come :D
 
 Doing it from memory is fun but it feels like lot of pretention I don't want to lead any ppl in error shit... so gotta verify all of it a lil after or tomorrow hope to finish for santa day cuz it's not even 10% from what I'm about to write.
