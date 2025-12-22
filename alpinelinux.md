@@ -401,7 +401,7 @@ It is obligatory because the disk index may bind to another disk if there is ano
 
 ## Install the bootloader
 
-EFI manager adds utilities but forces us to use FAT filesystem in middle common bootloader FS... system will boot as 32bit and then Linux® switch to 64bit. 
+EFI manager adds utilities but forces us to use FAT filesystem in middle common bootloader FS... I don't want that! so the system will boot as 32bit and then Linux® switch to 64bit.
 
 ```grub-install --target=i386-pc /dev/sda```
 
