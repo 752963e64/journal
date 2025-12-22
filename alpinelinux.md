@@ -349,6 +349,8 @@ chroot . /usr/bin/env -i SHELL=/bin/sh HOME=/root TERM=linux PATH=/usr/sbin:/usr
 
 just issue ```chmod +x pivot.sh && ./pivot.sh```
 
+The zip file and the script may be used later to deploy other systems like so...
+
 ## Your are now inside your future system
 
 From there we need to create an /etc/fstab = filesystem table? nevermind...
