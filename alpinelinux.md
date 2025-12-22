@@ -289,7 +289,9 @@ We separate /boot because it's totally useless in the userland... the boot parti
 
 The extended partition feature let us total freedom in its scale and you are no more limited to 4 partitions per disk!...
 
-The swap is big(can be bigger depending needs and more performant using ssd and nvme devices)! must be if you got 8-16GB ram with memory intensive workload, you can simply don't use it at all if you are owner of 60-100gb machine 🙂 The amount you need it all depend your plans!... You can set up this recommendation and later extend the swap using the remaining space from your disk. The swap can be setup at runtime using ```mkswap, swapon, swapoff``` You'll first need to use ```fdisk``` to create the new swap partition if it doesn't exist. 
+The swap extend memory but has a performance cost... (can be bigger depending needs and more performant using ssd and nvme devices)! If you got 8-16GB ram with memory intensive workload, you can simply don't use it at all if you are owner of 60-100gb machine 🙂 The amount you need it all depend your plans!... You can set up this recommendation and later extend the swap using the remaining space from your disk. The swap can be setup at runtime using ```mkswap, swapon, swapoff``` You'll first need to use ```fdisk``` to create the new swap partition if it doesn't exist. 
+
+
 
 Root partition is comfortable with 10GB... you can offload data at anytime by creating and mounting new partition with the rest of disk space 😙
 
