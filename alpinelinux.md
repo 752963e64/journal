@@ -37,6 +37,8 @@ The race! Is led by an outperforming algorithm... You must master the technology
 
 ```
 
+If you decide to mail me, be aware it may take a long moment for me to answer... I'm unbound.
+
 ## I proudly present to you "My way"!
 
 I'm 752963e64 in between others alias, I'm literally nobody in this game not to be confused.
@@ -417,8 +419,16 @@ Anyway you'll have to use ```blkid``` program to grab all UUID and replace to re
 /dev/sda6: UUID="f22b07e8-bfdf-4e44-953c-24b178240e9b" BLOCK_SIZE="1024" TYPE="ext4" PARTUUID="37bac162-06"
 ```
 
-like so
-```UUID=bd8bbd25-9df0-4456-88a9-ef6a19fdb808     /		      ext4	rw,relatime				                          0 1```
+your ```/etc/fstab``` should look like this:
+```sh
+UUID=f22b07e8-bfdf-4e44-953c-24b178240e9b       /               ext4    rw,relatime     0 1
+UUID=37ff4f9a-2068-44bb-ad93-91dc86d0ff74       /boot           ext2    ro,relatime     0 0
+UUID=3511f37b-e480-4b6b-9417-7d39701e795c       /home           ext4    rw,relatime     0 2
+UUID=36bae85d-20eb-468f-abf5-0b2862224810       swap            swap    defaults        0 0
+proc            /proc           proc    rw,nosuid,nodev,noexec,relatime,hidepid=2   0 0
+# /dev/cdrom    /media/cdrom    iso9660 noauto,ro 0 0
+# /dev/usbdisk  /media/usb      vfat    noauto,ro 0 0
+```
 
 when it's done you can protect it from lurker using ```chmod o-rwx /etc/fstab```
 
