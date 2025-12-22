@@ -34,7 +34,7 @@ I don't count the amount of things I refrained me to watch just because I had to
 
 ## Wait
 
-Ppl get paid for sitting in front their desktop and talking to their camera? 😸
+Ppl get paid for sitting in front their desktop and talking to their camera with lot assurance? 😸
 
 # Thank
 
