@@ -204,7 +204,7 @@ Note that the CPU can perform high precision clock operation without an **RTC**
 
 ## apk repositories (it's not android apk 🙂)
 
-Choose a mirror you put trust in (may be difficult! as they all dropping responsibility 🙂)
+Choose a mirror you put trust in (may be difficult! as they all dropping responsibility, the software itself drop responsibilty 🙂)
 
 Take russian mirror and say "privet"! 😙
 
@@ -384,7 +384,7 @@ fi
 chroot . /usr/bin/env -i SHELL=/bin/sh HOME=/root TERM=linux PATH=/usr/sbin:/usr/bin:/sbin:/bin /bin/sh
 ```
 
-just issue ```chmod +x pivot.sh && ./pivot.sh```
+Just issue ```chmod +x pivot.sh && ./pivot.sh```
 
 The zip file and the script may be used later to deploy other systems like so...
 
@@ -419,7 +419,7 @@ Anyway you'll have to use ```blkid``` program to grab all UUID and replace to re
 /dev/sda6: UUID="f22b07e8-bfdf-4e44-953c-24b178240e9b" BLOCK_SIZE="1024" TYPE="ext4" PARTUUID="37bac162-06"
 ```
 
-your ```/etc/fstab``` should look like this:
+Your ```/etc/fstab``` should look like this:
 ```sh
 UUID=f22b07e8-bfdf-4e44-953c-24b178240e9b       /               ext4    rw,relatime     0 1
 UUID=37ff4f9a-2068-44bb-ad93-91dc86d0ff74       /boot           ext2    ro,relatime     0 0
@@ -430,7 +430,7 @@ proc            /proc           proc    rw,nosuid,nodev,noexec,relatime,hidepid=
 # /dev/usbdisk  /media/usb      vfat    noauto,ro 0 0
 ```
 
-when it's done you can protect it from lurker using ```chmod o-rwx /etc/fstab```
+When it's done you can protect it from lurker using ```chmod o-rwx /etc/fstab```
 
 It is obligatory to use UUID because the disk index may bind to another disk if there is another disk plugged at boot...
 
