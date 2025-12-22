@@ -359,16 +359,30 @@ From there we need to create an /etc/fstab = filesystem table? nevermind...
 
 /etc/fstab:
 ```
-/dev/sda6						      /		      ext4	rw,relatime				                          0 1
-/dev/sda1						      /boot		  ext2	ro,relatime 				                        0 0
-/dev/sda7						      /home		  ext4	rw,relatime				                          0 2
-/dev/sda5						      swap    	swap	defaults				                            0 0
-proc            					/proc     proc	rw,nosuid,nodev,noexec,relatime,hidepid=2   0 0
+/dev/sda6  /		  ext4	rw,relatime                                 0 1
+/dev/sda1  /boot  ext2	ro,relatime                                 0 0
+/dev/sda7  /home  ext4	rw,relatime                                 0 2
+/dev/sda5  swap   swap	defaults                                    0 0
+proc       /proc  proc  rw,nosuid,nodev,noexec,relatime,hidepid=2   0 0
 ```
 
-arrrghh, explanation with spikes 🙂... normally profesionals uses UUID... I find them ugly and highly uniqely identifying shit in some obscure context that could arrise 😙
+### Explanation
 
-anyway you'll have to use ```blkid``` program to grab all UUID and replace to respective partition in /etc/fstab
+With spikes 🙂... normally profesionals uses UUID... I find them ugly and highly uniqely identifying shit in some obscure context that could arrise 😙
+
+Anyway you'll have to use ```blkid``` program to grab all UUID and replace to respective partition in /etc/fstab
+
+```blkid``` output example:
+
+```sh
+/ # blkid 
+/dev/sr0: BLOCK_SIZE="2048" UUID="2025-12-17-07-03-17-00" LABEL="alpine-std 3.23.2 x86_64" TYPE="iso9660" PTUUID="ae7fff5e" PTTYPE="dos"
+/dev/loop0: BLOCK_SIZE="131072" TYPE="squashfs"
+/dev/sda7: UUID="3511f37b-e480-4b6b-9417-7d39701e795c" BLOCK_SIZE="4096" TYPE="ext4" PARTUUID="37bac162-07"
+/dev/sda5: UUID="36bae85d-20eb-468f-abf5-0b2862224810" TYPE="swap" PARTUUID="37bac162-05"
+/dev/sda1: UUID="37ff4f9a-2068-44bb-ad93-91dc86d0ff74" BLOCK_SIZE="1024" TYPE="ext2" PARTUUID="37bac162-01"
+/dev/sda6: UUID="f22b07e8-bfdf-4e44-953c-24b178240e9b" BLOCK_SIZE="1024" TYPE="ext4" PARTUUID="37bac162-06"
+```
 
 like so
 ```UUID=bd8bbd25-9df0-4456-88a9-ef6a19fdb808     /		      ext4	rw,relatime				                          0 1```
