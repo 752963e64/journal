@@ -26,4 +26,6 @@ now ppl are short windowed... the only things they know is how to ask the machin
 
 - You can usually expected 5% from the discovery audience to become a fan base audience persisting in time...
 
+- It's nah much really... but it helps you thinking you are util. 😸
+
 # The smashing machine
