@@ -393,7 +393,11 @@ It is obligatory because the disk index may bind to another disk if there is ano
 
 ## Clean up live system artifacts
 
-```rm -f /lib/modules /lib/firmware && mkdir /lib/firmware /lib/modules```
+```sh
+rm -f /lib/modules /lib/firmware
+mkdir /lib/firmware /lib/modules
+rc-update del modloop
+```
 
 ## Install Linux®
 
