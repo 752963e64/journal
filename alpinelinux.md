@@ -462,10 +462,13 @@ Correct bootloader menu entry
 
 ```rc-update add networking boot```
 
+## Setup root password
+
+```passwd```
+
 ## Reboot 😙
 
-Try reboot! Yeah it works! 😸
-
+Try reboot! OH Yeah it works! Now you running on your own advanced linux... The disk is well handled! way better than what the managed install offer... (It's your last layout in your entire life) 😸
 
 ## more to come :D
 
