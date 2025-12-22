@@ -308,6 +308,8 @@ homie's uneeded for this stage
 
 ## Copy the live system to filesystem
 
+21 mega bytes(with openssh I installed it for comfort while testing that things gonna work for you too 🙂) is the weight your system without a kernal.
+
 ```
 cd / && zip -ry -9 /mnt/abnormal.zip ./bin ./etc ./lib ./sbin ./usr ./var ./tmp
 sync
