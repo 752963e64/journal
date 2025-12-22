@@ -316,11 +316,11 @@ unzip -XK abnormal.zip
 mkdir -p dev proc sys root mnt opt home run boot
 ```
 
-## Setup kernel filesystems
+## Setup kernel's virtual filesystems
 
 The system is installed on disk, yeah already... 😄
 
-By now we need mount the running kernel's filesystems to your operating system copy on disk so we can operate on that operating system as we had booted it.
+By now we need mount the running kernel's virtual filesystems to your operating system copy on disk so we can operate on that operating system as we had booted it.
 
 From there you should be able to query network... here is a link to the script that permit you to chroot into your new operating system assembled by hand with blessing by me. 
 
