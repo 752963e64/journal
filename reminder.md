@@ -20,4 +20,10 @@ They **wrecked** the work of many ppl and they continue!
 
 now ppl are short windowed... the only things they know is how to ask the machine...
 
+## A peak in the bandwidth
+
+- Isn't the fan base audience... It is the discovery audience.
+
+- You can usually expected 5% from the discovery audience to become a fan base audience persisting in time...
+
 # The smashing machine
