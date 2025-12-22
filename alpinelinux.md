@@ -432,7 +432,7 @@ proc            /proc           proc    rw,nosuid,nodev,noexec,relatime,hidepid=
 
 when it's done you can protect it from lurker using ```chmod o-rwx /etc/fstab```
 
-It is obligatory because the disk index may bind to another disk if there is another disk plugged at boot...
+It is obligatory to use UUID because the disk index may bind to another disk if there is another disk plugged at boot...
 
 ## Clean up live system artifacts
 
