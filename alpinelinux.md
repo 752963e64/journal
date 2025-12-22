@@ -371,13 +371,13 @@ when it's done you can protect it from lurker using ```chmod o-rwx /etc/fstab```
 
 It is obligatory because the disk index may bind to another disk if there is another disk plugged at boot...
 
-demo from the wizard
-```
-┌──(hackit@q6600)-[~]
-└─ $ blkid
-┌──(hackit@q6600)-[~]
-└─ $ 
-```
+## Clean up live system artifacts
+
+```rm -f /lib/modules /lib/firmware && mkdir /lib/firmware /lib/modules```
+
+## Install Linux®
+
+```apk add linux-lts```
 
 ## more to come :D
 
