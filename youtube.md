@@ -32,6 +32,10 @@ I don't count the amount of things I refrained me to watch just because I had to
 
 - If you watch supid content you'll be stupid...
 
+## Wait
+
+Ppl get paid for sitting in front their desktop and talking to their camera? 😸
+
 # Thank
 
 - to invidious creator and contributors!
