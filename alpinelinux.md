@@ -454,9 +454,18 @@ EFI manager adds utilities but forces us to use FAT filesystem in middle common 
 
 ```grub-install --target=i386-pc /dev/sda```
 
+Correct bootloader menu entry
+
+```sed -i 's: ro$: modules=ext4 rootfstype=ext4 quiet ro:' /boot/grub/grub.cfg```
+
 ## Correcting init Runlevels
 
 ```rc-update add networking boot```
+
+## Reboot 😙
+
+Try reboot! Yeah it works! 😸
+
 
 ## more to come :D
 
