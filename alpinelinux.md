@@ -69,7 +69,7 @@ To remain Plug & Play for all parties! The program must be free and available to
 
 ```wget https://dl-cdn.alpinelinux.org/alpine/v3.23/releases/x86_64/alpine-standard-3.23.2-x86_64.iso```
 
-## flash it on USBSTICK
+## Prepare an USBSTICK
 
 Plug the usbstick! 🙂 and then find out its architecture by typing ```dmesg```
 
