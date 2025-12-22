@@ -62,4 +62,6 @@ I was obliged to beg for my SODIMM delivery! had no feed I was about to order ag
 
 Payment passed today just after I did reclaim update on order! so it's 16GB 25€ fucking nice 😸
 
+The hell... order canceled by the seller 😄... Ordered new ones! 
+
 ###### mylife on a computer?
