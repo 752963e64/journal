@@ -16,4 +16,6 @@ then makes you realize you spent 2 hours scrolling useless shit...
 
 this crap space have a problem of self apreciation... it's obvious. 😙
 
+# The World dies in Darkness
+
 # lol®.
