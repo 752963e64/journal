@@ -475,6 +475,8 @@ Try reboot! OH Yeah it works! Now you running on your own advanced linux... The 
 Linux® is running the entire hardware part, it supervize and interface all the hadware to the operating system; the userland (all programs running in a processus to be short) 
 Linux® isn't an operating system... Linux® is a software that permit you to build an operating system on different types of end user devices. The range is wide!
 
+To match the late madness... **Things to be understood!** The Rust case! Rust is a language like C in his context, it uses the machine language to build its products.
+
 - TV
 
 - game console
