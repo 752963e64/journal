@@ -470,6 +470,11 @@ Correct bootloader menu entry
 
 Try reboot! OH Yeah it works! Now you running on your own advanced linux... The disk is well handled! way better than what the managed install offer... (It's your last layout in your entire life) 😸
 
+## Little Explanations...
+
+Linux® is running the entire hardware part, it supervize and interface all the hadware to the operating system; the userland (all programs running in a processus to be short) 
+Linux® isn't an operating system... Linux® is a software that permit you to build an operating system on different types of end user devices. The range is wide!
+
 ## more to come :D
 
 Doing it from memory is fun but it feels like lot of pretention I don't want to lead any ppl in error shit... so gotta verify all of it a lil after or tomorrow hope to finish for santa day cuz it's not even 10% from what I'm about to write.
