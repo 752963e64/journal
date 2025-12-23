@@ -491,7 +491,7 @@ Linux® isn't an operating system... Linux® is a software that permit you to bu
 
 - ...
 
-Linux® doesn't need a C library to build but a C compiler, Linux® is built using strictly the assembler and the C abstraction. This means it relies entirely on the C language without any library to produce Linux®!
+Linux® doesn't need a C library to build but a C compiler, Linux® is built using strictly the assembler and the C abstraction. This means it relies entirely on the assembler and C language without any library to produce Linux®! The C language depend on assembler! The assembler is the CPU language idiosyncratic and damn powerfull... nothing on earth can compete with it... 😙
 
 To match the late madness... **Things to be understood!** The Rust case! Rust is a language like C in his context, it uses the machine language to build its products. The main criteria of rust is memory management at machine level and language exotism.
 
