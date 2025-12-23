@@ -501,6 +501,8 @@ Internet is full of speculations and pretentions... you must care to who you wil
 
 Linus Torvalds is a prodige, RMS is another one. Nowaday Linux® is the most engineered software in the world! It compiles all the main industries expertise that make the regulated free world spin literally.
 
+Notice that regulated and free word doesn't match the last mean.
+
 ## more to come :D
 
 Doing it from memory is fun but it feels like lot of pretention I don't want to lead any ppl in error shit... so gotta verify all of it a lil after or tomorrow hope to finish for santa day cuz it's not even 10% from what I'm about to write.
