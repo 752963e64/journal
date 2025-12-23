@@ -495,6 +495,8 @@ To match the late madness... **Things to be understood!** The Rust case! Rust is
 
 Linux® doesn't need a C library to build but a C compiler, Linux® is built using strictly the assembler and the C abstraction. This means it relies entirely on the C language without any library to produce Linux®!
 
+The late madness... The Rust case... Rust is a language like C in his context that use machine language and methods to make a rust product.
+
 Internet is full of speculations and pretentions... you must care to who you will give your attention! It's tricky 😸
 
 ## more to come :D
