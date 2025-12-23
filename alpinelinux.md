@@ -499,7 +499,7 @@ Nowaday programming languages have pletora of assumed criteria/statement over de
 
 Internet is full of speculations and pretentions... you must care to who you will give your attention! It's tricky 😸
 
-Linus Torvalds is a prodige, RMS is another one. Nowaday Linux® is the most engineered software in the world! It compiles all the main industries expertise that make the world spin literally.
+Linus Torvalds is a prodige, RMS is another one. Nowaday Linux® is the most engineered software in the world! It compiles all the main industries expertise that make the regulated world spin literally.
 
 ## more to come :D
 
