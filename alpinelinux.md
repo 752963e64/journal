@@ -491,7 +491,7 @@ Linux® isn't an operating system... Linux® is a software that permit you to bu
 
 - ...
 
-Linux® doesn't need a C library to build, Linux is built using strictly the assembler and the C abstraction.
+Linux® doesn't need a C library to build but a C compiler, Linux® is built using strictly the assembler and the C abstraction.
 
 ## more to come :D
 
