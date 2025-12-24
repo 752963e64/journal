@@ -503,7 +503,7 @@ Linus Torvalds is a prodige, Dr Richard Matthew Stallman is another one. Nowaday
 
 Notice that regulated and free word doesn't match the last mean. You are required to stick in good terms with the shared network.
 
-With the Time advancing things evolves... Most contributions to Linux® is made from the industries (the education, the science, the govs, the media industries, the devices maker) However there is also lot of individual contributing to the well being of Linux®. Linus Torvalds and Dr Richard Matthew Stallman set the basis from all of this and like a perpetual move It pursued these basis to become the most engineered software in the **WORLD**! Everybody can contribute to Linux®.
+With the Time advancing things evolves... Most contributions to Linux® is made from the industries (education, science, govs, media industries, devices maker) However there is also lot of individual contributing to the well being of Linux®. Linus Torvalds and Dr Richard Matthew Stallman set the basis from all of this and like a perpetual move It pursued these basis to become the most engineered software in the **WORLD**! Everybody can contribute to Linux®.
 
 It is freely distributed to all and make lot revenues despite its open perspective.
 
