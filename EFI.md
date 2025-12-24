@@ -20,4 +20,6 @@
 
 Please stop to pretend to be engineer! and give such work to the free software!
 
+![lol](https://www.avoir-alire.com/local/cache-vignettes/L240xH324/arton9156-9105c.jpg?1709048231)
+
 # lol®
