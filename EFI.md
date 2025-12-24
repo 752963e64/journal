@@ -16,7 +16,7 @@
 
 - Excuse me but EFI is super crappy boot system, a fiasco! :D
 
-## UEFI 😸
+## UEFI CVE DMA! HO!!! 😸
 
 Please stop to pretend to be engineer! and give such work to the free software!
 
