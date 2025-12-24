@@ -16,3 +16,8 @@
 
 - Excuse me but EFI is super crappy boot system, a fiasco! :D
 
+## UEFI 😸
+
+Please stop to pretend to be engineer! and give such work to the free software!
+
+# lol®
