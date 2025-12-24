@@ -511,6 +511,8 @@ It is freely distributed to all and make lot revenues despite its open perspecti
 
 The freedom in the computing context may be: "You are free to shout your own feet!" strange no? 😸 Like ppl says "Installing windows's shooting his own feet."; It may be true If you don't care enough.
 
+In the "living outside" context... Going out your home may be shouting your own feet... It is same.
+
 ## more to come :D
 
 Doing it from memory is fun but it feels like lot of pretention I don't want to lead any ppl in error shit... so gotta verify all of it a lil after or tomorrow hope to finish for santa day cuz it's not even 10% from what I'm about to write.
