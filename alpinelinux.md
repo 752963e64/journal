@@ -289,7 +289,7 @@ Command (m for help):
 
 **rest of your disk space is available at anytime even in a running system :)**
 
-By adding a line for your new partition(s) in the mount table ```/etc/fstab``` at anytime runtime!
+By adding a line for your new partition(s) in the mount table ```/etc/fstab``` at anytime runtime! You make your operating system aware this storage... However you can moutn it without registering to ```/etc/fstab```
 
 like so: ```/dev/sda8						      /var		      ext4	rw,defaults,relatime				                          0 1```
 
