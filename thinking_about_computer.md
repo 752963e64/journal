@@ -64,4 +64,8 @@ Payment passed today just after I did reclaim update on order! so it's 16GB 25�
 
 The hell... order canceled by the seller 😄... Ordered new ones! 
 
+# Now I'm proud owner
+
+Of a disemboweled ugly PC Machine with 16gigs of ram! 😸
+
 ###### mylife on a computer?
