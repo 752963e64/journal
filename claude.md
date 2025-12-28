@@ -46,6 +46,10 @@ Anyway... if claude write It's not me so claude. No problem with that.
 
 I can't accept a computer doing shit for me and offering me to write my name as author... It's kind of stuff for mother fucking liars... I can't accept this this is outside my attributes.
 
+# I found claude on github...
+
+I had asked the program claude; if it were able to participate on my repos at github... It answered no... and offered me to build a repo locally with my name... 
+
 ## And since that... BTW?
 
 - I closed the pined tab from claude
