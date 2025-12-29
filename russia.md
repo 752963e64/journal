@@ -38,9 +38,9 @@ Ukrainia attacked Poutin's home! 😸 like Trump said... "It's not the right tim
 
 The ongoing war works such way from the russian POV advancing thru ukrainia...
 
-- air control
+- air control 8 or 12 rotors(that stick in the air very long time...)
 
-- shelling
+- shelling with BM-21 and lately another one firing bigger pencil(that decimate entire building with just one ogive)...
 
 - drone kamikaz
 
@@ -48,6 +48,10 @@ The ongoing war works such way from the russian POV advancing thru ukrainia...
 
 - armored vehicle
 
-Each office, house, cave even suspicious bush... is checked and decimated if there is ukrainian soldiers... The landscape is literally post apocalyptic! 
+Each office, house, cave even suspicious bush... is checked and decimated if there is ukrainian soldiers... The landscape is literally post apocalyptic!
+
+The amount of mercenaries that went to ukrainia to fight russia because they needed action in their life and found death is increasing everyday...
+
+You can find bodies of ukrainian soldiers entirely flat on roads because vehicles drove on dead bodies... It's the hell on earth.
 
 # Jesus Christ® 😸
