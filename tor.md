@@ -18,7 +18,7 @@ It is very unfortunate in a life to end discovering **tor** to watch a "normal" 
 
 **If your country is too much ruled about your **acceptable freedom**, changes it... However don't change it just to watch porn movies 😄... You got the mean...**
 
-**They excavate and lift ppl with a shovel, Everyday. It is Nefarious 😸**
+**They excavate and lift ppl with a shovel, Everyday. It is Nefarious at different levels... after effects are assumed... 😸**
 
 **It is still around because they allows it... Who are they 😙**
 
