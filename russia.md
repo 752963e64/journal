@@ -28,6 +28,6 @@ But how things goes it can only happen a day... **Fallout** is near.
 
 The basis this dying democracy is based on mafia rules... "Your ability to bomb others"... But You must defend your interests if you can anyway...
 
-It is really an **ape planet** that play division equation since the beginning of time...
+It is really an **ape planet** that play division equation since the beginning of time... They eat ppl faster than wild!
 
 # Jesus Christ® 😸
