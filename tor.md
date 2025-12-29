@@ -10,10 +10,10 @@ This document doesn't addressing to criminals but the presumed innocents 😸
 
 **It hides and stores The sickest stuffs in the world, you are not even ready to assume 10% without crying... 😙**
 
-As a cute example:
+As a cute fact:
 Its content target is all the forbidden things mixed through countries **culture,religions,law**, It also allows you to bounce in a cyphered flipper and access the regulated network so **"nobody"** knows from where it came(This is what armies uses more often). With a **correct** network **topology...** You are literally a **GHOST...** Remember that as an indiviual with **none** resources **YOU** wont be that **GHOST** unless the **right ideaz flows** in you... 😸
 
-As a cute example:
+As another cute fact:
 It is very unfortunate in a life to end discovering **tor** to watch a "normal" porn movie... It is the worst thing ever that can happen to you on internet. Your **mental health** will be touched **for life...**
 
 **If your country is too much ruled about your **acceptable freedom**, changes it... However don't change it just to watch porn movies 😄... You got the mean...**
