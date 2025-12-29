@@ -20,6 +20,6 @@ Its content target is all the forbidden things mixed through countries **culture
 As a cute example:
 It is very unfortunate in a life to end discovering **tor** to watch a "normal" porn movie... It is the worst thing ever that can happen to you on internet. Your **mental health** will be touched **for life...**
 
-**They excavate and lift ppl with a shovel Everyday 😸**
+**They excavate and lift ppl with a shovel, Everyday. It is Nefarious 😸**
 
 # Remember, Keep your head clean!
