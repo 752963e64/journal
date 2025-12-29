@@ -30,4 +30,8 @@ The basis this dying democracy is based on mafia rules... "Your ability to bomb 
 
 It is really an **ape planet** that play division equation since the beginning of time... They eat ppl faster than wild!
 
+# Breaking news!
+
+Ukrainia attacked Poutin's home! 😸 like Trump said... "It's not the right time to do it..." I think in the next days we will see the most beautiful fireworks ever seen in the world!
+
 # Jesus Christ® 😸
