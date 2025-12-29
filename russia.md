@@ -28,4 +28,6 @@ But how things goes it can only happen a day... **Fallout** is near.
 
 The basis this dying democracy is based on mafia rules... "Your ability to bomb others"... But You must defend your interests if you can anyway...
 
-# DUMBASSES®
+It is really an **ape planet** that play division equation since the beginning of time...
+
+# Jesus Christ® 😸
