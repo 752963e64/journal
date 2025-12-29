@@ -44,7 +44,7 @@ The ongoing war works such way from the russian POV advancing thru ukrainia...
 
 - drone kamikaz(usual racing drone... with RPG ovive and an home made assembly of coil that seem to init the ogive at contact)
 
-- infantry(ak47, ak101, RPG, dragunov)
+- infantry(ak47, ak101, RPG, dragunov, some strange looking heavy weapon that fire rounds tale as your hand and wide as your thumb)
 
 - armored vehicle(mostly tank)
 
@@ -58,4 +58,8 @@ You can find bodies of ukrainian soldiers entirely flat on roads because vehicle
 
 Russia's culture do not permit any offense... you are already lost if such thing happen.
 
-# Jesus Christ® 😸
+## It's not a glory to
+
+It's my understanding... Lately I determined in a movie storytelling a truth that russia has literally sold armored vehicles, weapons/ammo, BM-21 to bin laden army...
+
+# Jesus Christ® what a mess 😸
