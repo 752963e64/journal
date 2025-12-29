@@ -13,13 +13,13 @@ This document doesn't addressing to criminals 😸
 As a cute example:
 Its content target is all the forbidden things mixed through countries **culture,religions,law**, It also allows you to bounce in a cyphered flipper and access the regulated network so **"nobody"** knows from where it came(This is what armies uses more often). With a **correct** network **topology...** You are literally a **GHOST...** Remember that as an indiviual with **none** resources **YOU** wont be that **GHOST** unless the **right ideaz flows** in you... 😸
 
-**It is still around because they allows it... Who are they 😙**
-
 **If your country is too much ruled, changes it... Keep your head(TEMPLE) clean...**
 
 As a cute example:
 It is very unfortunate in a life to end discovering **tor** to watch a "normal" porn movie... It is the worst thing ever that can happen to you on internet. Your **mental health** will be touched **for life...**
 
 **They excavate and lift ppl with a shovel, Everyday. It is Nefarious 😸**
+
+**It is still around because they allows it... Who are they 😙**
 
 # Remember, Keep your head clean!
