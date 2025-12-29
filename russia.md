@@ -38,7 +38,7 @@ Ukrainia attacked Poutin's home! 😸 like Trump said... "It's not the right tim
 
 The ongoing war works such way from the russian POV advancing thru ukrainia...
 
-- air control 8 or 12 rotors(that stick in the air very long time...)
+- air control 8 or 12 rotors(that stick in the air very long time... long distance radio system, fail safe. high altitude capable. High quality camera)
 
 - shelling with BM-21 and lately another one firing bigger pencil(that decimate entire building with just one ogive)...
 
@@ -46,7 +46,7 @@ The ongoing war works such way from the russian POV advancing thru ukrainia...
 
 - infantry
 
-- armored vehicle
+- armored vehicle(mostly tank)
 
 Ukrainian soldiers did trenches and ground caves as stronghold alike they were at WW1&2... You don't fight such strategy with trenches... They learned (The world too...)
 
