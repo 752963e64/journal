@@ -8,7 +8,7 @@ This document doesn't addressing to criminals but the presumed innocents 😸
 
 **The Europa armies uses it to teleport datas to their global infortmation center...**
 
-**It hides and stores The sickest stuffs in the world, you are not even ready to assumes 10% without crying... 😙**
+**It hides and stores The sickest stuffs in the world, you are not even ready to assume 10% without crying... 😙**
 
 As a cute example:
 Its content target is all the forbidden things mixed through countries **culture,religions,law**, It also allows you to bounce in a cyphered flipper and access the regulated network so **"nobody"** knows from where it came(This is what armies uses more often). With a **correct** network **topology...** You are literally a **GHOST...** Remember that as an indiviual with **none** resources **YOU** wont be that **GHOST** unless the **right ideaz flows** in you... 😸
