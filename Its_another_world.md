@@ -38,4 +38,8 @@ I don't want to diminish the value of these actions ongoing, I'm just questionin
 
 I'm now **AGAIN** stuck over this fucking keyboard with no job... because I said "No" to a damn cop... Again a defeat in this motherfucking world...
 
+### rereading myself makes me wish to share the hidden context...
+
+The main context this writing pursued back in january were that I had found a job... The rest were my opinion about 2 branches of computing I don't believe in... The last updates are the return to THIS DAMN MOTHERFUCKING STARTING POINT. 
+
 # lol®
