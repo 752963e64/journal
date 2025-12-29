@@ -54,4 +54,6 @@ The amount of mercenaries that went to ukrainia to fight russia because they nee
 
 You can find bodies of ukrainian soldiers entirely flat on roads because vehicles drove on dead bodies... It's the hell on earth.
 
+Russia's culture do not permit any offense... you are already lost if such thing happen.
+
 # Jesus Christ® 😸
