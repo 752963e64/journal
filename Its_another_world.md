@@ -33,3 +33,9 @@ Most of the social networks have cheating problems, In many contexts; Please do 
 # Wish me more luck, I know I'm lucky.
 
 I don't want to diminish the value of these actions ongoing, I'm just questioning myself awhile saving myself...
+
+# Days of defeat...
+
+I'm now **AGAIN** stuck over this fucking keyboard with no job... because I said "No" to a damn cop... Again a defeat in this motherfucking world...
+
+# lol®
