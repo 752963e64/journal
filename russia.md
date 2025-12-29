@@ -38,7 +38,7 @@ Ukrainia attacked Poutin's home! 😸 like Trump said... "It's not the right tim
 
 The ongoing war works such way from the russian POV advancing thru ukrainia...
 
-- air control 8 or 12 rotors(that stick in the air very long time... long distance radio system, fail safe. high altitude capable. High quality camera. can carry literally following weight limit, it can also drop nades)
+- air control 8 or 12 rotors(that stick in the air very long time... long distance radio system, fail safe. high altitude capable. High quality camera. can carry literally everything following weight limit, it can also drop nades)
 
 - shelling with BM-21 and lately another one firing bigger pencil(that decimate entire building with just one ogive)...
 
