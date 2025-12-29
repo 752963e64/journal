@@ -34,4 +34,20 @@ It is really an **ape planet** that play division equation since the beginning o
 
 Ukrainia attacked Poutin's home! 😸 like Trump said... "It's not the right time to do it..." I think in the next days we will see the most beautiful fireworks ever seen in the world!
 
+# The present days...
+
+The ongoing war works such way from the russian POV advancing thru ukrainia...
+
+- air control
+
+- shelling
+
+- drone kamikaz
+
+- infantry
+
+- armored vehicle
+
+Each office, house, cave even suspicious bush... is checked and decimated if there is ukrainian soldiers... The landscape is literally post apocalyptic! 
+
 # Jesus Christ® 😸
