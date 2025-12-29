@@ -12,6 +12,9 @@
 
 **If your country is too much ruled, changes it... Keep your head(TEMPLE) clean**
 
+As a cute example:
+It is very unfortunate in a life to end discovering **tor** to watch a "normal" porn movie... It is the worst thing ever that can happen to you on internet. Your health will be touched for life...
+
 **They excavate and lift ppl with a shovel Everyday 😸**
 
 # Remember, Keep your head clean!
