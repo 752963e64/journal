@@ -38,13 +38,13 @@ Ukrainia attacked Poutin's home! 😸 like Trump said... "It's not the right tim
 
 The ongoing war works such way from the russian POV advancing thru ukrainia...
 
-- air control 8 or 12 rotors(that stick in the air very long time... long distance radio system, fail safe. high altitude capable. High quality camera)
+- air control 8 or 12 rotors(that stick in the air very long time... long distance radio system, fail safe. high altitude capable. High quality camera. can carry literally following weight limit, it can also drop nades)
 
 - shelling with BM-21 and lately another one firing bigger pencil(that decimate entire building with just one ogive)...
 
-- drone kamikaz
+- drone kamikaz(usual racing drone... with RPG ovive and an home made assembly of coil that seem to init the ogive at contact)
 
-- infantry
+- infantry(ak47, ak101, RPG, dragunov)
 
 - armored vehicle(mostly tank)
 
