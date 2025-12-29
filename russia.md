@@ -48,7 +48,9 @@ The ongoing war works such way from the russian POV advancing thru ukrainia...
 
 - armored vehicle
 
-Each office, house, cave even suspicious bush... is checked and decimated if there is ukrainian soldiers... The landscape is literally post apocalyptic!
+Ukrainian soldiers did trenches alike they were at WW1&2... You don't fight such strategy with trenches... They learned (The world too...)
+
+Each building office, house, cave even suspicious bush... is checked and decimated if there is ukrainian soldiers... The landscape is literally post apocalyptic!
 
 The amount of mercenaries that went to ukrainia to fight russia because they needed action in their life and found death is increasing everyday...
 
