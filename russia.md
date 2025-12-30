@@ -52,7 +52,7 @@ Ukrainian soldiers did trenches and ground caves as stronghold alike they were a
 
 Each building office, house, cave even suspicious bush... is checked and decimated if there is ukrainian soldiers... The landscape is literally post apocalyptic!
 
-The amount of mercenaries that went to ukrainia to fight russia ( geared call of duty alike 🙂 ) because they needed action in their life and found death is increasing everyday...
+The amount of mercenaries that went to ukrainia to fight russia ( geared call of duty alike 🙂 ) because they needed action in their life and found death is increasing everyday... They learned it's not call of duty... (The world too)
 
 You can find bodies of ukrainian soldiers entirely flat on roads because vehicles drove on dead bodies... It's the hell on earth.
 
