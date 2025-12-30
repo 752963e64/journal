@@ -60,6 +60,6 @@ Russia's culture do not permit any offense... you are already lost if such thing
 
 ## It's not a glory to
 
-It's my understanding... Lately I determined in a movie storytelling a truth that russia had literally sold armored vehicles, weapons/ammo, BM-21 to bin laden army... It was by surprise while watching a murican movie storytelling what happened military talking just after world trade center been attacked. Now I understand a little more why europa and united states doesn't like poutin's handling...   
+It's my understanding... Lately I determined in a movie storytelling a truth that russia had literally sold armored vehicles, weapons/ammo, BM-21 to bin laden army... It was by surprise while watching a murican movie storytelling what happened military talking just after world trade center been attacked. Now I understand a little more why europa and united states doesn't like poutin's handling... Money has no odor he made profitable his products... like every countries does? 🙂
 
 # Jesus Christ® what a mess 😸
