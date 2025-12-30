@@ -44,6 +44,8 @@ The ongoing war works such way from the russian POV advancing thru ukrainia...
 
 - drone kamikaz(usual racing drone... with RPG ogive and an home made assembly of coil that seem to init the ogive at contact)
 
+- military RC wings kamikaz(Long distance radio system, fail safe. high altitude, high quality camera to gather strategic information on the way to target)
+
 - infantry(ak47, ak101, RPG, dragunov, some strange looking heavy weapon that fire rounds tale as your hand and wide as your thumb)
 
 - armored vehicle(mostly tank)
