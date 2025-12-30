@@ -42,7 +42,7 @@ The ongoing war works such way from the russian POV advancing thru ukrainia...
 
 - shelling with BM-21 and lately another one firing bigger pencil(that decimate entire building with just one ogive)...
 
-- drone kamikaz(usual racing drone... with RPG ovive and an home made assembly of coil that seem to init the ogive at contact)
+- drone kamikaz(usual racing drone... with RPG ogive and an home made assembly of coil that seem to init the ogive at contact)
 
 - infantry(ak47, ak101, RPG, dragunov, some strange looking heavy weapon that fire rounds tale as your hand and wide as your thumb)
 
