@@ -18,4 +18,13 @@ So from firefox's editor! live coding in javascript 😙 perfect env to be succe
 
 Firefox has a damn playground, really. 😙
 
+Live coding requier different approach... It's full of
+
+```
+Uncaught SyntaxError: redeclaration of const BACKGROUND
+    <anonymous> debugger eval code:1
+```
+
+if you copy the way he does... 😸 it sound like I like to render things more difficult
+
 # lol®
