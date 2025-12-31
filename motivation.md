@@ -31,6 +31,6 @@ running your additions **One More Times®** 😄 give you the sens you reloading
 
 Aye karamba I'm at moment I add delta time... 😸 My computer is breathing like a monster eating 50% my CPU to draw a 800x600 black surface with a green cube... I hate this noize it irritate me... 
 
-It cost an arm to draw a group of pixels on top stuffs that draws without eating your CPU it's drole 😙
+It cost an arm to draw a group of pixels on top stuffs that draws without eating your CPU it's drole, life is drole anyway 😙
 
 # lol®
