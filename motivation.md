@@ -39,4 +39,107 @@ Some facts that need to be accounted... This all is only possible with descent m
 
 I'm wondering how you aquire that skill from the ground up.
 
+```js
+frame.width = 800
+frame.height = 600
+
+const BACKGORUND = "#101010"
+const FOREGROUND = "#50ff50"
+const FPS = 30
+
+const ctx = frame.getContext("2d")
+
+function clr() {
+  ctx.fillStyle = BACKGORUND
+  ctx.fillRect(0, 0, frame.width, frame.height)
+}
+
+function intersect({
+  x,
+  y
+}) {
+  const s = 20
+  ctx.fillStyle = FOREGROUND
+  ctx.fillRect(x - s / 2, y - s / 2, s, s)
+}
+
+function line(p1,p2) {
+  ctx.lineWidth = 3
+  ctx.strokeStyle = FOREGROUND
+  ctx.beginPath()
+  ctx.moveTo(p1.x,p1.y)
+  ctx.lineTo(p2.x,p2.y)
+  ctx.stroke()
+}
+
+function surface(p) {
+  return {
+    x: (p.x + 1) / 2 * frame.width,
+    y: (1 - (p.y + 1) / 2) * frame.height
+  }
+}
+
+function projection({x, y, z}) {
+  return {
+    x: x/z,
+    y: y/z
+  }
+}
+
+function translate_z({x,y,z}, dz) {
+  return {x,y,z: z + dz}
+}
+
+function rotate_xz({x, y, z}, angle) {
+  const c = Math.cos(angle)
+  const s = Math.sin(angle)
+  return {
+    x: x*c-z*s,
+    y,
+    z: x*s+z*c,
+  }
+}
+
+let dz = 1
+let angle = 0
+const dt = 1/FPS
+
+const vs = [
+  {x:  0.25, y:  0.25, z:0.25},
+  {x: -0.25, y:  0.25, z:0.25},
+  {x: -0.25, y: -0.25, z:0.25},
+  {x:  0.25, y: -0.25, z:0.25},
+  
+  {x:  0.25, y:  0.25, z:-0.25},
+  {x: -0.25, y:  0.25, z:-0.25},
+  {x: -0.25, y: -0.25, z:-0.25},
+  {x:  0.25, y: -0.25, z:-0.25}
+]
+
+const fs = [
+  [0,1,2,3],
+  [4,5,6,7],
+  [0,4],
+  [1,5],
+  [2,6],
+  [3,7]
+]
+
+function picture() {
+  angle += Math.PI*(dt/2)
+  clr()
+  for(const f of fs) {
+    for ( let i = 0; i < f.length; ++i) {
+      const a = vs[f[i]]
+      const b = vs[f[(i+1)%f.length]]
+      line(surface(projection(translate_z(rotate_xz(a,angle),dz))),
+           surface(projection(translate_z(rotate_xz(b,angle),dz))))
+    }
+  }
+  setTimeout(picture, 1000/FPS)
+}
+
+setTimeout(picture, 1000/FPS)
+```
+
 # lol®
