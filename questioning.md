@@ -1,6 +1,6 @@
 # I've a question for you.
 
-How introducing the most polyvalent tool ever engineered that can do everything at your place better than you that can be here and somewhere else at same time, that sort/index and store informations better than anything ever seen before.
+How introducing the most polyvalent tool ever engineered that can do everything at your place better than you that can be here and somewhere else at same time, that sort/index/process/store/act on informations from driver sensors better than anything ever seen before.
 
 # In middle of
 
@@ -22,4 +22,4 @@ Such thing may happen if allowed, but the comfort effect will grow up the popula
 
 I may have anticipated the answer without being prepared.
 
-# excuse me to sincerely feel in suspense everytime by now. 
+### excuse me to sincerely feel in suspense everytime by now.
