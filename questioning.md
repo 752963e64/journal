@@ -12,6 +12,8 @@ How introducing the most polyvalent tool ever engineered that can do everything 
 
 - The ppl standing front a camera/computer throwing bulshits as facts
 
+- Glamorous serie remake of the toppest game ever made in the world(context: Post Apocalypse) 
+
 # What's your real plan?
 
 feed 8.3 billions ppl that are just living their lives quietly without the need to work as the robots can do everything everywhere at same time?
