@@ -16,6 +16,8 @@ How introducing the most polyvalent tool ever engineered that can do everything 
 
 feed 8.3 billions ppl that are just living their lives quietly without the need to work as the robots can do everything everywhere at same time?
 
+Such thing may happen if allowed, but the comfort effect will grow up the population exponentially which is not compatible with the actual estate of resources. 
+
 I may have anticipated the answer without being prepared.
 
 # excuse me to sincerely feel in suspense everytime by now. 
