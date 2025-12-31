@@ -1,6 +1,6 @@
 # I've a question for you.
 
-How introducing the most polyvalent tool ever engineered that can do everything at your place better than you that can be here and somewhere else at same time.
+How introducing the most polyvalent tool ever engineered that can do everything at your place better than you that can be here and somewhere else at same time, that sort/index and store informations better than anything ever seen before.
 
 # In middle of
 
