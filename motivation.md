@@ -33,7 +33,7 @@ Aye karamba I'm at moment I add delta time... 😸 My computer is breathing like
 
 It cost an arm to draw a group of pixels on top stuffs that draws without eating your CPU it's drole, life is drole anyway 😙
 
-I succeeded! I modified a little the name of the things... and my impression despite I knew it before is that it always an **Hypnotizing algorythm**
+I succeeded! I modified a little the name of the things naturally(I hope I'm not wrong 😙)... and my impression despite I knew it before is that it always an **Hypnotizing algorythm**
 
 Some facts that need to be accounted... This all is only possible with descent math education and I don't remind I've learn at school to calculate coordinates based on a geometric form on the paper...
 
@@ -63,7 +63,7 @@ function intersect({
   ctx.fillRect(x - s / 2, y - s / 2, s, s)
 }
 
-function line(p1,p2) {
+function clip(p1,p2) {
   ctx.lineWidth = 3
   ctx.strokeStyle = FOREGROUND
   ctx.beginPath()
@@ -132,7 +132,7 @@ function picture() {
     for ( let i = 0; i < f.length; ++i) {
       const a = vs[f[i]]
       const b = vs[f[(i+1)%f.length]]
-      line(surface(projection(translate_z(rotate_xz(a,angle),dz))),
+      clip(surface(projection(translate_z(rotate_xz(a,angle),dz))),
            surface(projection(translate_z(rotate_xz(b,angle),dz))))
     }
   }
