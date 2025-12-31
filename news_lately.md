@@ -14,6 +14,6 @@
 
 - breaks all kind of encryption in a second time range.
 
-- builds an AI that will put the human specie as little a bacteria.
+- builds an AI that will put the human specie as little a bacteria. Despite all of this is human made, The reality will be that the machine abilities will look as you watching a bacteria in a microscop.
 
-# 😸
+# Jesus Christ teleported a synapse more to me. 😸
