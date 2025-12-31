@@ -27,6 +27,8 @@ Uncaught SyntaxError: redeclaration of const BACKGROUND
 
 because in the console the program doesn't end after "running" it... every **const** are burned for life. until you refresh the page! 😸
 
-running you additions **One More Times®** 😄 give you the sens you reloading it... while it's not at all... it sound like I like to render things more difficult
+running your additions **One More Times®** 😄 give you the sens you reloading it... while it's not at all... it sound like I like to render things more difficult
+
+Aye karamba I'm at moment I add delta time... 😸 My computer is breathing like a monster eating 50% my CPU to draw a 800x600 black surface with a green cube... I hate this noize it irritate me... 
 
 # lol®
