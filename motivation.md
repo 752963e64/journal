@@ -33,4 +33,6 @@ Aye karamba I'm at moment I add delta time... 😸 My computer is breathing like
 
 It cost an arm to draw a group of pixels on top stuffs that draws without eating your CPU it's drole, life is drole anyway 😙
 
+**Hypnotizing algorythm**
+
 # lol®
