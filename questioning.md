@@ -2,7 +2,7 @@
 
 How introducing the most polyvalent tool ever engineered that can do everything at your place better than you that can be here and somewhere else at same time, that sort/index/process/store/act on informations from driver sensors better than anything ever seen before.
 
-The math explain a lot if not everything. The machine is made of math that it took decades and decades of combination of knowledges to get there. Someone thaught the machine to interpret the math from our real world. It does math better than anybody ever seen in the world now, It may think a disturbing way. The game is clearly over. 🙂
+The math explain a lot if not everything. The machine is made of math that it took decades and decades of combination of knowledges to get there. The machine language describe how the humain brain works with a more performant memory than we do... Someone thaught the machine to interpret the math from our real world. It does math better than anybody ever seen in the world now, It may think a disturbing way. The game is clearly over. 🙂
 
 Refraining it is an act of sabotage. Evolution was the word... So we have to pursue it... at which cost. Anyway it's all there the world cannot remain like it is currently... This is the era the books and movies I was watching younger that is comming. 
 
