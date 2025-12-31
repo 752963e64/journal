@@ -33,6 +33,10 @@ Aye karamba I'm at moment I add delta time... 😸 My computer is breathing like
 
 It cost an arm to draw a group of pixels on top stuffs that draws without eating your CPU it's drole, life is drole anyway 😙
 
-**Hypnotizing algorythm**
+I succeeded! I modified a little the name of the things... and my impression despite I knew it before is that it always an **Hypnotizing algorythm**
+
+Some facts that need to be accounted... This all is only possible with descent math education and I don't remind I've learn at school to calculate coordinates based on a geometric form on the paper...
+
+I'm wondering how you aquire that skill from the ground up.
 
 # lol®
