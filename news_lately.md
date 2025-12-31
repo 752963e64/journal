@@ -14,6 +14,6 @@
 
 - breaks all kind of encryption in a second time range.
 
-- builds an AI that will put human the specie as little a bacteria.
+- builds an AI that will put the human specie as little a bacteria.
 
 # 😸
