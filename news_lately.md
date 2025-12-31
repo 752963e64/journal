@@ -12,6 +12,8 @@
 
 # qbit is gonna...
 
-breaks all kind of encryption in a second time range.
+- breaks all kind of encryption in a second time range.
+
+- builds an AI that will put human the specie as little a bacteria.
 
 # 😸
