@@ -39,6 +39,8 @@ Some facts that need to be accounted... This all is only possible with descent m
 
 I'm wondering how you aquire that skill from the ground up.
 
+I go sleep... later I'll **try** to hack in to make a demo crazy hacking style 😙
+
 ```js
 frame.width = 800
 frame.height = 600
