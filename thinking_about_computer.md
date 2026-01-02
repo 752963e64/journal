@@ -82,6 +82,8 @@ I'm excited to receive it. I thought of already some kind of cosmetic it could b
 
 a game console 😺 with keyboard as joypad! or even joystick device why not :accessibility: with the esp32 model it can play over network, sync over a main server. 😙
 
+I've no patience! I need tools!!! Is an rp2350 emulator?
+
 It's BIG literaly.
 
 ###### mylife on a computer?
