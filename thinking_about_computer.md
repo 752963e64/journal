@@ -68,4 +68,12 @@ The hell... order canceled by the seller 😄... Ordered new ones!
 
 Of a disemboweled ugly PC Machine with 16gigs of ram! 😸
 
+I still didn't use the computer really outside booting it... I remain on my lovely old PC tower sadly...
+
+# my first riscv
+
+I bought a little rsicv device with a oled mini screen! in a rush to bring me back to life. I'm awaiting to receive the toy.
+
+Yes I'm fatigued dead.
+
 ###### mylife on a computer?
