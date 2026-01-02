@@ -78,6 +78,6 @@ Yes I'm fatigued dead.
 
 [Rich documentation at first sight... 😸](https://www.waveshare.com/wiki/RP2350-LCD-1.47-A)
 
-I'm excited to receive it.
+I'm excited to receive it. I thought of already some kind of cosmetic it could be... However it's not that fast... it use an 1.1 usb interface making mass storage with some SDCARD would be a pain... So I guess it will be more useful looping clipping the endless circle as always highlighting some passed data 😄
 
 ###### mylife on a computer?
