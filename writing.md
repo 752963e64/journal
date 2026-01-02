@@ -16,4 +16,6 @@ I just got a flashback from movie I liked younger.
 
 ![Zoltan speak, literaly](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Zoltan_Fortune_Teller.jpg/250px-Zoltan_Fortune_Teller.jpg)
 
+Zoltan speak, literaly
+
 # 😙
