@@ -80,4 +80,8 @@ Yes I'm fatigued dead.
 
 I'm excited to receive it. I thought of already some kind of cosmetic it could be... However it's not that fast... it use an 1.1 usb interface making mass storage with some SDCARD would be a pain... So I guess it will be more useful looping clipping the endless circle as always highlighting some passed data 😄
 
+a game console 😺 with keyboard as joypad! or even joystick device why not :accessibility:
+
+It's BIG literaly.
+
 ###### mylife on a computer?
