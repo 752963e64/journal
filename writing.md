@@ -13,6 +13,7 @@ I wrote something again a different way. It's hard to decide and it's super stra
 My brain is not syncing anymore I tend to forget deliberately my capacities. I'm wondering if anything can bring me back to life.
 
 I just got a flashback from movie I liked younger.
-![Zoltar speak, literaly](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Zoltan_Fortune_Teller.jpg/250px-Zoltan_Fortune_Teller.jpg)
+
+![Zoltan speak, literaly](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Zoltan_Fortune_Teller.jpg/250px-Zoltan_Fortune_Teller.jpg)
 
 # 😙
