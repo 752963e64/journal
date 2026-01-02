@@ -70,10 +70,14 @@ Of a disemboweled ugly PC Machine with 16gigs of ram! 😸
 
 I still didn't use the computer really outside booting it... I remain on my lovely old PC tower sadly...
 
-# my first riscv
+# my first physical riscv (MCU?)
 
 I bought a little rsicv device with a oled mini screen! in a rush to bring me back to life. I'm awaiting to receive the toy.
 
 Yes I'm fatigued dead.
+
+[Rich documentation at first sight... 😸](https://www.waveshare.com/wiki/RP2350-LCD-1.47-A)
+
+I'm excited to receive it.
 
 ###### mylife on a computer?
