@@ -121,7 +121,7 @@ Audio support (via PIO), DPI/VGA/MIPI Video support (via PIO), file system suppo
 included in the Pico Extras GitHub repository
 ```
 
-The clock handling is pretty drole... 😄
+The clock handling is pretty drole... making MCU half friendly interfaced 😄
 
 It's BIG, I'm BIG literaly no kidding I don't need AI. with AI I'll certainly sending ten thousands more, if it can answer me... sure thing. ;D
 
