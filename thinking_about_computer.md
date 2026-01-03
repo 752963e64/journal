@@ -127,7 +127,7 @@ I'm so excited to receive it. 😄
 
 I read and I read and I determine... image need to be decoded scaled down and are passed as an array of byte... I'm wondering the print speed cuz it can be interesting to operate the screen such way 😄 you need install chinese software... to do so that's scary.
 
-Why on earth do they called it an image library 😄 It's not damn it... It is not decoding anything... it just read a sample of arranged byte... LOL
+Why on earth do they called it an image library 😄 It's not damn it... It is not decoding anything... it just read a sample of arranged byte... It is a pixel map LOL
 
 It's BIG, I'm BIG literaly no kidding I don't need AI. with AI I'll certainly sending ten thousands more, if it can answer me... sure thing. ;D
 
