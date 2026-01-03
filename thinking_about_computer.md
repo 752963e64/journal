@@ -90,6 +90,8 @@ I imagine quick a textual donjon crawler multiplayer(you may meet a player or mo
 
 Or something more interactif with an immersive world rendered and a protagonist to drive thru the world of things.
 
+awhile I wrote; I peeled a little more the apple innerly; I determined I don't even need to emulate the MCU to get a first impression in a window.
+
 Can someone give me 100k to motivate the machine 🙂
 
 It's BIG, I'm BIG literaly.
