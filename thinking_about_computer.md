@@ -100,6 +100,29 @@ I've an MPU wandering around, I can make game where you simply move/orientate th
 
 Can someone give me 100k to motivate the machine. pure mechanism pornography 😄
 
+### don't hesitate to read the documentation there is limiattions 😸
+
+**By default libcyw43 is licensed for non-commercial use**
+
+```
+These libraries (pico_xxx) provide higher-level APIs, concepts and abstractions that are common to most RP-series
+microcontroller-based applications. The APIs are listed in High Level APIs. These may be libraries that have cross-
+cutting concerns between multiple pieces of hardware (for example the sleep_ functions in pico_time need to concern
+themselves both with the RP-series microcontrollers' timer hardware and with how processors enter and exit low power
+states), or they may be pure software infrastructure required for your program to run smoothly. This includes libraries
+for things like:
+• Alarms, timers and time functions
+• Multi-core support and synchronization primitives
+• Utility functions and data structures
+These libraries are generally built upon one or more underlying hardware_ libraries, and often depend on each other.
+NOTE
+More libraries are added over time. Certain additional libraries that are not fully supported/stable/documented (e.g. -
+Audio support (via PIO), DPI/VGA/MIPI Video support (via PIO), file system support, SDIO support via (PIO)) are
+included in the Pico Extras GitHub repository
+```
+
+The clock handling is pretty drole... 😄
+
 It's BIG, I'm BIG literaly no kidding I don't need AI. with AI I'll certainly sending ten thousands more, if it can answer me... sure thing. ;D
 
 ###### mylife on a computer?
