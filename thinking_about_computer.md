@@ -123,6 +123,8 @@ included in the Pico Extras GitHub repository
 
 The clock handling is pretty drole... making MCU half friendly interfaced, it's not that hard to make a monothonic clock from a clock? 😄
 
+I'm so excited to receive it. 😄
+
 It's BIG, I'm BIG literaly no kidding I don't need AI. with AI I'll certainly sending ten thousands more, if it can answer me... sure thing. ;D
 
 ###### mylife on a computer?
