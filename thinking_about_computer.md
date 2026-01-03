@@ -96,6 +96,8 @@ I thought of another application. GLOBAL THERMONUCLEAR WAR 😄. made from ESP32
 
 A desert strike remake!
 
+I've an MPU wandering around, I can make game where you simply move/orientate the device in direction as moving input, awesome 😙
+
 Can someone give me 100k to motivate the machine 🙂
 
 It's BIG, I'm BIG literaly no kidding I don't need AI. with AI I certainly sending ten thousands more... sure thing. ;D
