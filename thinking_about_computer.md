@@ -133,6 +133,8 @@ It's sure it's not with such kind of material you gonna make ppl smarter without
 
 I'm scared by the scanline word into documentation... I hope it's not 1 FPS per 30 second(meaning like 1 pixel line per second or so... if it's not performant I throw it on trash.)
 
+Seems like in the late sdk version timer get better... It's been a long time I hadn't read that much. 😄
+
 It's BIG, I'm BIG literaly no kidding I don't need AI. with AI I'll certainly sending ten thousands more, if it can answer me... sure thing. 😙
 
 ###### mylife on a computer?
