@@ -92,6 +92,6 @@ Or something more interactif with an immersive world rendered and a protagonist 
 
 Can someone give me 100k to motivate the machine 🙂
 
-It's BIG literaly.
+It's BIG, I'm BIG literaly.
 
 ###### mylife on a computer?
