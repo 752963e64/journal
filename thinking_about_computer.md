@@ -72,7 +72,7 @@ I still didn't use the computer really outside booting it... I remain on my love
 
 # my first physical riscv (MCU?)
 
-I bought a little rsicv device with a oled mini screen! in a rush to bring me back to life. I'm awaiting to receive the toy.
+I bought a little riscv device with a oled mini screen! in a rush to bring me back to life. I'm awaiting to receive the toy.
 
 Yes I'm fatigued dead.
 
@@ -100,7 +100,7 @@ I've an MPU wandering around, I can make game where you simply move/orientate th
 
 Can someone give me 100k to motivate the machine. pure mechanism pornography 😄
 
-### don't hesitate to read the documentation there is limiattions 😸
+### don't hesitate to read the documentation there is limitations 😸
 
 **By default libcyw43 is licensed for non-commercial use**
 
