@@ -86,6 +86,10 @@ I've no patience! I need tools(or not)!!! Is an rp2350 emulator with a emulated 
 
 So I determined the header archive including oled driver through an user interface 😙 I noticed few dayz ago while surfing some riscv lib exists... it certainly not offering a window as a screen device... or maybe, maybe I need to bring it. **zZZZZZZzzz**
 
+I imagine quick a textual donjon crawler multiplayer(you may meet a player or more) many text input and output llm style, dithered images, sequences of dithered images 😙
+
+Or something more interactif with an immersive world rendered and a protagonist to drive thru the world of things.
+
 It's BIG literaly.
 
 ###### mylife on a computer?
