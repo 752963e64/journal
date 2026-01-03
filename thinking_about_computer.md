@@ -90,6 +90,8 @@ I imagine quick a textual donjon crawler multiplayer(you may meet a player or mo
 
 Or something more interactif with an immersive world rendered and a protagonist to drive thru the world of things.
 
+Can someone give me 100k to motivate the machine 🙂
+
 It's BIG literaly.
 
 ###### mylife on a computer?
