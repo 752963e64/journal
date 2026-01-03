@@ -92,6 +92,8 @@ Or something more interactif with an immersive world rendered and a protagonist 
 
 awhile I wrote; I peeled a little more the apple innerly; I determined I don't even need to emulate the MCU to get a first impression in a window.
 
+I thought of another application. GLOBAL THERMONUCLEAR WAR 😄. made from ESP32. The context is the world is made of divized ppl arming themselve because they all want what they doesn't belong. You live in base... you build it... you send reco squads to find new territory and then you decide if you make war (you send some green plastik mens) 😄
+
 Can someone give me 100k to motivate the machine 🙂
 
 It's BIG, I'm BIG literaly.
