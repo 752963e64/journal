@@ -139,7 +139,7 @@ Seems like in the late sdk version timer get better... It's been a long time I h
 
 - Nothing secure can be done with it by the moment the end user as 1. physical access 2. skillz
 
-- You have to physically engage in protecting your ship to secure a critical application 😄
+- You have to physically engage in protecting your chip to secure a critical application 😄
 
 what a joke 😄
 
