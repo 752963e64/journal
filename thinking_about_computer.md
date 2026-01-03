@@ -98,7 +98,7 @@ A desert strike remake!
 
 I've an MPU wandering around, I can make game where you simply move/orientate the device in direction as moving input, awesome 😙
 
-Can someone give me 100k to motivate the machine 🙂
+Can someone give me 100k to motivate the machine. pure mechanism pornography 😄
 
 It's BIG, I'm BIG literaly no kidding I don't need AI. with AI I certainly sending ten thousands more... sure thing. ;D
 
