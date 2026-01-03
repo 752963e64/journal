@@ -135,6 +135,12 @@ I'm scared by the scanline word into documentation... I hope it's not 1 FPS per 
 
 Seems like in the late sdk version timer get better... It's been a long time I hadn't read that much. 😄
 
+## Roughly after ccc vidz about rp2350
+
+- Nothing secure can be done with it by the moment the end user as 1. physical access 2. skillz
+
+what a joke 😄
+
 It's BIG, I'm BIG literaly no kidding I don't need AI. with AI I'll certainly sending ten thousands more, if it can answer me... sure thing. 😙
 
 ###### mylife on a computer?
