@@ -129,6 +129,8 @@ I read and I read and I determine... image need to be decoded scaled down and ar
 
 Why on earth do they called it an image library 😄 It's not damn it... It is not decoding anything... it just read a sample of arranged byte... It is a pixel map LOL
 
+It's sure it's not with such kind of material you gonna make ppl smarter without the skill... but dumber if they start believing such drole naming scheme :D
+
 It's BIG, I'm BIG literaly no kidding I don't need AI. with AI I'll certainly sending ten thousands more, if it can answer me... sure thing. ;D
 
 ###### mylife on a computer?
