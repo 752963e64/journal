@@ -125,6 +125,8 @@ The clock handling is pretty drole... making MCU half friendly interfaced, it's 
 
 I'm so excited to receive it. 😄
 
+I read and I read and I determine... image need to be decoded scaled down and are passed as an array of byte... I'm wondering the print speed cuz it can be interesting to operate the screen such way 😄
+
 It's BIG, I'm BIG literaly no kidding I don't need AI. with AI I'll certainly sending ten thousands more, if it can answer me... sure thing. ;D
 
 ###### mylife on a computer?
