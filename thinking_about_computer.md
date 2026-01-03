@@ -98,6 +98,6 @@ A desert strike remake!
 
 Can someone give me 100k to motivate the machine 🙂
 
-It's BIG, I'm BIG literaly.
+It's BIG, I'm BIG literaly no kidding I don't need AI. ;D
 
 ###### mylife on a computer?
