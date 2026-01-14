@@ -1,4 +1,4 @@
-# Internet
+# Internet is cancer
 
 I've been a child... and I still sometimes feeling like suffering the overload.
 
