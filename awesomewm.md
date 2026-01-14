@@ -154,7 +154,7 @@ mouse act differently between both... this is fucking disturbin
 
 **Don't try to look smart thinking you unwrap a shortcut! keep testing! even the smallest changes!**
 
-I use 2 version of awesomeWM/lua... and sadly my main WM is the oldest I need work on another machine to finish it... and it's fucking painful to make it on another machine that always **Off** unused...
+I use 2 version of awesomeWM/lua... and sadly my main WM is the oldest I need work on another machine to finish it... and it's fucking painful to make it on another machine that always **Off** unused... kind of... I'll make it and power off the host machine... that's fucking too much strange to me... 😸
 
 # Reason is getting me...
 
