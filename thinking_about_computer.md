@@ -145,4 +145,12 @@ what a joke 😄
 
 It's BIG, I'm BIG literaly no kidding I don't need AI. with AI I'll certainly sending ten thousands more, if it can answer me... sure thing. 😙
 
+## I RECEIVED IT!
+
+It's pretty tiny! the demo program shows how slow the pixel printing is for an (high def printing).
+
+The demo program shows 2 things... drawing and picture printing. drawing seems performing a little faster however printing picture show lines at printing... my eyes are clocked very high! 😸
+
+I still didn't read anything nor tried stuffs on it... I'm recovering from christmas and new year fest... My brain is in a bad state.
+
 ###### mylife on a computer?
