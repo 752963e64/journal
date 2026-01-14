@@ -8,4 +8,8 @@ Nowaday I have a cool intel soundcard 7.1 however I never used more than 2 chann
 
 Pristine sound!
 
+# what that sound
+
+I saw that Linus is very solicited in media these days... Lately he made an audionoise program on vibe coding, so now you can vibe code yourself because an icon you didn't assume does... 😸
+
 # audiothings :D
