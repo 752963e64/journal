@@ -170,6 +170,6 @@ but...
 
 - nobody asked me to make it.
 
-however I should really finish what I've started.
+however I should really finish what I've started even if it is of no use for me...
 
 # lol®
