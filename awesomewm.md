@@ -157,3 +157,19 @@ mouse act differently between both... this is fucking disturbin
 # Reason is getting me...
 
 Btw u talk to who? 😸
+
+# I should finish what I've started!
+
+but...
+
+- I don't have the need to record myself my steps dance.
+
+- awesomeWM audience is like it doesn't exist.
+
+- I'm not looking to be famous despite me 😸
+
+- nobody asked me to make it.
+
+however I should really finish what I've started.
+
+# lol®
