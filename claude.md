@@ -56,4 +56,8 @@ I had asked the program claude; if it were able to participate on my repos at gi
 
 - I just swap ideas to other shit I'm looking quietly...
 
+# Today I saw 
+
+A surprising dumbest use of CLaude AI to sort your files on your desktop...  Care to your brain in total regression, it is harmful to you only... 😸
+
 # Aaiiight!
