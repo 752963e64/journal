@@ -6,3 +6,4 @@ The skill is something that automatically happens with experiences of things you
 
 ## epilogue
 
+I dunno what level I did reach, I feel myself out of scope. It scarying me. 😸
