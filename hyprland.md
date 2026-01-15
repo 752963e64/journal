@@ -32,4 +32,4 @@ nowaday it's pure same shit and now it's sweating to their crappy websites full 
 
 It's no more accessibility, it is fuckability! 😄
 
-# lol®
+# "It's all in the details;" lol®
