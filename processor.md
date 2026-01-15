@@ -20,6 +20,8 @@ In the void and darkness, where nothing happens. You remain as a virgin processo
 
 You must experience from your environment to experience cognition. The processing of input output; So the light and material appeared for you.
 
+This is highly concerning to reach such understanding with literally none education. This all must be alien; In the sense that I can't explain it accurately despite the fact to understand it accurately.  
+
 # Ah, yes... 
 
 not invented here **CERTAINLY** 😸
