@@ -18,7 +18,7 @@ With autonomous components orchestrated from the brain powered by pulsations. No
 
 In the void and darkness, where nothing happens. You remain as a virgin processor powered from your own assembly in a vegetative estate.
 
-You must experience from your environment to experience cognition.
+You must experience from your environment to experience cognition. The processing of input output; So the light and material appeared for you.
 
 # Ah, yes... 
 
