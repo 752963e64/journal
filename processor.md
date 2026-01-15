@@ -16,7 +16,9 @@ Were already here in front your eyes, since years 😸
 
 With autonomous components orchestrated from the brain powered by pulsations. No I didn't dissect any ppl. I'm Jesus Christ undercover. 😸
 
-In the void and darkness, where nothing happens. You remain as a virgin processor powered from your own assembly.
+In the void and darkness, where nothing happens. You remain as a virgin processor powered from your own assembly in a vegetative estate.
+
+You must experience from your environment to experience cognition.
 
 # Ah, yes... 
 
