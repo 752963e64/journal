@@ -12,4 +12,6 @@ I'm forty years; I don't want to continue!
 
 I'm obliged to feel this world. Prisoner of time 😸
 
+Do you think psychiatry can help me? 😸 I'm psychiatre myself 😙
+
 # life is a feel; lol® 
