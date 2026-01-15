@@ -26,7 +26,7 @@ I'm laughing so hard finding that no real improvement has been made over years f
 
 it all mimic what we already had twenty years ago... compiz and everything from enlightenment 😸
 
-already at this time, it were technologies for compute power...(those who have money to buy a lamborgini)
+already at this time, it were technologies for compute power...(those who have money to buy a lamborgini, those who affording to split useful compute power for the useless captivating of shaking the magic stick)
 
 nowaday it's pure same shit and now it's sweating to their crappy websites full of useless effects crappy algorythms slowing down your compute power and captivating you on literally non sense... 😙
 
