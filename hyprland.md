@@ -19,3 +19,11 @@
 ## conclusion
 
 - Wayland is problematic (X11 compositors works, so it's not a problem to stick with X eleven; ELEVEN :D)
+
+# Waystuff 100% fatigued...
+
+I'm laughing so hard finding that no real improvement has been made over years for the eye candies...
+
+it all mimic what we already had twenty years ago... compiz and everything from enlightenment 😸
+
+# lol®
