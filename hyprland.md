@@ -26,4 +26,8 @@ I'm laughing so hard finding that no real improvement has been made over years f
 
 it all mimic what we already had twenty years ago... compiz and everything from enlightenment 😸
 
+already at this time, it were technologies for compute power...(those who have money to buy a lamborgini)
+
+nowaday it's pure same shit 😙
+
 # lol®
