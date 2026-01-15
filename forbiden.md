@@ -10,4 +10,6 @@ This is a fucking circus animal driven, I just want to never been born in this f
 
 I'm forty years; I don't want to continue!
 
+I'm obliged to feel this world. Prisoner of time 😸
+
 # life is a feel; lol® 
