@@ -4,6 +4,6 @@ I'm forbiden to drink, but I tricked solution! to drink! I wanna drink a truck! 
 
 I want to forget, It's painful to a level... a few could hold
 
-despite playing the role that hold it... It doesn't roam me to play the game.
+despite playing the role that hold it... It doesn't pull me to play the game. because my assumptions are so strong that It cannot push me to play that game.
 
 # lol® 
