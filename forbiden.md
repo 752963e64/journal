@@ -14,4 +14,6 @@ I'm obliged to feel this world. Prisoner of time 😸
 
 Do you think psychiatry can help me? 😸 I'm psychiatre myself 😙
 
+Regulate yourself® 😸
+
 # life is a feel; lol® 
