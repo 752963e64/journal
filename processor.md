@@ -14,8 +14,12 @@ Were already here in front your eyes, since years 😸
 
 # You are a machine
 
-With autonomous components orchestrated from the brain driven by pulsation. No I didn't dissect any ppl. I'm Jesus Christ undercover. 😸
+With autonomous components orchestrated from the brain powered by pulsations. No I didn't dissect any ppl. I'm Jesus Christ undercover. 😸
 
-Ah, yes... not invented here **CERTAINLY** 😸
+In the void and darkness, where nothing happens. You remain as virgin processor powered from your own assembly.
+
+# Ah, yes... 
+
+not invented here **CERTAINLY** 😸
 
 # lol®
