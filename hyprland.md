@@ -28,6 +28,8 @@ it all mimic what we already had twenty years ago... compiz and everything from 
 
 already at this time, it were technologies for compute power...(those who have money to buy a lamborgini)
 
-nowaday it's pure same shit 😙
+nowaday it's pure same shit and now it's sweating to their crappy websites full of useless effects... 😙
+
+It's no more accessibility, it is fuckability! 😄
 
 # lol®
